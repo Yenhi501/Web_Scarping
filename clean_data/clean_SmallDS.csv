@@ -1,0 +1,934 @@
+﻿,DiaChi,GiaBan,DuAn,DienTich(m2),TinhTrangBDS,Gia/m2,PhongNgu,PhongVeSinh,SoTang,TinhTrangGiayTo,TinhTrangNoiThat,HuongBanCong,HuongCua,DacDiem,Quan
+0,"D7, Phường Phú Hữu (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.7,Ricca,58.0,Đã bàn giao,29.31,2.0,,,,Nội thất đầy đủ,,,, Thành phố Thủ Đức
+1,"Nguyễn Hữu Thọ, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",8.0,Sunrise City,162.75,Chưa bàn giao,49.16,4.0,3.0,8.0,,,,Tây,, Quận 7
+2,"D7, Phường Phú Hữu (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.67,Ricca,56.0,Đã bàn giao,29.82,2.0,1.0,,Đã có sổ,,,,, Thành phố Thủ Đức
+3,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",2.5,Saigon Riverside Complex Q7,66.6,Đã bàn giao,37.54,2.0,2.0,30.0,,,,Bắc,, Quận 7
+4,"Nguyễn Hữu Thọ, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",6.5,Sunrise City,162.0,Đã bàn giao,40.12,3.0,3.0,,,,Đông,Tây,, Quận 7
+5,"Phạm Văn Đồng, Phường 13, Quận Bình Thạnh, Tp Hồ Chí Minh",2.55,,80.0,Chưa bàn giao,31.88,3.0,,,Đã có sổ,,,,, Quận Bình Thạnh
+6,"Long Trường, Phường Long Trường (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.98651494,Centana Điền Phúc Thành,110.8,Chưa bàn giao,35.98,3.0,,33.0,,,Tây,,, Thành phố Thủ Đức
+7,"Lê Văn Khương, Phường Thới An, Quận 12, Tp Hồ Chí Minh",1.58,,45.0,Chưa bàn giao,35.11,1.0,1.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận 12
+8,"Thạnh Xuân 13, Phường Thạnh Xuân, Quận 12, Tp Hồ Chí Minh",0.5,PiCity High Park,57.0,Chưa bàn giao,8.77,2.0,1.0,18.0,,,,Nam,, Quận 12
+9,"Đường Tân Túc, Thị trấn Tân Túc, Huyện Bình Chánh, Tp Hồ Chí Minh",3.4,,85.0,Đã bàn giao,40.0,3.0,2.0,,,,Đông Nam,,, Huyện Bình Chánh
+10,"Đỗ Xuân Hợp, Phường Phước Long B (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.9,Flora Anh Đào,54.0,Chưa bàn giao,35.19,1.0,1.0,,,,,,, Thành phố Thủ Đức
+11,"Đỗ Xuân Hợp, Phường Phước Long B (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.8,Flora Anh Đào,54.0,Chưa bàn giao,33.33,1.0,1.0,,,,,,, Thành phố Thủ Đức
+12,"278 – 283, Bến Vân Đồn, Phường 2, Quận 4, Tp Hồ Chí Minh",3.05,Grand Riverside,55.0,Đã bàn giao,55.45,1.0,1.0,,,Nhà trống,,,, Quận 4
+13,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.2,The Origami – Vinhomes Grand Park,81.5,Đã bàn giao,39.26,3.0,2.0,,,,,,Căn góc, Thành phố Thủ Đức
+14,"Long Trường, Phường Long Trường (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.549552028,Centana Điền Phúc Thành,63.4,Chưa bàn giao,40.21,2.0,1.0,7.0,,,Tây,,, Thành phố Thủ Đức
+15,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.16,Vinhomes Grand Park,59.0,Đã bàn giao,36.61,2.0,2.0,,,Bàn giao thô,,,, Thành phố Thủ Đức
+16,"KĐT Vinhomes Grand Park, Phường Long Thạnh Mỹ, Quận 9, Hồ Chí Minh, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.099694,The Beverly Solari - Vinhomes Grand Park,46.9,Chưa bàn giao,44.77,1.0,1.0,3.0,,,,,, Thành phố Thủ Đức
+17,"7A, Thoại Ngọc Hầu, Phường Hòa Thạnh, Quận Tân Phú, Tp Hồ Chí Minh",1.36,ResGreen Tower,76.0,Đã bàn giao,17.89,2.0,2.0,10.0,,,Đông Nam,Tây Bắc,, Quận Tân Phú
+18,"Thạnh Xuân 13, Phường Thạnh Xuân, Quận 12, Tp Hồ Chí Minh",2.1,PiCity High Park,58.0,Chưa bàn giao,36.21,2.0,1.0,12.0,,,,Đông,, Quận 12
+19,"Đường Song Hành, Phường Phú Hữu (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.85,Jamila Khang Điền,75.0,Đã bàn giao,38.0,2.0,2.0,,Đã có sổ,,,,, Thành phố Thủ Đức
+20,"Đường Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.72,Vinhomes Grand Park,67.0,Đã bàn giao,25.67,2.0,2.0,,Đã có sổ,Nhà trống,,,, Thành phố Thủ Đức
+21,"Hẻm 332 Đường Phan Văn Trị, Phường 11, Quận Bình Thạnh, Tp Hồ Chí Minh",2.9,,51.0,Chưa bàn giao,56.86,2.0,2.0,,Đã có sổ,Nội thất cao cấp,,,, Quận Bình Thạnh
+22,"Dương Quảng Hàm, Phường 15, Quận Gò Vấp, Tp Hồ Chí Minh",1.32,Osimi Tower,68.0,Đã bàn giao,19.41,2.0,2.0,9.0,,,Đông Nam,Tây Bắc,, Quận Gò Vấp
+23,"Số 1, Phường Trường Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.49,Lavita Charm,69.0,Đã bàn giao,21.59,2.0,2.0,15.0,,,Đông Nam,Tây Bắc,, Thành phố Thủ Đức
+24,"20, Phường Hiệp Bình Chánh (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.36,Opal Garden,76.0,Đã bàn giao,17.89,2.0,2.0,9.0,,,Đông Nam,Tây Bắc,, Thành phố Thủ Đức
+25,"Thống Nhất, Phường 11, Quận Gò Vấp, Tp Hồ Chí Minh",1.5,,45.0,Đã bàn giao,33.33,1.0,,,,,,,, Quận Gò Vấp
+26,"13B, Đường Nguyễn Văn Linh, Xã Phong Phú, Huyện Bình Chánh, Tp Hồ Chí Minh",1.9,,80.0,Đã bàn giao,23.75,3.0,2.0,,Đã có sổ,Nhà trống,,,, Huyện Bình Chánh
+27,"B2, Đường Nguyễn Đình Chiểu, Phường Đa Kao, Quận 1, Tp Hồ Chí Minh",2.4,,35.0,Đã bàn giao,68.57,1.0,1.0,3.0,,,,Nam,, Quận 1
+28,"Nguyễn Hữu Thọ, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",4.95,,106.0,Chưa bàn giao,46.7,2.0,2.0,,Đã có sổ,,Đông Bắc,,, Quận 7
+29,"D7, Phường Phú Hữu (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.75,Ricca,56.0,Đã bàn giao,31.25,2.0,2.0,,Đã có sổ,Nội thất cao cấp,,,, Thành phố Thủ Đức
+30,"Đường Võ Văn Kiệt, Phường 16, Quận 8, Tp Hồ Chí Minh",1.5,,60.0,Đã bàn giao,25.0,2.0,2.0,,,,,,, Quận 8
+31,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.899,Vinhomes Grand Park,59.0,Đã bàn giao,32.19,2.0,1.0,,,,,,, Thành phố Thủ Đức
+32,"307, Nguyễn Duy Trinh, Phường Bình Trưng Tây (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.6,,75.0,Đã bàn giao,34.67,2.0,2.0,,,Nội thất đầy đủ,,,, Thành phố Thủ Đức
+33,"Số 243, Tân Hòa Đông, Phường 14, Quận 6, Tp Hồ Chí Minh",1.28,Summer Square,68.0,Đã bàn giao,18.82,2.0,2.0,8.0,,,Đông Nam,Tây Bắc,, Quận 6
+34,"Số 2225, Phạm Thế Hiển, Phường 6, Quận 8, Tp Hồ Chí Minh",1.32,Green River - Quận 8,68.0,Đã bàn giao,19.41,2.0,2.0,9.0,,,Đông Nam,Tây Bắc,, Quận 8
+35,"Phan Anh, Phường Bình Trị Đông, Quận Bình Tân, Tp Hồ Chí Minh",1.1,,52.0,Đã bàn giao,21.15,2.0,1.0,2.0,Giấy tờ khác,,,,, Quận Bình Tân
+36,"Hoàng Văn Thụ, Phường 2, Quận Tân Bình, Tp Hồ Chí Minh",6.6,Park Legend,88.0,Đã bàn giao,75.0,3.0,2.0,14.0,,,,Tây,, Quận Tân Bình
+37,"39, Bến Vân Đồn, Phường 13, Quận 4, Tp Hồ Chí Minh",1.58,The Tresor,78.0,Đã bàn giao,20.26,2.0,2.0,8.0,,,Đông Nam,Tây Bắc,, Quận 4
+38,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",2.4,Saigon Riverside Complex Q7,66.0,Đã bàn giao,36.36,2.0,2.0,,,,,,, Quận 7
+39,"Đường Tân Chánh Hiệp 21, Phường Tân Chánh Hiệp, Quận 12, Hồ Chí Minh, Phường Tân Chánh Hiệp, Quận 12, Tp Hồ Chí Minh",1.62,Hưng Ngân Garden,56.0,Đã bàn giao,28.93,1.0,,12.0,Đã có sổ,,,,, Quận 12
+40,"Hồ Học Lãm, Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh",1.37,EHome 3,51.0,Đã bàn giao,26.86,2.0,2.0,,,,,,, Quận Bình Tân
+41,"Hồng Hà, Phường 2, Quận Tân Bình, Tp Hồ Chí Minh",3.8,Botanica Premier,69.0,Đã bàn giao,55.07,2.0,2.0,,,,,,, Quận Tân Bình
+42,"104, Phổ Quang, Phường 2, Quận Tân Bình, Tp Hồ Chí Minh",3.0,The Botanica,53.0,Chưa bàn giao,56.6,1.0,1.0,4.0,,,,,, Quận Tân Bình
+43,"119, Phổ Quang, Phường 9, Quận Phú Nhuận, Tp Hồ Chí Minh",4.3,Golden Mansion,75.0,Đã bàn giao,57.33,2.0,2.0,10.0,,,,,, Quận Phú Nhuận
+44,"Khu số 15A1, Nguyễn Hữu Thọ, Xã Phước Kiển, Huyện Nhà Bè, Tp Hồ Chí Minh",3.6,Dragon Hill Residence And Suites 1,119.5,Đã bàn giao,30.13,3.0,2.0,,Đã có sổ,Nhà trống,,,, Huyện Nhà Bè
+45,"Đường Tân Chánh Hiệp 21, Phường Tân Chánh Hiệp, Quận 12, Hồ Chí Minh, Phường Tân Chánh Hiệp, Quận 12, Tp Hồ Chí Minh",2.05,Hưng Ngân Garden,68.0,Đã bàn giao,30.15,2.0,2.0,16.0,,,,Bắc,, Quận 12
+46,"Số 18, Gò Dưa, Phường Hiệp Bình Phước (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.96,Sunview Town,58.0,Đã bàn giao,33.79,2.0,2.0,,,,Đông Nam,,, Thành phố Thủ Đức
+47,"6, 18, Phường Hiệp Bình Chánh (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.9,,54.0,Chưa bàn giao,35.19,2.0,2.0,,,,Nam,Đông Nam,, Thành phố Thủ Đức
+48,"819, Hương lộ 2, Phường Bình Trị Đông A, Quận Bình Tân, Tp Hồ Chí Minh",2.2,Saigon Homes Bình Tân,80.0,Đã bàn giao,27.5,3.0,,,,Nhà trống,,Đông Nam,Căn góc, Quận Bình Tân
+49,"Ni Sư Huỳnh Liên, Phường 10, Quận Tân Bình, Tp Hồ Chí Minh",2.9,,70.0,Đã bàn giao,41.43,2.0,2.0,8.0,,,,Tây,, Quận Tân Bình
+50,"Tân Chánh Hiệp, Phường Tân Chánh Hiệp, Quận 12, Tp Hồ Chí Minh",1.85,Hưng Ngân Garden,68.0,Đã bàn giao,27.21,2.0,2.0,18.0,,,,Nam,, Quận 12
+51,"119, Phổ Quang, Phường 9, Quận Phú Nhuận, Tp Hồ Chí Minh",7.0,Golden Mansion,105.0,Đã bàn giao,66.67,3.0,2.0,20.0,,,,Nam,, Quận Phú Nhuận
+52,"Nguyễn Xiển, Phường Long Bình (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.05,Lumiere Boulevard,55.0,Chưa bàn giao,19.09,1.0,1.0,,,,,,, Thành phố Thủ Đức
+53,"Phan Văn Trị, Phường 10, Quận Gò Vấp, Tp Hồ Chí Minh",3.6,,75.0,Đã bàn giao,48.0,2.0,2.0,,Đã có sổ,,,,, Quận Gò Vấp
+54,"36 36 Đường Trịnh Đình Thảo, Phường Hòa Thạnh, Tân Phú, Hồ Chí Minh, Phường Hòa Thạnh, Quận Tân Phú, Tp Hồ Chí Minh",2.05,Lotus Garden,80.0,Đã bàn giao,25.63,3.0,2.0,,Đã có sổ,,Đông Nam,,, Quận Tân Phú
+55,"Số 207, Nguyễn Xí, Phường 26, Quận Bình Thạnh, Tp Hồ Chí Minh",3.0,Richmond City,66.0,Đã bàn giao,45.45,2.0,,,,,,,, Quận Bình Thạnh
+56,"Long Trường, Phường Long Trường (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.8,Centana Điền Phúc Thành,100.0,Chưa bàn giao,38.0,2.0,1.0,,,,,,, Thành phố Thủ Đức
+57,"Đường Số 20, Phường Hiệp Bình Chánh (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.7,,68.0,Đã bàn giao,25.0,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Thành phố Thủ Đức
+58,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",3.25,Celadon City,71.0,Đã bàn giao,45.77,2.0,2.0,,Đang chờ sổ,Nhà trống,,,, Quận Tân Phú
+59,"Phạm Hữu Lầu, Phường Phú Mỹ, Quận 7, Tp Hồ Chí Minh",2.3,Belleza Apartment,88.0,Đã bàn giao,26.14,2.0,2.0,,,,Đông Nam,Tây Bắc,, Quận 7
+60,"Phạm Hữu Lầu, Phường Phú Mỹ, Quận 7, Tp Hồ Chí Minh",3.05,Belleza Apartment,124.0,Đã bàn giao,24.6,3.0,2.0,,,,Đông Bắc,Đông Nam,, Quận 7
+61,"Phạm Hữu Lầu, Phường Phú Mỹ, Quận 7, Tp Hồ Chí Minh",2.15,Belleza Apartment,76.0,Đã bàn giao,28.29,2.0,2.0,,,,Đông Bắc,Đông Nam,, Quận 7
+62,"Phạm Hữu Lầu, Phường Phú Mỹ, Quận 7, Tp Hồ Chí Minh",1.55,Belleza Apartment,45.0,Đã bàn giao,34.44,1.0,1.0,,,,Đông Nam,Tây Bắc,, Quận 7
+63,"Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",1.55,Saigon Pearl,80.0,Đã bàn giao,19.38,2.0,2.0,17.0,,,,,, Quận Bình Thạnh
+64,"Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Tp Hồ Chí Minh",1.8,Tecco Green Nest,58.0,Đã bàn giao,31.03,2.0,2.0,8.0,,,Đông Nam,,, Quận 12
+65,"Số 504, Nguyễn Tất Thành, Phường 18, Quận 4, Tp Hồ Chí Minh",3.79,Riva Park,80.0,Đã bàn giao,47.38,2.0,2.0,,Đã có sổ,,,,, Quận 4
+66,"đường Tân Chánh Hiệp 21, Phường Tân Chánh Hiệp, Quận 12, Tp Hồ Chí Minh",1.9,Hưng Ngân Garden,73.0,Đã bàn giao,26.03,2.0,2.0,16.0,,,,Bắc,, Quận 12
+67,"Phạm Văn Đồng, Phường Hiệp Bình Chánh (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.3,St Moritz,78.0,Đã bàn giao,55.13,2.0,2.0,,,,,,, Thành phố Thủ Đức
+68,"Mai Chí Thọ, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.45,Lexington Residence,82.0,Đã bàn giao,42.07,2.0,2.0,,,,Đông,Tây,, Thành phố Thủ Đức
+69,"961, Đường Hậu Giang, Phường 11, Quận 6, Tp Hồ Chí Minh",2.6,,83.0,Đã bàn giao,31.33,2.0,2.0,15.0,,,,Tây Bắc,, Quận 6
+70,"Lô A1, Tân Hưng, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",1.45,Florita,78.0,Đã bàn giao,18.59,2.0,2.0,,,,,,, Quận 7
+71,"Số 207, Nguyễn Xí, Phường 26, Quận Bình Thạnh, Tp Hồ Chí Minh",1.39,Richmond City,65.0,Đã bàn giao,21.38,2.0,1.0,15.0,,,,Đông,, Quận Bình Thạnh
+72,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",2.3,Saigon Riverside Complex Q7,73.0,Đã bàn giao,31.51,2.0,2.0,,,,,,, Quận 7
+73,"Xa Lộ Hà Nội, Phường Hiệp Phú (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.8,Saigon Gateway,57.0,Đã bàn giao,31.58,2.0,1.0,,,,,,, Thành phố Thủ Đức
+74,"Hồng Hà, Phường 2, Quận Tân Bình, Tp Hồ Chí Minh",4.65,Botanica Premier,69.0,Đã bàn giao,67.39,2.0,2.0,,,,,,, Quận Tân Bình
+75,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",1.85,Saigon Riverside Complex Q7,53.0,Đã bàn giao,34.91,1.0,1.0,,,,,,, Quận 7
+76,"Đường Nguyễn Phúc Nguyên, Phường 10, Quận 3, Tp Hồ Chí Minh",3.85,,81.9,Đã bàn giao,47.01,2.0,2.0,10.0,,,Đông Bắc,Tây Nam,, Quận 3
+77,"Thạnh Xuân 13, Phường Thạnh Xuân, Quận 12, Tp Hồ Chí Minh",2.39,PiCity High Park,58.0,Đã bàn giao,41.21,2.0,,8.0,Đang chờ sổ,,,,, Quận 12
+78,"Hẻm C6-C7-C8 Đường Lê Văn Việt, Phường Tăng Nhơn Phú A (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.67,,58.0,Đã bàn giao,28.79,1.0,1.0,7.0,Đã có sổ,,,,, Thành phố Thủ Đức
+79,"1002, Tạ Quang Bửu, Phường 6, Quận 8, Tp Hồ Chí Minh",3.05,,68.68,Đã bàn giao,44.41,2.0,2.0,20.0,,,Tây Bắc,Đông Nam,, Quận 8
+80,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",1.55,Celadon City,72.0,Đã bàn giao,21.53,2.0,2.0,,,,,,, Quận Tân Phú
+81,"Phạm Văn Đồng, Phường Linh Tây (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.4,Flora Novia,60.0,Đã bàn giao,40.0,2.0,2.0,,,,,,, Thành phố Thủ Đức
+82,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.67,Vinhomes Grand Park,69.0,Chưa bàn giao,24.2,2.0,2.0,19.0,,,,Đông Nam,, Thành phố Thủ Đức
+83,"Hẻm 219 Đường Số 5, Phường Bình Hưng Hòa, Quận Bình Tân, Tp Hồ Chí Minh",1.68,,63.0,Đã bàn giao,26.67,2.0,1.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận Bình Tân
+84,"Đường Hồ Văn Long, Phường Tân Tạo, Quận Bình Tân, Tp Hồ Chí Minh",0.65,,34.0,Đã bàn giao,19.12,1.0,1.0,8.0,,,,,, Quận Bình Tân
+85,"Đường Phú Thuận, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",2.4,,93.0,Đã bàn giao,25.81,2.0,2.0,10.0,,,Đông,Tây,, Quận 7
+86,"Lô đất S1-2, Tân Phú, Phường Tân Phú, Quận 7, Tp Hồ Chí Minh",6.35,Cảnh Viên 2,118.0,Đã bàn giao,53.81,3.0,2.0,2.0,,,,Đông Bắc,, Quận 7
+87,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",1.93,Saigon Riverside Complex Q7,68.0,Chưa bàn giao,28.38,2.0,2.0,,,,,,, Quận 7
+88,"7A, Đường Bờ Bao Tân Thắng, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",1.75,,57.0,Đã bàn giao,30.7,1.0,,3.0,,,Đông Nam,Nam,, Quận Tân Phú
+89,"Vinhome Grand Park, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.254,,59.0,Chưa bàn giao,55.15,2.0,,,,,,,, Thành phố Thủ Đức
+90,"Lê Văn Lương, Xã Nhơn Đức, Huyện Nhà Bè, Tp Hồ Chí Minh",2.8,La Partenza,78.0,Chưa bàn giao,35.9,2.0,2.0,,Đã có sổ,,,,, Huyện Nhà Bè
+91,"205, Lạc Long Quân, Phường 3, Quận 11, Tp Hồ Chí Minh",1.51,Cao ốc RES 11 (Residence Eleven),70.0,Đã bàn giao,21.57,2.0,2.0,,,,,,, Quận 11
+92,"Đường Võ Văn Kiệt, Phường An Lạc, Quận Bình Tân, TP. Hồ Chí Minh, Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh",2.4,Akari City,56.0,Chưa bàn giao,42.86,2.0,2.0,,Đang chờ sổ,Nhà trống,,,, Quận Bình Tân
+93,"Tô Ký, Phường Tân Chánh Hiệp, Quận 12, Tp Hồ Chí Minh",1.6,Chung cư Đông Hải,63.0,Đã bàn giao,25.4,2.0,2.0,14.0,,,,Đông Bắc,, Quận 12
+94,"Đường Nguyễn Văn Linh, Xã Phong Phú, Huyện Bình Chánh, Tp Hồ Chí Minh",1.95,,77.0,Đã bàn giao,25.32,2.0,2.0,4.0,,,,,, Huyện Bình Chánh
+95,"Đường Đào Trinh Nhất, Phường Linh Tây (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",0.25,,53.0,Chưa bàn giao,4.72,2.0,2.0,,,,Đông Nam,Tây Bắc,, Thành phố Thủ Đức
+96,"Tân Chánh Hiệp, Phường Tân Chánh Hiệp, Quận 12, Tp Hồ Chí Minh",1.95,Hưng Ngân Garden,68.0,Đã bàn giao,28.68,2.0,2.0,16.0,,,,,, Quận 12
+97,"265-197, 265-197 Đường số 9A, Khu chức năng 6A, Khu dân cư Trung Sơn, Xã Bình Hưng, Huyện Bình Chánh, TP Hồ Chí Minh, Xã Bình Hưng, Huyện Bình Chánh, Tp Hồ Chí Minh",3.5,Saigon Mia,78.0,Đã bàn giao,44.87,2.0,2.0,,,,,,Căn góc, Huyện Bình Chánh
+98,"9A, Thạnh Xuân 13, Phường Thạnh Xuân, Quận 12, Tp Hồ Chí Minh",2.035,PiCity High Park,58.0,Đã bàn giao,35.09,2.0,1.0,,,,,,, Quận 12
+99,"Số 504, Nguyễn Tất Thành, Phường 18, Quận 4, Tp Hồ Chí Minh",1.47,Riva Park,82.0,Đã bàn giao,17.93,2.0,2.0,,,,,,, Quận 4
+100,"Võ Văn Kiệt, Phường 16, Quận 8, Tp Hồ Chí Minh",1.9,City Gate Towers,73.0,Chưa bàn giao,26.03,2.0,2.0,,,,,,, Quận 8
+101,"Phạm Văn Đồng, Phường Linh Tây (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.3,Flora Novia,56.0,Đã bàn giao,41.07,2.0,1.0,,,,,,, Thành phố Thủ Đức
+102,"Võ Văn Kiệt, Phường 16, Quận 8, Tp Hồ Chí Minh",2.5,Diamond Riverside (City Gate Towers 2),78.0,Đã bàn giao,32.05,2.0,2.0,8.0,,,,Bắc,, Quận 8
+103,"195, Cao Lỗ, Phường 4, Quận 8, Tp Hồ Chí Minh",1.41,Topaz City,79.0,Đã bàn giao,17.85,2.0,2.0,,,,,,, Quận 8
+104,"10A, 10A Đường Tô Ký, Phường Trung Mỹ Tây, Quận 12, Tp Hồ Chí Minh",2.1,Toky Tower,61.0,Đã bàn giao,34.43,2.0,2.0,12.0,,,,Tây,, Quận 12
+105,"10A, Tô Ký, Phường Trung Mỹ Tây, Quận 12, Tp Hồ Chí Minh",2.1,Toky Tower,61.0,Đã bàn giao,34.43,2.0,2.0,11.0,,,,,, Quận 12
+106,"Nguyễn Xiển, Phường Long Bình (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.5,Lumiere Boulevard,70.0,Chưa bàn giao,64.29,2.0,,,,,,,, Thành phố Thủ Đức
+107,"334, Tô Hiến Thành, Phường 14, Quận 10, Tp Hồ Chí Minh",5.1,Kingdom 101,71.84,Đã bàn giao,70.99,2.0,2.0,22.0,,,,,, Quận 10
+108,"Đường Hồ Văn Long, Phường Tân Tạo, Quận Bình Tân, Tp Hồ Chí Minh",0.65,,34.0,Chưa bàn giao,19.12,2.0,1.0,1.0,,,,Đông,, Quận Bình Tân
+109,"Lô 5, Bình Hưng Hòa B, Phường Bình Hưng Hoà B, Quận Bình Tân, Tp Hồ Chí Minh",2.05,Green Town Bình Tân,68.0,Đã bàn giao,30.15,2.0,2.0,,,,,,, Quận Bình Tân
+110,"Số 9A, đường Thạnh Xuân 13, phường Thạnh Xuân, Quận 12, TP.HCM, Phường Thạnh Xuân, Quận 12, Tp Hồ Chí Minh",2.15,PiCity High Park,58.0,Đã bàn giao,37.07,2.0,1.0,5.0,,,,Đông,, Quận 12
+111,"16, Âu Cơ, Phường Tân Sơn Nhì, Quận Tân Phú, Tp Hồ Chí Minh",2.6,Melody Residences,69.0,Chưa bàn giao,37.68,2.0,2.0,,Giấy tờ khác,,,,, Quận Tân Phú
+112,"83, Lý Chính Thắng, Phường Võ Thị Sáu, Quận 3, Tp Hồ Chí Minh",1.65,Terra Royal,72.0,Đã bàn giao,22.92,2.0,2.0,,,,,,, Quận 3
+113,"Lô 5, Bình Hưng Hòa B, Phường Bình Hưng Hoà B, Quận Bình Tân, Tp Hồ Chí Minh",1.65,Green Town Bình Tân,53.0,Đã bàn giao,31.13,2.0,1.0,,,,,,Căn góc, Quận Bình Tân
+114,"79-81, Nguyễn Xí, Phường 26, Quận Bình Thạnh, Tp Hồ Chí Minh",1.46,Saigonres Plaza,68.0,Đã bàn giao,21.47,2.0,1.0,9.0,,,,Tây,, Quận Bình Thạnh
+115,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",2.95,Celadon City,78.0,Đã bàn giao,37.82,2.0,2.0,,,,,,, Quận Tân Phú
+116,"Số 207, Nguyễn Xí, Phường 26, Quận Bình Thạnh, Tp Hồ Chí Minh",1.86,Richmond City,86.0,Chưa bàn giao,21.63,3.0,2.0,15.0,,,,Nam,, Quận Bình Thạnh
+117,"346, 346 346 Bến Vân Đồn, Phường 1, Quận 4, Hồ Chí Minh, Phường 1, Quận 4, Tp Hồ Chí Minh",3.5,The Gold View,70.0,Đã bàn giao,50.0,2.0,,,,,,,, Quận 4
+118,"1, Đường Nghĩa Phát, Phường 6, Quận Tân Bình, Tp Hồ Chí Minh",0.88889,,28.0,Đã bàn giao,31.75,1.0,1.0,,Đã có sổ,Nhà trống,,,, Quận Tân Bình
+119,"90A, 90A 90A Lý Thường Kiệt, Phường 14, Quận 10, Hồ Chí Minh, Phường 14, Quận 10, Tp Hồ Chí Minh",1.48,Xi Grand Court,70.0,Đã bàn giao,21.14,2.0,2.0,,,,,,, Quận 10
+120,"Bình Hưng Hòa A, Phường Bình Hưng Hoà B, Quận Bình Tân, Tp Hồ Chí Minh",1.4,Green Hills Bình Tân,49.0,Đã bàn giao,28.57,1.0,1.0,,Đã có sổ,,,,, Quận Bình Tân
+121,"Nguyễn Xiển, Phường Long Bình (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.5,Lumiere Boulevard,80.0,Chưa bàn giao,56.25,2.0,2.0,,Giấy tờ khác,Nội thất đầy đủ,,,, Thành phố Thủ Đức
+122,"Nội khu dự án Vinhomes Grand Park- đường Nguyễn Xiển, Phường Long Thạnh Mỹ, Quận 9, TP HCM., Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",0.45,The Origami – Vinhomes Grand Park,69.0,Đã bàn giao,6.52,2.0,2.0,,,,Đông Nam,Đông Bắc,, Thành phố Thủ Đức
+123,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.7,The Origami – Vinhomes Grand Park,59.0,Đã bàn giao,45.76,2.0,2.0,,,,,,Căn góc, Thành phố Thủ Đức
+124,"Số 200, 12, Phường 12, Quận 10, Tp Hồ Chí Minh",1.96,Hà Đô Centrosa Garden,86.0,Đã bàn giao,22.79,2.0,2.0,,,,,,, Quận 10
+125,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",2.9,Celadon City,78.0,Đã bàn giao,37.18,3.0,2.0,,,,,,, Quận Tân Phú
+126,"Số 504, Nguyễn Tất Thành, Phường 18, Quận 4, Tp Hồ Chí Minh",3.4,Riva Park,80.0,Đã bàn giao,42.5,2.0,2.0,,,,,,, Quận 4
+127,"Số 207, Nguyễn Xí, Phường 26, Quận Bình Thạnh, Tp Hồ Chí Minh",1.46,Richmond City,66.0,Đã bàn giao,22.12,2.0,2.0,,,,,,, Quận Bình Thạnh
+128,"Võ Văn Kiệt, Phường 16, Quận 8, Tp Hồ Chí Minh",1.43,Diamond Riverside (City Gate Towers 2),72.0,Đã bàn giao,19.86,2.0,2.0,,,,,,, Quận 8
+129,"Đường Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",1.7,Jamona City,60.0,Đã bàn giao,28.33,2.0,1.0,,,,,,, Quận 7
+130,"Khu đô thị Cityland Park Hills - Số 18, Phan Văn Trị, Phường 10, Quận Gò Vấp, Tp Hồ Chí Minh",4.2,Căn hộ Cityland Parkhill Gò Vấp,76.0,Đã bàn giao,55.26,2.0,2.0,,Đã có sổ,,,,, Quận Gò Vấp
+131,"KĐT Vinhomes Grand Park, Phường Long Thạnh Mỹ, Quận 9, Hồ Chí Minh, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",5.408,The Beverly Solari - Vinhomes Grand Park,78.9,Chưa bàn giao,68.54,2.0,2.0,33.0,,,,Tây Bắc,, Thành phố Thủ Đức
+132,"118, Tân Hương, Phường Tân Quý, Quận Tân Phú, Tp Hồ Chí Minh",1.85,Tân Hương Tower,71.0,Đã bàn giao,26.06,2.0,2.0,,,,,,, Quận Tân Phú
+133,"Võ Chí Công, Phường Phú Hữu (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.37,Safira Khang Điền (Sapphire Khang Điền),68.0,Đã bàn giao,20.15,2.0,2.0,,,,,,, Thành phố Thủ Đức
+134,"49, 8, Phường 8, Quận 8, Tp Hồ Chí Minh",3.3,Diamond Lotus Riverside,58.0,Đã bàn giao,56.9,2.0,1.0,,,,,,, Quận 8
+135,"49, 8, Phường 8, Quận 8, Tp Hồ Chí Minh",2.68,Diamond Lotus Riverside,50.0,Đã bàn giao,53.6,1.0,1.0,,,,,,, Quận 8
+136,"49, 8, Phường 8, Quận 8, Tp Hồ Chí Minh",2.65,Diamond Lotus Riverside,50.0,Đã bàn giao,53.0,1.0,1.0,,,,,,, Quận 8
+137,"Võ Văn Kiệt, Phường 16, Quận 8, Tp Hồ Chí Minh",1.38,Diamond Riverside (City Gate Towers 2),71.0,Đã bàn giao,19.44,2.0,2.0,,Đã có sổ,Nội thất cao cấp,,,, Quận 8
+138,"16, Phổ Quang, Phường 2, Quận Tân Bình, Tp Hồ Chí Minh",1.57,Sky Center,74.0,Đã bàn giao,21.22,2.0,2.0,,Đã có sổ,Nội thất cao cấp,,,, Quận Tân Bình
+139,"Nguyễn Hữu Thọ, Xã Phước Kiển, Huyện Nhà Bè, Tp Hồ Chí Minh",2.9,Hoàng Anh Gold House (Hoàng Anh An Tiến),121.0,Đã bàn giao,23.97,3.0,2.0,23.0,,,,Tây,, Huyện Nhà Bè
+140,"Bùi Hữu Nghĩa, Phường 2, Quận Bình Thạnh, Tp Hồ Chí Minh",1.69,Chung cư Mỹ Phước,81.0,Đã bàn giao,20.86,2.0,2.0,9.0,Đã có sổ,,,,, Quận Bình Thạnh
+141,"83, Lý Chính Thắng, Phường Võ Thị Sáu, Quận 3, Tp Hồ Chí Minh",1.65,Terra Royal,71.0,Đã bàn giao,23.24,2.0,2.0,,Đã có sổ,Nội thất cao cấp,,,, Quận 3
+142,"20, Phường Hiệp Bình Chánh (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.58,Opal Garden,78.0,Đã bàn giao,20.26,2.0,2.0,,Đã có sổ,Nội thất cao cấp,,,, Thành phố Thủ Đức
+143,"Đường Thành Thái, Phường 14, Quận 10, Tp Hồ Chí Minh",1.795,,88.0,Đã bàn giao,20.4,2.0,2.0,,,,,,, Quận 10
+144,"Đường Phổ Quang, Phường 2, Quận Tân Bình, Tp Hồ Chí Minh",1.675,,74.0,Đã bàn giao,22.64,2.0,1.0,,,,,,, Quận Tân Bình
+145,"Đường Xuân Quỳnh, Phường Phước Long B (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.27,,66.0,Đã bàn giao,19.24,2.0,2.0,,Đã có sổ,,,,, Thành phố Thủ Đức
+146,"NGÔ TẤT TỐ, Phường 21, Quận Bình Thạnh, Tp Hồ Chí Minh",1.58,,70.0,Đã bàn giao,22.57,2.0,1.0,,,,,,, Quận Bình Thạnh
+147,"hồng hà, Phường 2, Quận Tân Bình, Tp Hồ Chí Minh",1.43,,69.0,Đã bàn giao,20.72,2.0,2.0,,,,,,, Quận Tân Bình
+148,"Đường Thanh Đa, Phường 27, Quận Bình Thạnh, Tp Hồ Chí Minh",0.7,,30.0,Đã bàn giao,23.33,1.0,1.0,3.0,,,,,, Quận Bình Thạnh
+149,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.1,Vinhomes Grand Park,59.0,Chưa bàn giao,35.59,2.0,1.0,25.0,,,Đông Bắc,,, Thành phố Thủ Đức
+150,"D7, Phường Phú Hữu (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.75,Ricca,56.0,Đã bàn giao,31.25,1.0,1.0,,Đã có sổ,Nhà trống,,,, Thành phố Thủ Đức
+151,"239 – 241 – 278, Hòa Bình, Phường Hiệp Tân, Quận Tân Phú, Tp Hồ Chí Minh",3.5,Căn hộ RichStar,84.0,Đã bàn giao,41.67,3.0,2.0,,,,,,, Quận Tân Phú
+152,"47, Tân Thới Hòa, Phường Tân Thới Hòa, Quận Tân Phú, Tp Hồ Chí Minh",3.05,Carillon 7,71.0,Đã bàn giao,42.96,2.0,2.0,,,,,,, Quận Tân Phú
+153,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.199,Vinhomes Grand Park,59.0,Chưa bàn giao,37.27,2.0,1.0,10.0,,,,Bắc,, Thành phố Thủ Đức
+154,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",2.999,Celadon City,63.0,Đã bàn giao,47.6,2.0,1.0,,,,,,, Quận Tân Phú
+155,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",3.15,Celadon City,63.0,Đã bàn giao,50.0,2.0,1.0,,,,,,, Quận Tân Phú
+156,"Vũ Huy Tấn, Phường 3, Quận Bình Thạnh, Tp Hồ Chí Minh",2.5,Chung cư Miếu Nổi,51.3,Đã bàn giao,48.73,2.0,1.0,1.0,,,,Tây,, Quận Bình Thạnh
+157,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",4.3,Celadon City,84.0,Đã bàn giao,51.19,2.0,2.0,,Đang chờ sổ,Nội thất cao cấp,,,, Quận Tân Phú
+158,"2, Trương Đăng Quế, Phường 3, Quận Gò Vấp, Tp Hồ Chí Minh",1.63,Sunny Plaza,60.0,Đã bàn giao,27.17,2.0,2.0,,,,,,, Quận Gò Vấp
+159,"Số 200, 12, Phường 12, Quận 10, Tp Hồ Chí Minh",1.55,Hà Đô Centrosa Garden,68.0,Đã bàn giao,22.79,2.0,2.0,,,,,,, Quận 10
+160,"195, Cao Lỗ, Phường 4, Quận 8, Tp Hồ Chí Minh",1.21,Topaz City,75.0,Đã bàn giao,16.13,2.0,2.0,,,,,,, Quận 8
+161,"153 – 161, Lương Nhữ Học, Phường 11, Quận 5, Tp Hồ Chí Minh",1.44,Chung cư Sao Mai,91.0,Đã bàn giao,15.82,2.0,2.0,,,,,,, Quận 5
+162,"Bình An, Phường An Khánh (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.73,The River Thủ Thiêm,84.0,Đã bàn giao,20.6,2.0,2.0,,,,,,, Thành phố Thủ Đức
+163,"Số 504, Nguyễn Tất Thành, Phường 18, Quận 4, Tp Hồ Chí Minh",1.24,Riva Park,81.0,Đã bàn giao,15.31,2.0,2.0,,,,,,, Quận 4
+164,"Trường Sa, Phường 12, Quận 3, Tp Hồ Chí Minh",1.22,Screc Tower,52.0,Đã bàn giao,23.46,2.0,2.0,,,,,,, Quận 3
+165,"Số 504, Số 504 đường Nguyễn Tất Thành, Phường 18, Quận 4, Tp Hồ Chí Minh",3.45,Riva Park,80.0,Đã bàn giao,43.13,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận 4
+166,"196, Cao Lỗ, Phường 4, Quận 8, Tp Hồ Chí Minh",2.38,Topaz Elite,66.0,Đã bàn giao,36.06,2.0,2.0,,,,,,, Quận 8
+167,"Đường Linh Trung, Phường Linh Trung (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.45,,55.0,Đã bàn giao,26.36,2.0,2.0,12.0,,,,Nam,, Thành phố Thủ Đức
+168,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",2.43,Saigon Riverside Complex Q7,66.0,Đã bàn giao,36.82,2.0,,,,,,,, Quận 7
+169,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",2.69,Celadon City,70.0,Đã bàn giao,38.43,2.0,2.0,,,,,,, Quận Tân Phú
+170,"13, Xã Phước Kiển, Huyện Nhà Bè, Tp Hồ Chí Minh",5.588,Essensia Nam Sài Gòn,80.0,Chưa bàn giao,69.85,2.0,2.0,20.0,,,,Tây Nam,, Huyện Nhà Bè
+171,"Nguyễn Hữu Thọ, Xã Phước Kiển, Huyện Nhà Bè, Tp Hồ Chí Minh",5.58,Celesta Heights,80.0,Chưa bàn giao,69.75,2.0,2.0,20.0,,,,Tây Nam,, Huyện Nhà Bè
+172,"Lê Đại Hành, Phường 15, Quận 11, Tp Hồ Chí Minh",2.2,The EverRich I,82.0,Đã bàn giao,26.83,2.0,2.0,15.0,Đã có sổ,,,,, Quận 11
+173,"39, Bến Vân Đồn, Phường 13, Quận 4, Tp Hồ Chí Minh",2.3,The Tresor,78.0,Đã bàn giao,29.49,2.0,2.0,15.0,Đã có sổ,,,,, Quận 4
+174,"11, Phường 11, Quận 6, Tp Hồ Chí Minh",1.9,Him Lam Chợ Lớn,82.0,Đã bàn giao,23.17,2.0,2.0,16.0,Đang chờ sổ,,,,, Quận 6
+175,"13, Xã Phước Kiển, Huyện Nhà Bè, Tp Hồ Chí Minh",5.2,Essensia Nam Sài Gòn,81.0,Chưa bàn giao,64.2,2.0,2.0,,Giấy tờ khác,,,Bắc,, Huyện Nhà Bè
+176,"Số 4, Song Hành, Phường Phú Hữu (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.7,Jamila Khang Điền,75.0,Đã bàn giao,22.67,2.0,2.0,11.0,Đã có sổ,,,,, Thành phố Thủ Đức
+177,"15B, Phường Phú Mỹ, Quận 7, Tp Hồ Chí Minh",1.4,The Era Town (A1 Riverside),59.0,Đã bàn giao,23.73,1.0,,,,,,,, Quận 7
+178,"334, Tô Hiến Thành, Phường 14, Quận 10, Tp Hồ Chí Minh",1.9,Kingdom 101,72.0,Đã bàn giao,26.39,2.0,,12.0,Đang chờ sổ,,Đông Nam,,, Quận 10
+179,"Khu phố 3, Xa Lộ Hà Nội, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.1,The Estella,79.0,Đã bàn giao,26.58,2.0,2.0,15.0,,,Đông Nam,,, Thành phố Thủ Đức
+180,"Số 207, Nguyễn Xí, Phường 26, Quận Bình Thạnh, Tp Hồ Chí Minh",2.05,Richmond City,66.0,Đã bàn giao,31.06,2.0,2.0,11.0,,,Đông Nam,,, Quận Bình Thạnh
+181,"Nguyễn Hữu Thọ, Xã Phước Kiển, Huyện Nhà Bè, Tp Hồ Chí Minh",5.58,Celesta Rise,80.0,Chưa bàn giao,69.75,2.0,2.0,20.0,,,,Tây Nam,, Huyện Nhà Bè
+182,"Hoàng Văn Thụ, Phường 4, Quận Tân Bình, Tp Hồ Chí Minh",16.0,,92.6,Đã bàn giao,172.79,10.0,6.0,,Đã có sổ,Nội thất cao cấp,,,, Quận Tân Bình
+183,"Số 59, Số 59 Số 59 Đường Ngô Tất Tố, Phường 21, Bình Thạnh, Hồ Chí Minh, Phường 21, Quận Bình Thạnh, Tp Hồ Chí Minh",1.2,City Garden,80.0,Đã bàn giao,15.0,1.0,1.0,6.0,,,,Đông Nam,, Quận Bình Thạnh
+184,"Lô 5, Bình Hưng Hòa B, Phường Bình Hưng Hoà B, Quận Bình Tân, Tp Hồ Chí Minh",1.4,Green Town Bình Tân,49.0,Chưa bàn giao,28.57,1.0,1.0,,,,,,, Quận Bình Tân
+185,"Đường Tạ Quang Bửu, Phường 2, Quận 8, Tp Hồ Chí Minh",1.7,,10.0,Đã bàn giao,170.0,2.0,,,Đã có sổ,,,,, Quận 8
+186,"7/28, Thành Thái, Phường 14, Quận 10, Tp Hồ Chí Minh",4.2,Rivera Park Sài Gòn,74.0,Đã bàn giao,56.76,2.0,2.0,,,,,,, Quận 10
+187,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.15,The Origami – Vinhomes Grand Park,59.0,Đã bàn giao,36.44,2.0,2.0,10.0,,,,,, Thành phố Thủ Đức
+188,"Xa Lộ Hà Nội, Phường Thảo Điền (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",5.0,Masteri Thảo Điền,71.0,Đã bàn giao,70.42,2.0,2.0,,,,,,, Thành phố Thủ Đức
+189,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.29,The Origami – Vinhomes Grand Park,91.0,Đã bàn giao,36.15,3.0,,,,,,,Căn góc, Thành phố Thủ Đức
+190,"208, Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",3.1,Vinhomes Central Park,74.0,Đã bàn giao,41.89,2.0,2.0,12.0,,,,,, Quận Bình Thạnh
+191,"Võ Văn Ngân, Phường Bình Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",7.6,King Crown Infinity,81.0,Chưa bàn giao,93.83,2.0,,,,,,,, Thành phố Thủ Đức
+192,"Đường Hòa Bình, Phường Hiệp Tân, Quận Tân Phú, Tp Hồ Chí Minh",1.8,,10.0,Đã bàn giao,180.0,2.0,,,Đã có sổ,,,,, Quận Tân Phú
+193,"Số 628, Xa Lộ Hà Nội, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.4,The Vista An Phú,114.0,Đã bàn giao,29.82,2.0,,12.0,,,,,, Thành phố Thủ Đức
+194,"2, 2 110A Đường Phạm Văn Đồng, Phường 3, Gò Vấp, Hồ Chí Minh, Phường 3, Quận Gò Vấp, Tp Hồ Chí Minh",3.0,Sunny Plaza,72.0,Chưa bàn giao,41.67,2.0,2.0,,,,,,, Quận Gò Vấp
+195,"Số 34-35, Bến Vân Đồn, Phường 13, Quận 4, Tp Hồ Chí Minh",1.5,Saigon Royal Residence,62.0,Đã bàn giao,24.19,2.0,2.0,,Đã có sổ,Nhà trống,,,, Quận 4
+196,"89, Hoàng Quốc Việt, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",2.85,,69.5,Đã bàn giao,41.01,2.0,2.0,6.0,,,,Bắc,, Quận 7
+197,"Đường Số 6D, Phường Phước Bình (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.4,,46.7,Đã bàn giao,29.98,1.0,1.0,,Đã có sổ,,,,, Thành phố Thủ Đức
+198,"Nguyễn Cơ Thạch, Phường Thủ Thiêm (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",18.5,Thu Thiem Zeit River,135.0,Chưa bàn giao,137.04,3.0,2.0,18.0,,,,Tây,, Thành phố Thủ Đức
+199,"Nguyễn Thị Định, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.0,Căn hộ D’Lusso,76.0,Đã bàn giao,52.63,2.0,2.0,,,,,,, Thành phố Thủ Đức
+200,"Phạm Văn Đồng, Phường Linh Tây (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.1,Flora Novia,57.0,Đã bàn giao,36.84,2.0,2.0,,,,,,, Thành phố Thủ Đức
+201,"89, Hoàng Quốc Việt, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",4.5,,113.0,Đã bàn giao,39.82,3.0,2.0,31.0,,,,Tây Bắc,, Quận 7
+202,"Đường Hậu Giang, Phường 11, Quận 6 , Tp.HCM , Việt Nam, Phường 11, Quận 6, Tp Hồ Chí Minh",3.55,Him Lam Chợ Lớn,97.0,Chưa bàn giao,36.6,2.0,2.0,,,,,,, Quận 6
+203,"Nguyễn Xiển, Phường Long Bình (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",5.5671,Lumiere Boulevard,73.0,Chưa bàn giao,76.26,2.0,2.0,,,,Đông Nam,Tây Bắc,, Thành phố Thủ Đức
+204,"số 88, số 88 Số 88 đường N1, phường Sơn Kỳ, quận Tân Phú, Tp.HCM, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",5.4,Celadon City,112.3,Đã bàn giao,48.09,3.0,2.0,,Đang chờ sổ,Nội thất đầy đủ,,,, Quận Tân Phú
+205,"Tăng Nhơn Phú, Phường Phước Long B (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.15,9 View Apartment,58.0,Đã bàn giao,37.07,2.0,,,,Nội thất đầy đủ,,,, Thành phố Thủ Đức
+206,"Số 1, Tôn Thất Thuyết, Phường 18, Quận 4, Tp Hồ Chí Minh",5.688,Căn hộ DE LA SOL (Delasol),79.0,Chưa bàn giao,72.0,2.0,2.0,,Giấy tờ khác,Nội thất đầy đủ,,,, Quận 4
+207,"Phạm Văn Nghị, Phường Tân Phong, Quận 7, Tp Hồ Chí Minh",3.45,Sky Garden 1,88.0,Đã bàn giao,39.2,3.0,2.0,,Đã có sổ,,,,, Quận 7
+208,"Nguyễn Hữu Thọ, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",3.6,Sunrise City,76.0,Đã bàn giao,47.37,2.0,2.0,,,,Đông,Tây,, Quận 7
+209,"15B, Phường Phú Mỹ, Quận 7, Tp Hồ Chí Minh",1.69,The Era Town (A1 Riverside),67.0,Đã bàn giao,25.22,2.0,2.0,,Đã có sổ,Nhà trống,,,, Quận 7
+210,"Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Tp Hồ Chí Minh",9.0,Vinhomes Golden River BaSon,69.0,Đã bàn giao,130.43,2.0,,,,Nội thất cao cấp,,,, Quận 1
+211,"Đường Phạm Văn Đồng, phường Linh Tây, Thủ Đức, Tp.HCM, Phường Linh Tây (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.285,Flora Novia,57.0,Đã bàn giao,40.09,2.0,1.0,,,,,,, Thành phố Thủ Đức
+212,"2, Đường Lê Thước, Phường Thảo Điền (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",33.0,,235.47,Đã bàn giao,140.15,3.0,3.0,,,,Bắc,Đông Nam,, Thành phố Thủ Đức
+213,"83, 83 Đường Lý Chính Thắng, Phường Võ Thị Sáu, Quận 3, Tp Hồ Chí Minh",4.9,Terra Royal,58.0,Đã bàn giao,84.48,2.0,1.0,,,,,,, Quận 3
+214,"83, 83 Đường Lý Chính Thắng, Phường 8, Quận 3, Hồ Chí Minh, Phường Võ Thị Sáu, Quận 3, Tp Hồ Chí Minh",6.3,Terra Royal,72.0,Đã bàn giao,87.5,2.0,2.0,,,,,,, Quận 3
+215,"Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Tp Hồ Chí Minh",9.5,Vinhomes Golden River BaSon,68.0,Chưa bàn giao,139.71,2.0,,,,Nội thất cao cấp,,,, Quận 1
+216,"Đường Nguyễn Thị Định, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.3,Căn hộ D’Lusso,68.0,Đã bàn giao,63.24,2.0,2.0,,Đã có sổ,Nhà trống,,,, Thành phố Thủ Đức
+217,"Phạm Văn Đồng, Phường Linh Tây (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.8,Flora Novia,76.0,Đã bàn giao,36.84,2.0,2.0,,,,,,, Thành phố Thủ Đức
+218,"Nguyễn Thị Định, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.5,Precia,72.0,Đã bàn giao,48.61,2.0,2.0,,,,,,, Thành phố Thủ Đức
+219,"An Lợi Đông, Phường An Lợi Đông (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",9.2,Sarimi Sala,88.0,Chưa bàn giao,104.55,2.0,2.0,8.0,,,,Tây,, Thành phố Thủ Đức
+220,"Đường Số 25, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.22,,40.0,Đã bàn giao,55.5,2.0,1.0,,Đã có sổ,Nội thất đầy đủ,,,, Thành phố Thủ Đức
+221,"528, Huỳnh Tấn Phát, Phường Bình Thuận, Quận 7, Tp Hồ Chí Minh",2.8,Luxcity,74.0,Đã bàn giao,37.84,2.0,2.0,6.0,,,,Tây Nam,, Quận 7
+222,"số 88, số 88 Đường N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",7.868,Celadon City,142.0,Chưa bàn giao,55.41,3.0,3.0,8.0,,,,,, Quận Tân Phú
+223,"Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Tp Hồ Chí Minh",8.0,Vinhomes Golden River BaSon,77.0,Chưa bàn giao,103.9,2.0,,,,Nội thất cao cấp,,,, Quận 1
+224,"Hẻm 11 Đường 3 Tháng 2, Phường 12, Quận 10, Tp Hồ Chí Minh",1.5,,10.0,Đã bàn giao,150.0,2.0,,,Đã có sổ,,,,, Quận 10
+225,"Đường Đào Trinh Nhất, Phường Linh Tây (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.7,,48.0,Chưa bàn giao,35.42,1.0,1.0,,Đang chờ sổ,,,,, Thành phố Thủ Đức
+226,"Nguyễn Thị Định, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.2,Precia,56.0,Đã bàn giao,57.14,2.0,1.0,,,,,,, Thành phố Thủ Đức
+227,"15B, Phường Phú Mỹ, Quận 7, Tp Hồ Chí Minh",1.95,The Era Town (A1 Riverside),97.0,Đã bàn giao,20.1,3.0,2.0,,Đang chờ sổ,Nhà trống,,,, Quận 7
+228,"Lô 5, Bình Hưng Hòa B, Phường Bình Hưng Hoà B, Quận Bình Tân, Tp Hồ Chí Minh",2.1,Green Town Bình Tân,68.0,Đã bàn giao,30.88,2.0,2.0,5.0,,,,Nam,, Quận Bình Tân
+229,"Lý Chiêu Hoàng, Phường 10, Quận 6, Tp Hồ Chí Minh",1.9,The Western Capital,55.0,Đã bàn giao,34.55,2.0,,,Đang chờ sổ,Nhà trống,,,, Quận 6
+230,"Trường Lưu, Phường Long Trường (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",0.81,MT Eastmark City,63.0,Chưa bàn giao,12.86,1.0,1.0,,,,,,, Thành phố Thủ Đức
+231,"Võ Văn Kiệt, Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh",3.2,Akari City,79.0,Đã bàn giao,40.51,2.0,2.0,,,,,,, Quận Bình Tân
+232,"Võ Văn Kiệt, Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh",3.0,Akari City,62.0,Chưa bàn giao,48.39,2.0,1.0,,,,,,, Quận Bình Tân
+233,"47, Tân Thới Hòa, Phường Tân Thới Hòa, Quận Tân Phú, Tp Hồ Chí Minh",2.7,Carillon 7,66.0,Đã bàn giao,40.91,2.0,2.0,,,,,,, Quận Tân Phú
+234,"Võ Văn Kiệt, Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh",3.9,Akari City,95.0,Chưa bàn giao,41.05,3.0,2.0,,,,,,Căn góc, Quận Bình Tân
+235,"Nguyễn Thị Định, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.618,Precia,64.0,Chưa bàn giao,40.91,2.0,1.0,,Đã có sổ,Nội thất đầy đủ,,,, Thành phố Thủ Đức
+236,"92, Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",8.9,Saigon Pearl,133.5,Đã bàn giao,66.67,3.0,2.0,28.0,,,,,, Quận Bình Thạnh
+237,"Nguyễn Thị Định, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.618,Căn hộ D’Lusso,64.0,Chưa bàn giao,40.91,2.0,1.0,,Đã có sổ,Nội thất đầy đủ,,,, Thành phố Thủ Đức
+238,"208, Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",1.49,Vinhomes Central Park,78.0,Đã bàn giao,19.1,2.0,2.0,12.0,Đã có sổ,,,,, Quận Bình Thạnh
+239,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",2.5,Saigon Riverside Complex Q7,73.0,Đã bàn giao,34.25,2.0,2.0,,,,,,, Quận 7
+240,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",2.6,Saigon Riverside Complex Q7,67.37,Đã bàn giao,38.59,2.0,2.0,,,,Nam,Bắc,, Quận 7
+241,"117/80, Hẻm 117 Hồ Văn Long, Phường Tân Tạo, Quận Bình Tân, Tp Hồ Chí Minh",0.63,,37.5,Chưa bàn giao,16.8,1.0,1.0,,,,Đông Nam,Tây Bắc,, Quận Bình Tân
+242,"15B, Đường Số 15B, Phường Phú Mỹ, Quận 7, Tp Hồ Chí Minh",1.68,,85.0,Đã bàn giao,19.76,2.0,3.0,,Đang chờ sổ,,,,, Quận 7
+243,"Nguyễn Văn Linh, Xã Bình Hưng, Huyện Bình Chánh, Tp Hồ Chí Minh",3.9,Mizuki Park,95.0,Chưa bàn giao,41.05,3.0,2.0,,,,,,Căn góc, Huyện Bình Chánh
+244,"Số 628, Xa Lộ Hà Nội, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",5.35,The Vista An Phú,101.0,Đã bàn giao,52.97,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Thành phố Thủ Đức
+245,"Huỳnh Tấn Phát, Phường Tân Phú, Quận 7, Tp Hồ Chí Minh",8.89,The Infiniti Riviera Point,121.0,Chưa bàn giao,73.47,3.0,3.0,,,,Tây Bắc,Đông Nam,, Quận 7
+246,"Phạm Văn Nghị, Phường Tân Phong, Quận 7, Tp Hồ Chí Minh",2.3,Sky Garden 3,56.0,Đã bàn giao,41.07,2.0,1.0,12.0,,,,Đông,, Quận 7
+247,"Hiệp Bình Chánh, Phường Hiệp Bình Chánh (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.5,Opal Riverside,78.0,Đã bàn giao,32.05,2.0,2.0,18.0,,,,Tây Bắc,, Thành phố Thủ Đức
+248,"33, Trương Công Định, Phường 14, Quận Tân Bình, Tp Hồ Chí Minh",1.56,The Harmona,79.0,Đã bàn giao,19.75,2.0,,,,,,,, Quận Tân Bình
+249,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.888888888,Vinhomes Grand Park,58.0,Chưa bàn giao,49.81,2.0,1.0,,Giấy tờ khác,Nhà trống,,,, Thành phố Thủ Đức
+250,"Xa Lộ Hà Nội, Phường Thảo Điền (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.8,Masteri Thảo Điền,69.0,Đã bàn giao,40.58,2.0,2.0,17.0,,,,,, Thành phố Thủ Đức
+251,"17-19-21, Nguyễn Văn Trỗi, Phường 11, Quận Phú Nhuận, Tp Hồ Chí Minh",2.2,The Prince Residence,71.1,Đã bàn giao,30.94,2.0,2.0,8.0,,,,,, Quận Phú Nhuận
+252,"15B, Đường 15B, Phường Phú Mỹ, Quận 7, Tp Hồ Chí Minh",2.1,,97.0,Đã bàn giao,21.65,3.0,2.0,,Đang chờ sổ,,,,, Quận 7
+253,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.471,The Origami – Vinhomes Grand Park,33.8,Chưa bàn giao,43.52,1.0,1.0,,,Bàn giao thô,,,, Thành phố Thủ Đức
+254,"Hiệp Bình Chánh, Phường Hiệp Bình Chánh (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.75,Opal Riverside,71.0,Đã bàn giao,24.65,2.0,,,,,,,, Thành phố Thủ Đức
+255,"Mai Chí Thọ, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.0,The Sun Avenue,72.0,Đã bàn giao,27.78,2.0,2.0,16.0,,,,,, Thành phố Thủ Đức
+256,"50, Phan Văn Khỏe, Phường 2, Quận 6, Tp Hồ Chí Minh",1.56,Lucky Palace,72.0,Đã bàn giao,21.67,2.0,2.0,,,,,,, Quận 6
+257,"Trường Sa, Phường 12, Quận 3, Tp Hồ Chí Minh",1.88,Screc Tower,51.0,Đã bàn giao,36.86,1.0,,,,,,,, Quận 3
+258,"Mai Chí Thọ, Phường An Khánh (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.5,New City Thủ Thiêm,75.0,Đã bàn giao,33.33,2.0,2.0,15.0,,,,,, Thành phố Thủ Đức
+259,"Mai Chí Thọ, Phường Thủ Thiêm (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.57,Empire City Thủ Thiêm,64.0,Đã bàn giao,55.78,1.0,,,,,,,, Thành phố Thủ Đức
+260,"600, Đường Nguyễn Lương Bằng, Phường Phú Mỹ, Quận 7, Tp Hồ Chí Minh",2.2,,57.0,Đã bàn giao,38.6,2.0,1.0,8.0,,,,Đông Nam,, Quận 7
+261,"Đỗ Xuân Hợp, Phường Phước Long B (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.73,Flora Anh Đào,55.0,Đã bàn giao,31.45,2.0,1.0,14.0,,,Đông Nam,Tây Bắc,, Thành phố Thủ Đức
+262,"Hiệp Bình Chánh, Phường Hiệp Bình Chánh (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.9,Opal Riverside,71.1,Đã bàn giao,26.72,2.0,2.0,12.0,,,,,, Thành phố Thủ Đức
+263,"208, Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",9.8,Vinhomes Central Park,105.0,Đã bàn giao,93.33,3.0,2.0,20.0,,,,Đông Nam,, Quận Bình Thạnh
+264,"Trường Sa, Phường 12, Quận 3, Tp Hồ Chí Minh",1.56,Screc Tower,69.0,Đã bàn giao,22.61,2.0,2.0,,Đã có sổ,Nội thất cao cấp,,,, Quận 3
+265,"Nguyễn Văn Linh, Xã Bình Hưng, Huyện Bình Chánh, Tp Hồ Chí Minh",2.9,Mizuki Park,72.0,Đã bàn giao,40.28,2.0,2.0,,,,,,, Huyện Bình Chánh
+266,"Nguyễn Đình Chiểu, Phường Đa Kao, Quận 1, Tp Hồ Chí Minh",5.54,The MarQ,71.0,Đã bàn giao,78.03,2.0,2.0,,,,,,, Quận 1
+267,"Số 200, 12, Phường 12, Quận 10, Tp Hồ Chí Minh",2.8,Hà Đô Centrosa Garden,68.0,Đã bàn giao,41.18,2.0,2.0,14.0,,,,,, Quận 10
+268,"Số 59, Ngô Tất Tố, Phường 21, Quận Bình Thạnh, Tp Hồ Chí Minh",2.35,City Garden,117.0,Đã bàn giao,20.09,3.0,2.0,,Đã có sổ,Nội thất cao cấp,,,, Quận Bình Thạnh
+269,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.9,Vinhomes Grand Park,60.0,Chưa bàn giao,48.33,2.0,2.0,,,,Đông Nam,Tây Bắc,, Thành phố Thủ Đức
+270,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",2.6,Saigon Riverside Complex Q7,69.0,Đã bàn giao,37.68,2.0,2.0,,,Nhà trống,,,Căn góc, Quận 7
+271,"Tân Phong, Phường Tân Phong, Quận 7, Tp Hồ Chí Minh",5.1,Khu căn hộ Mỹ Phước,136.0,Đã bàn giao,37.5,3.0,2.0,,Đã có sổ,,,,, Quận 7
+272,"7/28, Thành Thái, Phường 14, Quận 10, Tp Hồ Chí Minh",2.6,Rivera Park Sài Gòn,75.0,Đã bàn giao,34.67,2.0,2.0,10.0,,,Đông Nam,,, Quận 10
+273,"Trường Lưu, Phường Long Trường (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.168,MT Eastmark City,63.8,Chưa bàn giao,33.98,2.0,1.0,,Giấy tờ khác,Nội thất đầy đủ,,,, Thành phố Thủ Đức
+274,"Xa Lộ Hà Nội, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",15.0,The Estella,192.0,Đã bàn giao,78.13,3.0,3.0,,,,,,, Thành phố Thủ Đức
+275,"Đường D5, Phường 25, Quận Bình Thạnh, Tp Hồ Chí Minh",2.8,,70.0,Đã bàn giao,40.0,2.0,,8.0,Đã có sổ,,,Tây Bắc,, Quận Bình Thạnh
+276,"Nguyễn Xiển, Phường Long Bình (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.3,Lumiere Boulevard,74.0,Chưa bàn giao,58.11,2.0,2.0,,,,,,, Thành phố Thủ Đức
+277,"Đường Xóm Đất, Phường 8, Quận 11, Tp Hồ Chí Minh",1.61,,54.0,Chưa bàn giao,29.81,2.0,,,,,,,, Quận 11
+278,"Phạm Văn Đồng, Phường Linh Tây (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.2,Flora Novia,56.0,Đã bàn giao,39.29,2.0,,,,,,,, Thành phố Thủ Đức
+279,"36, Mai Chí Thọ, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.3,Centana Thủ Thiêm,60.0,Đã bàn giao,55.0,2.0,,14.0,Đã có sổ,,,,, Thành phố Thủ Đức
+280,"208, Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",2.7,Vinhomes Central Park,65.0,Đã bàn giao,41.54,2.0,2.0,12.0,,,,Tây Bắc,, Quận Bình Thạnh
+281,"Số 102, Bình Thọ, Phường Bình Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.0,Moonlight Residences,50.0,Đã bàn giao,40.0,1.0,1.0,,,,,,, Thành phố Thủ Đức
+282,"Số 102, Bình Thọ, Phường Bình Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.1,Moonlight Residences,68.0,Đã bàn giao,30.88,2.0,2.0,,,,,,, Thành phố Thủ Đức
+283,"thạnh lộc 8, Phường Thạnh Lộc, Quận 12, Tp Hồ Chí Minh",2.636,,67.0,Đã bàn giao,39.34,2.0,,,,,,,, Quận 12
+284,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",2.1,Saigon Riverside Complex Q7,53.0,Đã bàn giao,39.62,1.0,1.0,,,Nhà trống,,,, Quận 7
+285,"Long Trường, Phường Long Trường (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",9.29,Centana Điền Phúc Thành,195.6,Chưa bàn giao,47.49,4.0,4.0,,,,Đông,Nam,, Thành phố Thủ Đức
+286,"Số 200, 12, Phường 12, Quận 10, Tp Hồ Chí Minh",2.8,Hà Đô Centrosa Garden,76.0,Đã bàn giao,36.84,2.0,,16.0,,,Đông Nam,Tây Bắc,, Quận 10
+287,"Võ Văn Kiệt, Phường 16, Quận 8, Tp Hồ Chí Minh",2.65,Diamond Riverside (City Gate Towers 2),74.0,Đã bàn giao,35.81,2.0,2.0,19.0,,,,Đông,, Quận 8
+288,"Phạm Văn Đồng, Phường Linh Tây (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.7,Flora Novia,42.0,Chưa bàn giao,40.48,1.0,1.0,,,,,,, Thành phố Thủ Đức
+289,"Số 102, Bình Thọ, Phường Bình Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.27,Moonlight Residences,68.0,Đã bàn giao,18.68,2.0,2.0,8.0,,,Đông Nam,,, Thành phố Thủ Đức
+290,"Đường Nguyễn Xiển, Phường Thạnh Mỹ Lợi (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.0,,84.0,Đã bàn giao,35.71,2.0,,,,,,,, Thành phố Thủ Đức
+291,"523A, Đỗ Xuân Hợp, Phường Phước Long B (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.46,The Art,67.0,Đã bàn giao,21.79,2.0,,,,,,,, Thành phố Thủ Đức
+292,"Bến Vân Đồn, Phường 1, Quận 4, Tp Hồ Chí Minh",2.85,,82.0,Đã bàn giao,34.76,2.0,2.0,3.0,,,,Đông,, Quận 4
+293,"Phong Phú, Xã Phong Phú, Huyện Bình Chánh, Tp Hồ Chí Minh",1.95,Khu dân cư Greenlife - 13C,83.3,Đã bàn giao,23.41,2.0,,12.0,,,,,, Huyện Bình Chánh
+294,"số 32, Phước Long A, Phường Phước Long A (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.55,Him Lam Phú An,69.0,Đã bàn giao,36.96,2.0,,,,Nội thất đầy đủ,,,, Thành phố Thủ Đức
+295,"Đường Nguyễn Văn Công, Phường 3, Quận Gò Vấp, Tp Hồ Chí Minh",1.53,,85.0,Đã bàn giao,18.0,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận Gò Vấp
+296,"Phạm Hữu Lầu, Phường Phú Mỹ, Quận 7, Tp Hồ Chí Minh",1.58,Belleza Apartment,1.0,Đã bàn giao,1580.0,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận 7
+297,"Phước Thiện, Phường Long Bình (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.2,,79.0,Chưa bàn giao,40.51,2.0,2.0,,,,,,, Thành phố Thủ Đức
+298,"537, Nguyễn Duy Trinh, Phường Bình Trưng Đông (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.615,The Krista,76.0,Đã bàn giao,21.25,2.0,2.0,6.0,,,,,, Thành phố Thủ Đức
+299,"208, Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",1.64,Vinhomes Central Park,87.0,Đã bàn giao,18.85,2.0,,,,,,,, Quận Bình Thạnh
+300,"Cát Lái, Phường Cát Lái (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.16,Citi Soho,64.0,Đã bàn giao,18.13,2.0,,,,,,,, Thành phố Thủ Đức
+301,"Tạ Quang Bửu, Phường 6, Quận 8, Tp Hồ Chí Minh",1.48,The Pegasuite,68.0,Đã bàn giao,21.76,2.0,,,,,,,, Quận 8
+302,"Phước Thiện, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",5.5,,100.0,Chưa bàn giao,55.0,3.0,,,,,,,, Thành phố Thủ Đức
+303,"Bến Vân Đồn, Phường 13, Quận 4, Tp Hồ Chí Minh",1.44,,62.0,Đã bàn giao,23.23,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận 4
+304,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",2.62,Celadon City,53.0,Đã bàn giao,49.43,1.0,1.0,,,,,,, Quận Tân Phú
+305,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",4.9,Celadon City,96.0,Chưa bàn giao,51.04,2.0,2.0,,,,,,, Quận Tân Phú
+306,"Trường Lưu, Phường Long Trường (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.533333,MT Eastmark City,65.0,Chưa bàn giao,38.97,1.0,1.0,14.0,,,,Nam,, Thành phố Thủ Đức
+307,"1, Đường Võ Trường Toản, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",5.1,Masteri An Phú,70.0,Đã bàn giao,72.86,2.0,2.0,23.0,,,,Tây,, Thành phố Thủ Đức
+308,"Xa Lộ Hà Nội, Phường Thảo Điền (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.05,Gateway Thảo Điền,57.0,Chưa bàn giao,71.05,1.0,,,,,,,, Thành phố Thủ Đức
+309,"208, Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",1.52,Vinhomes Central Park,102.0,Chưa bàn giao,14.9,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận Bình Thạnh
+310,"192, Đường Phạm Đức Sơn, Phường 6, Quận 8, Tp Hồ Chí Minh",1.65,,54.0,Đã bàn giao,30.56,1.0,1.0,7.0,,,,Đông Bắc,, Quận 8
+311,"Cây Keo, Phường Tam Phú (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.55,Đạt Gia Residence Thủ Đức,60.0,Đã bàn giao,25.83,2.0,2.0,10.0,,,,Đông Nam,, Thành phố Thủ Đức
+312,"Nguyễn Hữu Thọ, Xã Phước Kiển, Huyện Nhà Bè, Tp Hồ Chí Minh",3.55,Sunrise Riverside,70.0,Đã bàn giao,50.71,2.0,2.0,10.0,,,,Nam,, Huyện Nhà Bè
+313,"Trường Lưu, Phường Long Trường (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.59,MT Eastmark City,99.9,Chưa bàn giao,45.95,3.0,3.0,,,,Nam,Tây,, Thành phố Thủ Đức
+314,"208, Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",2.75,Vinhomes Central Park,85.0,Đã bàn giao,32.35,2.0,2.0,20.0,Đã có sổ,,,,, Quận Bình Thạnh
+315,"Cây Keo, Phường Tam Phú (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.6,Đạt Gia Residence Thủ Đức,60.0,Đã bàn giao,26.67,2.0,2.0,12.0,,,,Tây Nam,, Thành phố Thủ Đức
+316,"Phạm Hữu Lầu, Phường Phú Mỹ, Quận 7, Tp Hồ Chí Minh",2.15,Belleza Apartment,78.0,Đã bàn giao,27.56,2.0,2.0,8.0,Đã có sổ,,,,, Quận 7
+317,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.7,Vinhomes Grand Park,43.1,Đã bàn giao,39.44,1.0,1.0,,,Nhà trống,,,, Thành phố Thủ Đức
+318,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",2.2,Saigon Riverside Complex Q7,73.0,Đã bàn giao,30.14,2.0,2.0,,,,,,, Quận 7
+319,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",2.5,Saigon Riverside Complex Q7,73.0,Đã bàn giao,34.25,2.0,,,,,,,, Quận 7
+320,"Bình Hưng Hòa A, Phường Bình Hưng Hoà B, Quận Bình Tân, Tp Hồ Chí Minh",1.45,Green Hills Bình Tân,49.0,Đã bàn giao,29.59,1.0,1.0,,Đã có sổ,,,,, Quận Bình Tân
+321,"686, Xô Viết Nghệ Tĩnh, Phường 25, Quận Bình Thạnh, Tp Hồ Chí Minh",1.62,Green Field,66.0,Đã bàn giao,24.55,2.0,2.0,,Đã có sổ,Nhà trống,,,, Quận Bình Thạnh
+322,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",4.3,Celadon City,92.0,Chưa bàn giao,46.74,2.0,2.0,,,,,,, Quận Tân Phú
+323,"Số 12, Bế Văn Cấm, Phường Tân Kiểng, Quận 7, Tp Hồ Chí Minh",2.9,M-One Nam Sài Gòn,58.0,Đã bàn giao,50.0,2.0,,,,,,,, Quận 7
+324,"686, Xô Viết Nghệ Tĩnh, Phường 25, Quận Bình Thạnh, Tp Hồ Chí Minh",0.984,Green Field,20.0,Đã bàn giao,49.2,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận Bình Thạnh
+325,"Đường Số 63, Phường Bình Trưng Đông (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.1,,60.0,Đã bàn giao,35.0,2.0,,,,,,,Căn góc, Thành phố Thủ Đức
+326,"Tôn Dật Tiên, Phường Tân Phú, Quận 7, Tp Hồ Chí Minh",5.8,Green Valley,120.0,Đã bàn giao,48.33,3.0,2.0,,Đã có sổ,Bàn giao thô,,,, Quận 7
+327,"Phạm Văn Nghị, Phường Tân Phong, Quận 7, Tp Hồ Chí Minh",3.19,Sky Garden 3,74.0,Đã bàn giao,43.11,2.0,2.0,,,,Đông,Bắc,, Quận 7
+328,"Đường Tô Hiệu, Phường Hiệp Tân, Quận Tân Phú, Tp Hồ Chí Minh",2.75,,85.0,Chưa bàn giao,32.35,3.0,2.0,,Đang chờ sổ,Nội thất đầy đủ,,,, Quận Tân Phú
+329,"Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",1.78,,85.0,Đã bàn giao,20.94,2.0,2.0,,,,,,, Quận Bình Thạnh
+330,"36, Trịnh Đình Thảo, Phường Hòa Thạnh, Quận Tân Phú, Tp Hồ Chí Minh",2.3,Lotus Garden,61.0,Đã bàn giao,37.7,2.0,1.0,,Đã có sổ,,Đông Nam,,, Quận Tân Phú
+331,"239 – 241 – 278, 239 – 241 – 278  Đường Hòa Bình, Phường Hiệp Tân, Quận Tân Phú, Tp Hồ Chí Minh",3.3,Căn hộ RichStar,91.0,Đã bàn giao,36.26,3.0,2.0,,,,,,, Quận Tân Phú
+332,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.4,Vinhomes Grand Park,73.0,Chưa bàn giao,60.27,2.0,,,,,,,, Thành phố Thủ Đức
+333,"153 – 161, Lương Nhữ Học, Phường 11, Quận 5, Tp Hồ Chí Minh",3.75,Chung cư Sao Mai,90.0,Đã bàn giao,41.67,2.0,2.0,,,,,,Căn góc, Quận 5
+334,"Nguyễn Cửu Phú, Phường Tân Tạo, Quận Bình Tân, Tp Hồ Chí Minh",1.45,Tecco Town Bình Tân,55.0,Đã bàn giao,26.36,2.0,1.0,,Đang chờ sổ,Nội thất đầy đủ,,,, Quận Bình Tân
+335,"Tân Hương, Phường Tân Quý, Quận Tân Phú, Tp Hồ Chí Minh",1.3,Khang Gia Tân Hương (Lucky Apartment),60.0,Đã bàn giao,21.67,2.0,2.0,,,Nội thất đầy đủ,,,, Quận Tân Phú
+336,"Lô 5, Bình Hưng Hòa B, Phường Bình Hưng Hoà B, Quận Bình Tân, Tp Hồ Chí Minh",2.6,Green Town Bình Tân,90.0,Đã bàn giao,28.89,3.0,2.0,,,Nhà trống,,,, Quận Bình Tân
+337,"Số 12, Số 12 Số 12 Tôn Đản, Phường 13, Quận 4, Hồ Chí Minh, Phường 13, Quận 4, Tp Hồ Chí Minh",3.2,Khu căn hộ Contrexim - Copac Square,90.0,Chưa bàn giao,35.56,2.0,2.0,8.0,,,,,, Quận 4
+338,"Trường Lưu, Phường Long Trường (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.69,MT Eastmark City,65.4,Chưa bàn giao,41.13,1.0,1.0,,,,Bắc,Nam,, Thành phố Thủ Đức
+339,"Đường Đoàn Nguyễn Tuân, Xã Hưng Long, Huyện Bình Chánh, Tp Hồ Chí Minh",0.75,,80.0,Chưa bàn giao,9.38,3.0,2.0,,,,Đông Nam,Đông Nam,, Huyện Bình Chánh
+340,"Thạnh Mỹ Lợi, Phường Thạnh Mỹ Lợi (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.35,Thủ Thiêm Dragon,83.6,Đã bàn giao,52.03,2.0,2.0,,,,Đông,,, Thành phố Thủ Đức
+341,"số 88, số 88 Số 88 đường N1, phường Sơn Kỳ, quận Tân Phú, Tp.HCM, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",2.5,Celadon City,53.0,Chưa bàn giao,47.17,1.0,1.0,,,,,,, Quận Tân Phú
+342,"Đường Võ Chí Công, Phường Thạnh Mỹ Lợi (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.5,,60.0,Chưa bàn giao,25.0,2.0,1.0,,Đang chờ sổ,Nội thất đầy đủ,,,, Thành phố Thủ Đức
+343,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",2.5,Saigon Riverside Complex Q7,68.0,Chưa bàn giao,36.76,2.0,2.0,,,,Nam,Tây,, Quận 7
+344,"Nguyễn Hữu Thọ, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",4.95,Sunrise City,106.0,Chưa bàn giao,46.7,2.0,2.0,,,,,,, Quận 7
+345,"Nguyễn Văn Linh, Phường Tân Thuận Tây, Quận 7, Tp Hồ Chí Minh",3.55,Eco Green Sài Gòn,66.0,Đã bàn giao,53.79,2.0,2.0,,,,,,, Quận 7
+346,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",3.225,Celadon City,71.0,Đã bàn giao,45.42,2.0,2.0,,,Nội thất đầy đủ,,,, Quận Tân Phú
+347,"0939039879, Lê Đức Thọ, Xã Phú Xuân, Huyện Nhà Bè, Tp Hồ Chí Minh",2.5,,63.0,Đã bàn giao,39.68,2.0,,,,,,,, Huyện Nhà Bè
+348,"Nguyễn Xiển, Phường Long Bình (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",5.6,Lumiere Boulevard,98.0,Chưa bàn giao,57.14,3.0,2.0,,,,,,, Thành phố Thủ Đức
+349,"196, Cao Lỗ, Phường 4, Quận 8, Tp Hồ Chí Minh",2.26,Topaz Elite,60.0,Đã bàn giao,37.67,2.0,2.0,,,,,,, Quận 8
+350,"13E, 13E Đường Nguyễn Văn Linh, Xã Phong Phú, Huyện Bình Chánh, Tp Hồ Chí Minh",1.395,Sài Gòn Intela,54.0,Đã bàn giao,25.83,2.0,2.0,11.0,,,,Đông Bắc,, Huyện Bình Chánh
+351,"Phạm Văn Nghị, Phường Tân Phong, Quận 7, Tp Hồ Chí Minh",2.48,Sky Garden 3,56.0,Đã bàn giao,44.29,2.0,1.0,,Đã có sổ,,,Bắc,, Quận 7
+352,"Nguyễn Xiển, Phường Long Bình (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.6,Lumiere Boulevard,72.0,Chưa bàn giao,22.22,2.0,2.0,,,,,,, Thành phố Thủ Đức
+353,"Số 1, Phường Trường Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.6,Lavita Charm,68.0,Đã bàn giao,38.24,2.0,2.0,,,,,,, Thành phố Thủ Đức
+354,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",3.95,Celadon City,84.0,Chưa bàn giao,47.02,2.0,2.0,,,,,,, Quận Tân Phú
+355,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.1,Vinhomes Grand Park,70.0,Chưa bàn giao,58.57,2.0,,,,,,,, Thành phố Thủ Đức
+356,"Lý Thường Kiệt, Phường 14, Quận 10, Tp Hồ Chí Minh",2.2,,69.0,Đã bàn giao,31.88,2.0,1.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận 10
+357,"Nguyễn Đức Cảnh, Phường Tân Phong, Quận 7, Tp Hồ Chí Minh",7.65,Mỹ Phát,130.0,Đã bàn giao,58.85,3.0,,,Đã có sổ,Nhà trống,,,, Quận 7
+358,"Số 1, Phường Trường Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.6,Lavita Charm,70.0,Đã bàn giao,37.14,2.0,2.0,,,,,,, Thành phố Thủ Đức
+359,"Lô 1.16 và 1.17, Mai Chí Thọ, Phường Thủ Thiêm (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",11.3,The Metropole Thủ Thiêm,82.74,Đã bàn giao,136.57,2.0,,,,,,,, Thành phố Thủ Đức
+360,"Trường Lưu, Phường Long Trường (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.98,MT Eastmark City,63.4,Chưa bàn giao,47.0,1.0,1.0,,,,Bắc,Nam,, Thành phố Thủ Đức
+361,"Số 29, Hòa Hảo, Phường 2, Quận 10, Tp Hồ Chí Minh",2.2,Cao Ốc B Ngô Gia Tự,53.0,Đã bàn giao,41.51,2.0,1.0,10.0,,,,Tây Nam,, Quận 10
+362,"Võ Chí Công, Phường Phú Hữu (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.75,Safira Khang Điền (Sapphire Khang Điền),67.0,Đã bàn giao,41.04,2.0,2.0,,,,Đông Nam,Tây Bắc,, Thành phố Thủ Đức
+363,"Ehomes nam SG, Đường Nguyễn Văn Linh Giao Nhau Ql50 Bình Hưng Bình Chánh, Phường Tân Phú (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.0,,40.0,Chưa bàn giao,25.0,1.0,1.0,7.0,,,Nam,Bắc,, Thành phố Thủ Đức
+364,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",5.6,Celadon City,112.0,Đã bàn giao,50.0,2.0,2.0,,,,,,, Quận Tân Phú
+365,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.4,Vinhomes Grand Park,80.0,Chưa bàn giao,55.0,2.0,2.0,,,,,,, Thành phố Thủ Đức
+366,"Trịnh Quang Nghị, Xã Phong Phú, Huyện Bình Chánh, Tp Hồ Chí Minh",1.8,Lovera Vista,65.0,Chưa bàn giao,27.69,2.0,2.0,,,,,,, Huyện Bình Chánh
+367,"195, 195 Đường Cao Lỗ, Phường 4, Quận 8, Hồ Chí Minh, Phường 4, Quận 8, Tp Hồ Chí Minh",1.58,Topaz City,74.0,Đã bàn giao,21.35,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận 8
+368,"Phường Tân Phú, Quận 7, Hồ Chí Minh, Phường Tân Phú, Quận 7, Tp Hồ Chí Minh",2.31,Star Hill,100.0,Đã bàn giao,23.1,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận 7
+369,"36 Đường Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.816,Centana Thủ Thiêm,88.0,Đã bàn giao,20.64,3.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Thành phố Thủ Đức
+370,"Nguyễn Văn Linh, Xã Bình Hưng, Huyện Bình Chánh, Tp Hồ Chí Minh",3.999,Mizuki Park,86.0,Chưa bàn giao,46.5,2.0,2.0,,,,,,, Huyện Bình Chánh
+371,"Số 1, Phường Trường Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.5,Lavita Charm,68.0,Chưa bàn giao,36.76,2.0,2.0,,,Nội thất đầy đủ,,,, Thành phố Thủ Đức
+372,"Nguyễn Văn Linh, Xã Phong Phú, Huyện Bình Chánh, Tp Hồ Chí Minh",1.57,Skyway Residence,57.0,Đã bàn giao,27.54,1.0,1.0,,,,Tây Bắc,Đông Nam,, Huyện Bình Chánh
+373,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",5.0,Celadon City,96.0,Đã bàn giao,52.08,2.0,2.0,,,Nhà trống,,,, Quận Tân Phú
+374,"Đường Nguyễn Văn Linh, Xã Bình Hưng, Huyện Bình Chánh, Tp Hồ Chí Minh",2.496,,58.0,Đã bàn giao,43.03,2.0,1.0,,Đang chờ sổ,Nhà trống,,,, Huyện Bình Chánh
+375,"30, 3, Phường Trường Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.0,Lavita Garden,51.0,Đã bàn giao,39.22,1.0,1.0,,,,,,, Thành phố Thủ Đức
+376,"196, 196 Số 195 Cao Lỗ, phường 4, quận 8, Tp.HCM, Phường 4, Quận 8, Tp Hồ Chí Minh",2.65,Topaz Elite,85.0,Đã bàn giao,31.18,3.0,2.0,7.0,,,,Tây Bắc,, Quận 8
+377,"196, 196 Số 195 Cao Lỗ, phường 4, quận 8, Tp.HCM, Phường 4, Quận 8, Tp Hồ Chí Minh",2.79,Topaz Elite,79.0,Đã bàn giao,35.32,2.0,2.0,18.0,,,,Tây Bắc,, Quận 8
+378,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",4.15,Celadon City,84.0,Đã bàn giao,49.4,2.0,2.0,,Đang chờ sổ,Nhà trống,,,, Quận Tân Phú
+379,"Đường Nguyễn Văn Linh, Phường 7, Quận 8, TP. Hồ Chí Minh, Phường 7, Quận 8, Tp Hồ Chí Minh",1.39,Dream Home Riverside,57.0,Chưa bàn giao,24.39,2.0,2.0,16.0,,,,Tây Bắc,, Quận 8
+380,"30, 3, Phường Trường Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.2,Lavita Garden,72.0,Đã bàn giao,30.56,2.0,2.0,,,,,,, Thành phố Thủ Đức
+381,"Số 9, Nguyễn Khoái, Phường 1, Quận 4, Tp Hồ Chí Minh",2.85,Galaxy 9,45.0,Đã bàn giao,63.33,1.0,1.0,,,,,,, Quận 4
+382,"Lý Chiêu Hoàng, Phường 10, Quận 6, Tp Hồ Chí Minh",2.1,The Western Capital,51.0,Đã bàn giao,41.18,2.0,1.0,,Đang chờ sổ,,,,, Quận 6
+383,"91, Phạm Văn Hai, Phường 3, Quận Tân Bình, Tp Hồ Chí Minh",1.44,Central Plaza - 91 Phạm Văn Hai,65.0,Đã bàn giao,22.15,2.0,1.0,,Đã có sổ,Nhà trống,,,, Quận Tân Bình
+384,"Trường Lưu, Phường Long Trường (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.09,MT Eastmark City,65.4,Chưa bàn giao,47.25,1.0,1.0,,,,Đông,Nam,, Thành phố Thủ Đức
+385,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",3.05,Celadon City,84.0,Đã bàn giao,36.31,3.0,2.0,,Đang chờ sổ,Nội thất đầy đủ,,,, Quận Tân Phú
+386,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",3.39,Celadon City,71.0,Đã bàn giao,47.75,2.0,2.0,,Đang chờ sổ,Nội thất đầy đủ,,,, Quận Tân Phú
+387,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",2.42,Celadon City,53.0,Đã bàn giao,45.66,2.0,2.0,,Đang chờ sổ,Nội thất đầy đủ,,,, Quận Tân Phú
+388,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",2.65,Celadon City,70.0,Đã bàn giao,37.86,2.0,2.0,,Đang chờ sổ,Nhà trống,,,, Quận Tân Phú
+389,"Đường Hoàng Trọng Mậu, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",12.0,,279.0,Đã bàn giao,43.01,4.0,4.0,25.0,,,,,, Quận 7
+390,"Số 207, Nguyễn Xí, Phường 26, Quận Bình Thạnh, Tp Hồ Chí Minh",5.0,Richmond City,86.0,Đã bàn giao,58.14,3.0,3.0,,,,,,, Quận Bình Thạnh
+391,"Số 1, Phường Trường Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.0,Lavita Charm,66.0,Đã bàn giao,30.3,2.0,2.0,,,,,,, Thành phố Thủ Đức
+392,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.3,Vinhomes Grand Park,59.0,Đã bàn giao,38.98,2.0,2.0,,,Bàn giao thô,,,, Thành phố Thủ Đức
+393,"Đường Thống Nhất, Phường Linh Xuân (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.2,,58.0,Chưa bàn giao,20.69,2.0,2.0,29.0,Đã có sổ,,,,, Thành phố Thủ Đức
+394,"56 Bến Vân Đồn, Phường 13, Quận 4, Tp Hồ Chí Minh",1.43,,75.0,Đã bàn giao,19.07,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận 4
+395,"Nội khu dự án Vinhomes Grand Park- đường Nguyễn Xiển, Phường Long Thạnh Mỹ, Quận 9, TP HCM., Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.826,The Origami – Vinhomes Grand Park,67.8,Đã bàn giao,41.68,2.0,2.0,24.0,,,,Đông Bắc,, Thành phố Thủ Đức
+396,"Đường Hoàng Văn Thụ, Phường 8, Quận Phú Nhuận, Tp Hồ Chí Minh",1.58,,70.0,Đã bàn giao,22.57,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận Phú Nhuận
+397,"195, Cao Lỗ, Phường 4, Quận 8, Tp Hồ Chí Minh",2.62,Topaz City,95.0,Chưa bàn giao,27.58,3.0,2.0,22.0,,,,Đông Bắc,, Quận 8
+398,"Nguyễn Cửu Phú, Phường Tân Tạo, Quận Bình Tân, Tp Hồ Chí Minh",2.45,Tecco Town Bình Tân,86.3,Đã bàn giao,28.39,3.0,2.0,3.0,,,,,, Quận Bình Tân
+399,"Đường Trần Đại Nghĩa, Phường Tân Tạo A, Quận Bình Tân, Tp H",1.57,,62.0,Đã bàn giao,25.32,2.0,2.0,,,,,,, Quận Bình Tân
+400,"523A, Đỗ Xuân Hợp, Phường Phước Long B (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.48,The Art,66.0,Đã bàn giao,22.42,2.0,2.0,,Đã có sổ,,,,, Thành phố Thủ Đức
+401,"159, Xa Lộ Hà Nội, Phường Thảo Điền (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.4,Masteri Thảo Điền,66.4,Đã bàn giao,66.27,2.0,,,Đã có sổ,Nội thất cao cấp,,,Căn góc, Thành phố Thủ Đức
+402,"239 – 241 – 278, Hòa Bình, Phường Hiệp Tân, Quận Tân Phú, Tp Hồ Chí Minh",2.95,Căn hộ RichStar,64.0,Đã bàn giao,46.09,2.0,2.0,,,,,,, Quận Tân Phú
+403,"Đường Số 1, Xã Bình Hưng, Huyện Bình Chánh, Tp Hồ Chí Minh",3.7,,95.0,Đã bàn giao,38.95,3.0,2.0,,Đã có sổ,Nhà trống,,,, Huyện Bình Chánh
+404,"Nguyễn Hữu Thọ, Xã Phước Kiển, Huyện Nhà Bè, Tp Hồ Chí Minh",4.2,Sunrise Riverside,103.0,Đã bàn giao,40.78,3.0,2.0,,,Nội thất cao cấp,,,, Huyện Nhà Bè
+405,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",3.0,Celadon City,63.0,Đã bàn giao,47.62,2.0,1.0,,,,,,, Quận Tân Phú
+406,"Đường Phạm Văn Hai, Phường 5, Quận Tân Bình, Tp Hồ Chí Minh",3.3,,70.0,Đã bàn giao,47.14,2.0,,,,,,,, Quận Tân Bình
+407,"Đường Số 59, Phường 14, Quận Gò Vấp, Tp Hồ Chí Minh",2.0,,62.0,Chưa bàn giao,32.26,2.0,2.0,8.0,,,,Đông Nam,, Quận Gò Vấp
+408,"523A, Đỗ Xuân Hợp, Phường Phước Long B (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.88,The Art,70.0,Đã bàn giao,26.86,2.0,2.0,9.0,,,,,, Thành phố Thủ Đức
+409,"D6, Phường Bình Chiểu (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",5.6,Fresca Riverside,110.0,Đã bàn giao,50.91,2.0,2.0,1.0,,,,,, Thành phố Thủ Đức
+410,"Nguyễn Văn Linh, Xã Bình Hưng, Huyện Bình Chánh, Tp Hồ Chí Minh",3.038697,Mizuki Park,78.0,Đã bàn giao,38.96,2.0,2.0,,,Nội thất cao cấp,Đông Bắc,,, Huyện Bình Chánh
+411,"undefined, Phường Linh Xuân (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.375,,52.0,Đã bàn giao,26.44,2.0,,17.0,Đã có sổ,,,,, Thành phố Thủ Đức
+412,"Nguyễn Văn Linh, Xã Phong Phú, Huyện Bình Chánh, Tp Hồ Chí Minh",1.55,Skyway Residence,57.0,Đã bàn giao,27.19,1.0,1.0,,Đã có sổ,,,,, Huyện Bình Chánh
+413,"nguyễn xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.8,,95.0,Chưa bàn giao,18.95,3.0,2.0,7.0,,,,,, Thành phố Thủ Đức
+414,"Nguyễn Phúc Nguyên, Phường 10, Quận 3, Tp Hồ Chí Minh",3.85,Cao ốc Nguyễn Phúc Nguyên,82.0,Đã bàn giao,46.95,2.0,2.0,8.0,,,,,, Quận 3
+415,"Mai Chí Thọ, Phường An Khánh (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.9,New City Thủ Thiêm,86.0,Đã bàn giao,56.98,3.0,2.0,,,,,,Căn góc, Thành phố Thủ Đức
+416,"96, Trần Đại Nghĩa, Phường Tân Tạo A, Quận Bình Tân, Tp Hồ Chí Minh",1.36,Vision Bình Tân,50.0,Chưa bàn giao,27.2,1.0,1.0,,Đang chờ sổ,Nhà trống,,,, Quận Bình Tân
+417,"Nguyễn Văn Linh, Xã Bình Hưng, Huyện Bình Chánh, Tp Hồ Chí Minh",1.46,Conic Đông Nam Á,68.0,Đã bàn giao,21.47,2.0,1.0,7.0,Đã có sổ,,,,, Huyện Bình Chánh
+418,"Số 207, Nguyễn Xí, Phường 26, Quận Bình Thạnh, Tp Hồ Chí Minh",1.43,Richmond City,71.0,Đã bàn giao,20.14,2.0,2.0,,Đã có sổ,Nhà trống,,,, Quận Bình Thạnh
+419,"Xã Bình Hưng, Huyện Bình Chánh, Tp Hồ Chí Minh",3.8,,83.0,Chưa bàn giao,45.78,2.0,2.0,,Đang chờ sổ,Nhà trống,,,, Huyện Bình Chánh
+420,"Lô 5, Bình Hưng Hòa B, Phường Bình Hưng Hoà B, Quận Bình Tân, Tp Hồ Chí Minh",1.65,Green Town Bình Tân,53.0,Đã bàn giao,31.13,2.0,1.0,,Đang chờ sổ,,,,, Quận Bình Tân
+421,"Nguyễn Xiển, Phường Long Bình (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.2,Lumiere Boulevard,75.0,Chưa bàn giao,56.0,2.0,2.0,,,,,,, Thành phố Thủ Đức
+422,"Số 207, Nguyễn Xí, Phường 26, Quận Bình Thạnh, Tp Hồ Chí Minh",2.0,Richmond City,38.0,Chưa bàn giao,52.63,1.0,1.0,,Đang chờ sổ,Nhà trống,,,, Quận Bình Thạnh
+423,"16, Âu Cơ, Phường Tân Sơn Nhì, Quận Tân Phú, Tp Hồ Chí Minh",1.36,Melody Residences,74.0,Đã bàn giao,18.38,2.0,2.0,,Đã có sổ,Nhà trống,,,, Quận Tân Phú
+424,"159, Đường Xa Lộ Hà Nội, Phường Thảo Điền, Quận 2, Hồ Chí Minh, Phường Thảo Điền (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",8.0,Masteri Thảo Điền,120.0,Đã bàn giao,66.67,3.0,4.0,,,,Đông Bắc,Tây Nam,, Thành phố Thủ Đức
+425,"số 8, Hoàng Minh Giám, Phường 9, Quận Phú Nhuận, Tp Hồ Chí Minh",1.61,Garden Gate,50.0,Đã bàn giao,32.2,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận Phú Nhuận
+426,"Nguyễn Văn Trỗi, Phường 13, Quận Phú Nhuận, Tp Hồ Chí Minh",1.47,,75.0,Đã bàn giao,19.6,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận Phú Nhuận
+427,"561A, Điện Biên Phủ, Phường 25, Quận Bình Thạnh, Tp Hồ Chí Minh",2.15,Pearl Plaza,92.0,Đã bàn giao,23.37,2.0,,8.0,Đã có sổ,,,,, Quận Bình Thạnh
+428,"Đường Hồng Hà, Phường 2, Quận Tân Bình, Tp Hồ Chí Minh",1.14,,50.0,Đã bàn giao,22.8,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận Tân Bình
+429,"Cầu Vượt Gò Dưa, Phường Tam Bình (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",0.9,,50.0,Đã bàn giao,18.0,2.0,1.0,,Đã có sổ,Nội thất đầy đủ,,,, Thành phố Thủ Đức
+430,"Đường Tạ Quang Bửu, Phường 5, Quận 8, Tp Hồ Chí Minh",2.7,Khu căn hộ Chánh Hưng Giai Việt,80.0,Đã bàn giao,33.75,2.0,2.0,,Đã có sổ,,,,, Quận 8
+431,"Mai Chí Thọ, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.33,The Sun Avenue,25.0,Đã bàn giao,53.2,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Thành phố Thủ Đức
+432,"Mai Chí Thọ, Phường An Khánh (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.6,New City Thủ Thiêm,61.0,Đã bàn giao,59.02,2.0,2.0,,,,,,, Thành phố Thủ Đức
+433,"Phan Chu Trinh, Phường 12, Quận Bình Thạnh, Tp Hồ Chí Minh",1.34,Chung cư 1050 Chu Văn An,62.0,Đã bàn giao,21.61,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận Bình Thạnh
+434,"Số 207, Nguyễn Xí, Phường 26, Quận Bình Thạnh, Tp Hồ Chí Minh",2.5,Richmond City,66.0,Đã bàn giao,37.88,2.0,,,,,,,, Quận Bình Thạnh
+435,"Phan Văn Trị, Phường 10, Quận Gò Vấp, Tp Hồ Chí Minh",1.4,,75.0,Đã bàn giao,18.67,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận Gò Vấp
+436,"Đường Số 1, Phường Trường Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.25,,69.0,Đã bàn giao,18.12,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Thành phố Thủ Đức
+437,"Số 1, Phường Trường Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.97,Lavita Charm,68.0,Đã bàn giao,28.97,2.0,2.0,,Đã có sổ,Nội thất cao cấp,,,, Thành phố Thủ Đức
+438,"Số 207, Nguyễn Xí, Phường 26, Quận Bình Thạnh, Tp Hồ Chí Minh",3.5,Richmond City,73.0,Đã bàn giao,47.95,2.0,,,,,,,, Quận Bình Thạnh
+439,"Xa Lộ Đại Hàn, Phường Tam Bình (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.1,Lotus Sen Hồng ( Violet Tower ),37.0,Chưa bàn giao,29.73,1.0,1.0,,Đã có sổ,,Bắc,,, Thành phố Thủ Đức
+440,"146, Nguyễn Văn Trỗi, Phường 8, Quận Phú Nhuận, Tp Hồ Chí Minh",1.38,Kingston Residence,72.0,Đã bàn giao,19.17,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận Phú Nhuận
+441,"Xa Lộ Đại Hàn, Phường Tam Bình (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.39,Lotus Sen Hồng ( Violet Tower ),52.0,Chưa bàn giao,26.73,2.0,2.0,,Đã có sổ,,,,, Thành phố Thủ Đức
+442,"Xa Lộ Đại Hàn, Phường Tam Bình (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.55,Lotus Sen Hồng ( Violet Tower ),50.0,Chưa bàn giao,31.0,2.0,2.0,,Đã có sổ,,,,, Thành phố Thủ Đức
+443,"Xa Lộ Đại Hàn, Phường Tam Bình (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.4,Lotus Sen Hồng ( Violet Tower ),50.0,Chưa bàn giao,28.0,2.0,2.0,,Đã có sổ,,,,, Thành phố Thủ Đức
+444,"Nguyễn Văn Linh, Xã Phong Phú, Huyện Bình Chánh, Tp Hồ Chí Minh",1.38,,50.0,Đã bàn giao,27.6,2.0,2.0,,,,,,, Huyện Bình Chánh
+445,"Mai Chí Thọ, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.95,The Sun Avenue,76.0,Chưa bàn giao,51.97,2.0,2.0,,,,,,, Thành phố Thủ Đức
+446,"Phạm Văn Đồng, Phường Linh Tây (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.2,Flora Novia,57.0,Đã bàn giao,38.6,2.0,2.0,,,,,,, Thành phố Thủ Đức
+447,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",1.9,Saigon Riverside Complex Q7,53.0,Đã bàn giao,35.85,2.0,2.0,,,,,,, Quận 7
+448,"Xã Bình Hưng, Huyện Bình Chánh, Tp Hồ Chí Minh",4.5,,111.0,Chưa bàn giao,40.54,3.0,3.0,,Đang chờ sổ,Nhà trống,,,, Huyện Bình Chánh
+449,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",2.4,Saigon Riverside Complex Q7,73.0,Đã bàn giao,32.88,2.0,2.0,,,,,,, Quận 7
+450,"Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",1.79,Saigon Pearl,85.0,Đã bàn giao,21.06,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận Bình Thạnh
+451,"Số 383, Bình Trưng Tây, Phường Bình Trưng Tây (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.05,La Astoria,89.0,Đã bàn giao,23.03,3.0,3.0,,Đã có sổ,,,,, Thành phố Thủ Đức
+452,"quốc lộ 1k, Phường Linh Xuân (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.45,,57.0,Đã bàn giao,25.44,2.0,2.0,16.0,,,,,, Thành phố Thủ Đức
+453,"Đường D4, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",3.4,,77.0,Đã bàn giao,44.16,2.0,2.0,,,,,,, Quận 7
+454,"Võ Văn Kiệt, Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh",2.92,Akari City,79.0,Đã bàn giao,36.96,2.0,2.0,,,,,,, Quận Bình Tân
+455,"Phan Xích Long, Phường 7, Quận Phú Nhuận, Tp Hồ Chí Minh",1.25,Chung cư Phan Xích Long,48.0,Đã bàn giao,26.04,1.0,1.0,,Đã có sổ,,,,, Quận Phú Nhuận
+456,"Số 207, Nguyễn Xí, Phường 26, Quận Bình Thạnh, Tp Hồ Chí Minh",1.32,Richmond City,73.0,Đã bàn giao,18.08,2.0,2.0,,Đã có sổ,Nội thất cao cấp,,,, Quận Bình Thạnh
+457,"Số 34-35, Bến Vân Đồn, Phường 13, Quận 4, Tp Hồ Chí Minh",1.37,Saigon Royal Residence,72.0,Đã bàn giao,19.03,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận 4
+458,"Trịnh Quang Nghị, Xã Phong Phú, Huyện Bình Chánh, Tp Hồ Chí Minh",1.95,Lovera Vista,65.0,Đã bàn giao,30.0,2.0,2.0,,,,Tây Nam,Đông Bắc,, Huyện Bình Chánh
+459,"Trịnh Quang Nghị, Xã Phong Phú, Huyện Bình Chánh, Tp Hồ Chí Minh",1.9,Lovera Vista,65.0,Đã bàn giao,29.23,2.0,2.0,,,,,,, Huyện Bình Chánh
+460,"Tạ Quang Bửu, Phường 6, Quận 8, Tp Hồ Chí Minh",1.52,The Pegasuite,60.0,Chưa bàn giao,25.33,2.0,2.0,,Đã có sổ,,,,, Quận 8
+461,"Đường Phạm Thế Hiển, Phường 6, Quận 8, Tp Hồ Chí Minh",6.4,,151.0,Đã bàn giao,42.38,2.0,3.0,,Đã có sổ,,,,, Quận 8
+462,"Đường Nguyễn Cơ Thạch, Phường Thủ Thiêm (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",9.0,Thu Thiem Zeit River,60.62,Chưa bàn giao,148.47,1.0,1.0,,Giấy tờ khác,,,,, Thành phố Thủ Đức
+463,"Số 132, Số 132 Đường Bến Vân Đồn, Phường 6, Quận 4, Tp Hồ Chí Minh",1.865,Masteri Millennium,80.0,Đã bàn giao,23.31,2.0,2.0,,,,,,, Quận 4
+464,"Đường Nguyễn Xí, Phường 26, Quận Bình Thạnh, Tp Hồ Chí Minh",1.55,,67.0,Đã bàn giao,23.13,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận Bình Thạnh
+465,"Dương Quảng Hàm, Phường 15, Quận Gò Vấp, Tp Hồ Chí Minh",2.85,Osimi Tower,68.0,Đã bàn giao,41.91,2.0,2.0,,,,Đông Bắc,Tây Nam,, Quận Gò Vấp
+466,"208, 208 Đường Điện Biên Phủ, Phường 22, Bình Thạnh, Hồ Chí Minh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",4.5,Vinhomes Central Park,63.0,Đã bàn giao,71.43,2.0,1.0,,,Nội thất đầy đủ,,,, Quận Bình Thạnh
+467,"Số 584, Huỳnh Tấn Phát, Phường Tân Phú, Quận 7, Tp Hồ Chí Minh",7.5,The View Riviera Point,129.0,Đã bàn giao,58.14,3.0,,,,,,,, Quận 7
+468,"Nguyễn Oanh, Phường 17, Quận Gò Vấp, Tp Hồ Chí Minh",2.15,,65.0,Chưa bàn giao,33.08,2.0,1.0,,,,Đông Bắc,Tây Nam,, Quận Gò Vấp
+469,"Đường D4, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",3.4,,78.0,Chưa bàn giao,43.59,3.0,2.0,,,,,,, Quận 7
+470,"32, Đường Hoàng Bật Đạt, Phường 15, Quận Tân Bình, Tp Hồ Chí Minh",1.5,,69.0,Đã bàn giao,21.74,2.0,2.0,,,,,,, Quận Tân Bình
+471,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.75,Vinhomes Grand Park,32.5,Chưa bàn giao,53.85,1.0,,,,,,,, Thành phố Thủ Đức
+472,"Đường Nhật Tảo, Phường 7, Quận 10, Tp Hồ Chí Minh",1.44,,65.0,Đã bàn giao,22.15,2.0,2.0,2.0,Đã có sổ,,,,, Quận 10
+473,"Số 207, Nguyễn Xí, Phường 26, Quận Bình Thạnh, Tp Hồ Chí Minh",1.55,Richmond City,70.0,Đã bàn giao,22.14,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận Bình Thạnh
+474,"Mai Chí Thọ, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.0,The Sun Avenue,76.0,Đã bàn giao,52.63,2.0,,,,,,,, Thành phố Thủ Đức
+475,"83, 83 Đường Lý Chính Thắng, Phường 8, Quận 3, Hồ Chí Minh, Phường Võ Thị Sáu, Quận 3, Tp Hồ Chí Minh",1.725,Terra Royal,78.0,Đã bàn giao,22.12,2.0,2.0,,,,,,, Quận 3
+476,"cc5, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",2.38,,80.0,Đã bàn giao,29.75,2.0,,,,,,,Căn góc, Quận Tân Phú
+477,"208, Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",2.868,Vinhomes Central Park,118.0,Đã bàn giao,24.31,3.0,2.0,,Đã có sổ,,,,, Quận Bình Thạnh
+478,"Đường Mai Chí Thọ, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.64,,76.0,Đã bàn giao,21.58,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Thành phố Thủ Đức
+479,"Đường Vườn Lài, Phường Phú Thọ Hòa, Quận Tân Phú, Tp Hồ Chí Minh",2.7,,86.0,Đã bàn giao,31.4,3.0,2.0,,Đã có sổ,,,,, Quận Tân Phú
+480,"104, Phổ Quang, Phường 2, Quận Tân Bình, Tp Hồ Chí Minh",1.86,The Botanica,74.0,Đã bàn giao,25.14,2.0,2.0,,Đã có sổ,Nội thất cao cấp,,,, Quận Tân Bình
+481,"Nguyễn Văn Linh, Xã Bình Hưng, Huyện Bình Chánh, Tp Hồ Chí Minh",3.1,Mizuki Park,78.0,Đã bàn giao,39.74,2.0,2.0,,Đã có sổ,Nhà trống,,,, Huyện Bình Chánh
+482,"Đường số 2, Phường Tân Thành, Quận Tân Phú, Tp Hồ Chí Minh",1.6,,66.0,Đã bàn giao,24.24,1.0,1.0,4.0,Đã có sổ,,,,, Quận Tân Phú
+483,"Tân Túc, Thị trấn Tân Túc, Huyện Bình Chánh, Tp Hồ Chí Minh",2.05,West Gate Park,60.0,Đã bàn giao,34.17,2.0,2.0,,,Nhà trống,,,, Huyện Bình Chánh
+484,"22/14, Trường Chinh, Phường Tân Thới Nhất, Quận 12, Tp Hồ Chí Minh",2.15,Căn hộ 8X Plus Trường Chinh,64.0,Chưa bàn giao,33.59,2.0,2.0,,,,,,, Quận 12
+485,"Khu đô thị Cityland Park Hills - Số 18, Phan Văn Trị, Phường 10, Quận Gò Vấp, Tp Hồ Chí Minh",3.7,Căn hộ Cityland Parkhill Gò Vấp,75.0,Chưa bàn giao,49.33,2.0,2.0,,,,,,, Quận Gò Vấp
+486,"Thái Thuận, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",0.95,Chung cư An Thịnh,50.0,Đã bàn giao,19.0,2.0,1.0,8.0,Đã có sổ,,,,, Thành phố Thủ Đức
+487,"Đường DC13, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",2.35,,61.0,Chưa bàn giao,38.52,2.0,2.0,1.0,,,,Đông Nam,, Quận Tân Phú
+488,"Bình Chiểu, Phường Bình Chiểu (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.538,Stown Thủ Đức,64.0,Đã bàn giao,24.03,2.0,2.0,,Đã có sổ,,,,, Thành phố Thủ Đức
+489,"Phạm Văn Đồng, Phường Linh Tây (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.83,Flora Novia,76.0,Đã bàn giao,37.24,2.0,2.0,,,,,,, Thành phố Thủ Đức
+490,"58d, 20 Đường Số 20, Phường 5, Quận Gò Vấp, Tp Hồ Chí Minh",16.0,,100.0,Chưa bàn giao,160.0,4.0,5.0,4.0,,,,Tây Nam,, Quận Gò Vấp
+491,"Nguyễn Văn Linh, Xã Bình Hưng, Huyện Bình Chánh, Tp Hồ Chí Minh",2.35,Mizuki Park,56.0,Đã bàn giao,41.96,2.0,1.0,,,,Tây,Đông,, Huyện Bình Chánh
+492,"854-856, 854-856 854-856 Tạ Quang Bửu, Phường 5, Quận 8, Hồ Chí Minh, Phường 5, Quận 8, Tp Hồ Chí Minh",4.35,Samland Giai Việt,146.0,Chưa bàn giao,29.79,3.0,3.0,4.0,,,,Đông Bắc,, Quận 8
+493,"Xã Bình Hưng, Huyện Bình Chánh, Tp Hồ Chí Minh",4.3,,75.0,Đã bàn giao,57.33,2.0,2.0,,Đang chờ sổ,Nhà trống,,,, Huyện Bình Chánh
+494,"Đỗ Xuân Hợp, Phường Phước Long B (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.85,Flora Anh Đào,54.0,Chưa bàn giao,34.26,2.0,1.0,,,,,,, Thành phố Thủ Đức
+495,"Phố Tạ Quang Bửu, Phường 6, Quận 8, TP.HCM, Phường 6, Quận 8, Tp Hồ Chí Minh",1.715,The Pegasuite,68.0,Đã bàn giao,25.22,2.0,2.0,,,,,,, Quận 8
+496,"Võ Văn Kiệt, Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh",1.35,Akari City,75.0,Chưa bàn giao,18.0,2.0,,,,,,,, Quận Bình Tân
+497,"Dương Quảng Hàm, Phường 15, Quận Gò Vấp, Tp Hồ Chí Minh",3.0,Osimi Tower,75.0,Đã bàn giao,40.0,3.0,2.0,,,,Tây Nam,Đông Bắc,, Quận Gò Vấp
+498,"Nguyễn Thị Định, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.8,Căn hộ D’Lusso,74.0,Đã bàn giao,51.35,2.0,,,Đã có sổ,Nội thất đầy đủ,,,, Thành phố Thủ Đức
+499,"561A, Điện Biên Phủ, Phường 25, Quận Bình Thạnh, Tp Hồ Chí Minh",2.19,Pearl Plaza,88.0,Chưa bàn giao,24.89,2.0,2.0,9.0,Đã có sổ,,,,, Quận Bình Thạnh
+500,"Đường Tạ Quang Bửu, Phường 7, Quận 8, TP. Hồ Chí Minh, Phường 7, Quận 8, Tp Hồ Chí Minh",1.68,Conic Riverside,68.0,Đã bàn giao,24.71,2.0,2.0,,,,,,, Quận 8
+501,"Đường Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.725,Vinhomes Grand Park,70.0,Đã bàn giao,24.64,2.0,2.0,,,,,,, Thành phố Thủ Đức
+502,"Trường Lưu, Phường Long Trường (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.892226662,MT Eastmark City,65.4,Chưa bàn giao,44.22,1.0,1.0,5.0,,,,Bắc,, Thành phố Thủ Đức
+503,"16, Âu Cơ, Phường Tân Sơn Nhì, Quận Tân Phú, Tp Hồ Chí Minh",1.36,Melody Residences,76.0,Đã bàn giao,17.89,2.0,2.0,9.0,,,Đông Nam,Tây Bắc,, Quận Tân Phú
+504,"Phường Tân Tạo, Bình Tân, Hồ Chí Minh, Phường Tân Tạo, Quận Bình Tân, Tp Hồ Chí Minh",0.53,Lê Thành Tân Tạo,34.0,Đã bàn giao,15.59,1.0,1.0,,Giấy tờ khác,Nhà trống,,,, Quận Bình Tân
+505,"208, Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",3.15,Vinhomes Central Park,50.0,Đã bàn giao,63.0,1.0,1.0,,,,,,, Quận Bình Thạnh
+506,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",2.336,Saigon Riverside Complex Q7,67.0,Đã bàn giao,34.87,2.0,2.0,,,,,,, Quận 7
+507,"279, Đường Phan Anh, Phường Bình Trị Đông, Quận Bình Tân, Tp Hồ Chí Minh",1.37,,62.0,Đã bàn giao,22.1,2.0,1.0,6.0,,,,Nam,, Quận Bình Tân
+508,"Nguyễn Văn Linh, Phường Tân Thuận Tây, Quận 7, Tp Hồ Chí Minh",2.98,Eco Green Sài Gòn,45.0,Đã bàn giao,66.22,1.0,1.0,,,,,,, Quận 7
+509,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",1.8,Saigon Riverside Complex Q7,53.0,Đã bàn giao,33.96,1.0,1.0,,,,,,, Quận 7
+510,"Nguyễn Văn Linh, Xã Bình Hưng, Huyện Bình Chánh, Tp Hồ Chí Minh",4.8,Mizuki Park,71.0,Đã bàn giao,67.61,2.0,2.0,,Đang chờ sổ,Nhà trống,,,, Huyện Bình Chánh
+511,"Song Hành, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",5.8,Palm Heights,105.0,Đã bàn giao,55.24,3.0,2.0,,,,,,, Thành phố Thủ Đức
+512,"Đường Số 5, Phường Bình Hưng Hòa, Quận Bình Tân, Tp Hồ Chí Minh",1.68,,69.0,Đã bàn giao,24.35,2.0,1.0,,Đã có sổ,,,,, Quận Bình Tân
+513,"Đường Võ Văn Kiệt, Phường 16, Quận 8, Tp Hồ Chí Minh",1.75,,62.0,Đã bàn giao,28.23,2.0,2.0,,,Nội thất đầy đủ,,,, Quận 8
+514,"Trương Phước Phan, Phường Bình Trị Đông, Quận Bình Tân, Tp Hồ Chí Minh",2.6,Hoàng Kim Thế Gia (The Golden Dynasty),75.0,Đã bàn giao,34.67,3.0,2.0,7.0,,,,Đông,, Quận Bình Tân
+515,"Đường CC2, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",1.75,,58.0,Đã bàn giao,30.17,2.0,1.0,3.0,,,,Đông Nam,, Quận Tân Phú
+516,"16, Âu Cơ, Phường Tân Sơn Nhì, Quận Tân Phú, Tp Hồ Chí Minh",2.1,Melody Residences,69.0,Chưa bàn giao,0.036232,2.0,2.0,,,,,,, Quận Tân Phú
+517,"Dương Quảng Hàm, Phường 15, Quận Gò Vấp, Tp Hồ Chí Minh",2.2,Osimi Tower,53.0,Đã bàn giao,41.51,2.0,1.0,,,,Tây Bắc,Đông Nam,, Quận Gò Vấp
+518,"Thạnh Xuân 13, Phường Thạnh Xuân, Quận 12, Tp Hồ Chí Minh",2.0,PiCity High Park,57.0,Đã bàn giao,35.09,2.0,1.0,,,,,,, Quận 12
+519,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",2.339,Saigon Riverside Complex Q7,67.0,Đã bàn giao,34.91,2.0,2.0,,,,,,, Quận 7
+520,"9A Đường Thạnh Xuân 13, Phường Thạnh Xuân, Quận 12, Hồ Chí Minh, Phường Thạnh Xuân, Quận 12, Tp Hồ Chí Minh",2.0,PiCity High Park,57.0,Chưa bàn giao,35.09,2.0,1.0,,,,,,, Quận 12
+521,"Lô 5, Bình Hưng Hòa B, Phường Bình Hưng Hoà B, Quận Bình Tân, Tp Hồ Chí Minh",1.85,Green Town Bình Tân,63.2,Đã bàn giao,29.27,2.0,2.0,,,,,,, Quận Bình Tân
+522,"Nguyễn Hữu Thọ, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",1.55,Sunrise City,86.0,Đã bàn giao,18.02,2.0,2.0,9.0,,,,Nam,, Quận 7
+523,"119, Phổ Quang, Phường 9, Quận Phú Nhuận, Tp Hồ Chí Minh",6.237,Golden Mansion,99.0,Đã bàn giao,63.0,3.0,2.0,,,,Tây,Đông Nam,, Quận Phú Nhuận
+524,"Dương Quảng Hàm, Phường 15, Quận Gò Vấp, Tp Hồ Chí Minh",1.44,Osimi Tower,76.0,Đã bàn giao,18.95,3.0,,,,,,,, Quận Gò Vấp
+525,"171A, Hoàng Hoa Thám, Phường 13, Quận Tân Bình, Tp Hồ Chí Minh",1.74,Carillon 1,60.0,Đã bàn giao,29.0,2.0,,,,,,,, Quận Tân Bình
+526,"An Lạc, Phường An Lạc A, Quận Bình Tân, Tp Hồ Chí Minh",1.67,Moonlight Park View,60.0,Đã bàn giao,27.83,2.0,,,,,,,, Quận Bình Tân
+527,"Hồ Học Lãm, Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh",1.42,EHome 3,63.0,Đã bàn giao,22.54,2.0,,,,,,,, Quận Bình Tân
+528,"D1, Phường 25, Quận Bình Thạnh, Tp Hồ Chí Minh",1.76,Wilton Tower,68.0,Đã bàn giao,25.88,2.0,,,,,,,, Quận Bình Thạnh
+529,"208, Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",1.68,Vinhomes Central Park,62.0,Đã bàn giao,27.1,2.0,,,,,,,, Quận Bình Thạnh
+530,"Phạm Văn Đồng, Phường Linh Tây (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.35,Flora Novia,57.0,Đã bàn giao,41.23,2.0,,,,,,,, Thành phố Thủ Đức
+531,"Số 207, Nguyễn Xí, Phường 26, Quận Bình Thạnh, Tp Hồ Chí Minh",1.73,Richmond City,66.0,Đã bàn giao,26.21,2.0,,,,,,,, Quận Bình Thạnh
+532,"Khu đô thị Cityland Park Hills - Số 18, Phan Văn Trị, Phường 10, Quận Gò Vấp, Tp Hồ Chí Minh",1.64,Căn hộ Cityland Parkhill Gò Vấp,75.0,Đã bàn giao,21.87,2.0,,,,,,,, Quận Gò Vấp
+533,"Số 200, 12, Phường 12, Quận 10, Tp Hồ Chí Minh",4.5,Hà Đô Centrosa Garden,61.0,Đã bàn giao,73.77,2.0,1.0,,,,,,, Quận 10
+534,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.363,Vinhomes Grand Park,60.0,Đã bàn giao,39.38,2.0,2.0,,,Nhà trống,,,, Thành phố Thủ Đức
+535,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",2.03,Saigon Riverside Complex Q7,67.0,Đã bàn giao,30.3,2.0,2.0,,,,,,, Quận 7
+536,"Đường Số 1, Xã Bình Hưng, Huyện Bình Chánh, Tp Hồ Chí Minh",3.1,,76.0,Đã bàn giao,40.79,2.0,2.0,,Đã có sổ,Nội thất cao cấp,,,, Huyện Bình Chánh
+537,"116, Lý Chiêu Hoàng, Phường 10, Quận 6, Tp Hồ Chí Minh",2.03,The Western Capital,51.2,Chưa bàn giao,39.65,2.0,1.0,3.0,,,,,, Quận 6
+538,"Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",3.8,La Casa,128.0,Đã bàn giao,29.69,3.0,2.0,,,,Nam,,, Quận 7
+539,"Võ Chí Công, Phường Phú Hữu (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.3,Safira Khang Điền (Sapphire Khang Điền),85.0,Đã bàn giao,38.82,3.0,2.0,,Đã có sổ,,,,Căn góc, Thành phố Thủ Đức
+540,"An Lạc, Phường An Lạc A, Quận Bình Tân, Tp Hồ Chí Minh",2.5,Moonlight Park View,67.0,Đã bàn giao,37.31,2.0,,,,,,,, Quận Bình Tân
+541,"Trường Lưu, Phường Long Trường (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.044135891,MT Eastmark City,99.9,Chưa bàn giao,40.48,3.0,,,,,,,, Thành phố Thủ Đức
+542,"Đường Võ Văn Kiệt, Phường 16, Quận 8, Tp Hồ Chí Minh",1.45,,52.0,Đã bàn giao,27.88,1.0,1.0,9.0,,,,,, Quận 8
+543,"Đường Tân Mỹ, Phường Tân Phú, Quận 7, Tp Hồ Chí Minh",1.2,Chung cư Tân Mỹ,38.0,Đã bàn giao,31.58,2.0,1.0,11.0,Đã có sổ,,,,, Quận 7
+544,"Nguyễn Hữu Thọ, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",4.0,Sunrise City,76.0,Đã bàn giao,52.63,2.0,2.0,,,,Đông,Tây,, Quận 7
+545,"Thạnh Xuân 13, Phường Thạnh Xuân, Quận 12, Tp Hồ Chí Minh",2.365,PiCity High Park,57.0,Đã bàn giao,41.49,2.0,1.0,5.0,,,,Đông,, Quận 12
+546,"9A, 9A Đường Thạnh Xuân 13, Phường Thạnh Xuân, Quận 12, Hồ Chí Minh, Phường Thạnh Xuân, Quận 12, Tp Hồ Chí Minh",1.8,PiCity High Park,48.0,Chưa bàn giao,37.5,2.0,1.0,,,,,,, Quận 12
+547,"Trịnh Quang Nghị, Xã Phong Phú, Huyện Bình Chánh, Tp Hồ Chí Minh",1.9,Lovera Vista,65.0,Đã bàn giao,29.23,2.0,2.0,,Đã có sổ,,,,, Huyện Bình Chánh
+548,"Số 207, Nguyễn Xí, Phường 26, Quận Bình Thạnh, Tp Hồ Chí Minh",3.5,Richmond City,73.0,Đã bàn giao,47.95,2.0,2.0,,,,,,, Quận Bình Thạnh
+549,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.3,Vinhomes Grand Park,79.0,Chưa bàn giao,16.46,2.0,2.0,28.0,,,Đông Nam,,, Thành phố Thủ Đức
+550,"39, Bến Vân Đồn, Phường 13, Quận 4, Tp Hồ Chí Minh",1.97,The Tresor,75.0,Đã bàn giao,26.27,2.0,2.0,6.0,Đã có sổ,,,,, Quận 4
+551,"104, Phổ Quang, Phường 2, Quận Tân Bình, Tp Hồ Chí Minh",2.15,The Botanica,57.0,Đã bàn giao,37.72,2.0,,,,,,,, Quận Tân Bình
+552,"346, Bến Vân Đồn, Phường 1, Quận 4, Tp Hồ Chí Minh",1.82,The Gold View,81.0,Chưa bàn giao,22.47,2.0,,,,,,,, Quận 4
+553,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.05,Vinhomes Grand Park,82.0,Chưa bàn giao,37.2,3.0,2.0,,,Nhà trống,Đông Nam,,, Thành phố Thủ Đức
+554,"346, Bến Vân Đồn, Phường 1, Quận 4, Tp Hồ Chí Minh",1.633,The Gold View,86.0,Đã bàn giao,18.99,2.0,2.0,,Đã có sổ,,,,, Quận 4
+555,"Đường Lũy Bán Bích, Phường Phú Thọ Hòa, Quận Tân Phú, Tp Hồ Chí Minh",2.45,Khu căn hộ Sacomreal-584,82.0,Đã bàn giao,29.88,2.0,2.0,,Đã có sổ,,,,, Quận Tân Phú
+556,"346, Bến Vân Đồn, Phường 1, Quận 4, Tp Hồ Chí Minh",4.2,The Gold View,81.0,Đã bàn giao,51.85,2.0,2.0,4.0,,,,Tây,, Quận 4
+557,"11, Phường 11, Quận 6, Tp Hồ Chí Minh",1.95,Him Lam Chợ Lớn,87.0,Đã bàn giao,22.41,2.0,2.0,,Đã có sổ,Nội thất cao cấp,,,, Quận 6
+558,"Phạm Hữu Lầu, Phường Phú Mỹ, Quận 7, Tp Hồ Chí Minh",1.6,Belleza Apartment,50.0,Đã bàn giao,32.0,1.0,1.0,,,,Đông Nam,Bắc,, Quận 7
+559,"Đường Lê Thước, Phường Thảo Điền (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.58,,102.0,Đã bàn giao,15.49,2.0,2.0,,,,,,, Thành phố Thủ Đức
+560,"Trường Lưu, Phường Long Trường (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.248155972,MT Eastmark City,74.0,Chưa bàn giao,43.89,2.0,2.0,,,,,,, Thành phố Thủ Đức
+561,"căn hộ B4.15 (lầu 5) lô B cc Lý Văn Phức, Đường Lý Văn Phức, Phường Tân Định, Quận 1, Tp Hồ Chí Minh",1.95,,28.0,Đã bàn giao,69.64,2.0,1.0,5.0,,,,,, Quận 1
+562,"Đường 35 CL, Phường Cát Lái (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.65,,63.0,Đã bàn giao,26.19,2.0,2.0,,Đã có sổ,,,,, Thành phố Thủ Đức
+563,"Đường Thị Giang, Phường Tân Thới Nhất, Quận 12, Tp Hồ Chí Minh",1.85,,68.5,Đã bàn giao,27.01,2.0,2.0,10.0,,,Đông Nam,,, Quận 12
+564,"195, 195 Đường Cao Lỗ, Phường 4, Quận 8, Hồ Chí Minh, Phường 4, Quận 8, Tp Hồ Chí Minh",2.08,Topaz City,73.0,Đã bàn giao,28.49,2.0,2.0,14.0,,,,,Căn góc, Quận 8
+565,"KP9, Đường Số 54A, Phường Tân Tạo, Quận Bình Tân, Tp Hồ Chí Minh",1.9,,71.2,Đã bàn giao,26.69,2.0,2.0,4.0,,,,Nam,, Quận Bình Tân
+566,"Tạ Quang Bửu, Phường 6, Quận 8, Tp Hồ Chí Minh",2.6,The Pegasuite,60.0,Đã bàn giao,43.33,2.0,,,,,,,, Quận 8
+567,"370, Nguyễn Văn Quỳ, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",2.25,LuxGarden,69.0,Đã bàn giao,32.61,2.0,2.0,,Đã có sổ,Nhà trống,,,, Quận 7
+568,"Số 628, Xa Lộ Hà Nội, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",5.2,The Vista An Phú,101.0,Đã bàn giao,51.49,2.0,2.0,,,,,,, Thành phố Thủ Đức
+569,"49, 49 Đường Lê Quang Kim, Phường 8, Quận 8, Tp Hồ Chí Minh",2.45,Diamond Lotus Riverside,49.0,Đã bàn giao,50.0,1.0,1.0,,Đang chờ sổ,,,,, Quận 8
+570,"47, Tân Thới Hòa, Phường Tân Thới Hòa, Quận Tân Phú, Tp Hồ Chí Minh",3.03,Carillon 7,77.0,Đã bàn giao,39.35,2.0,2.0,,,,,,, Quận Tân Phú
+571,"Thạnh Xuân 13, Phường Thạnh Xuân, Quận 12, Tp Hồ Chí Minh",0.55,PiCity High Park,58.0,Chưa bàn giao,9.48,2.0,1.0,,Đang chờ sổ,,,,, Quận 12
+572,"Đường Thành Thái, Phường 14, Quận 10, Tp Hồ Chí Minh",0.959,,68.0,Đã bàn giao,14.1,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận 10
+573,"196, 196 Số 195 Cao Lỗ, phường 4, quận 8, Tp.HCM, Phường 4, Quận 8, Tp Hồ Chí Minh",2.88,Topaz Elite,85.0,Đã bàn giao,33.88,3.0,2.0,16.0,,,,,, Quận 8
+574,"135/533, Lê Đức Thọ, Phường 13, Quận Gò Vấp, Tp Hồ Chí Minh",1.75,Dream Home Residence,65.0,Đã bàn giao,26.92,2.0,,,,,,,, Quận Gò Vấp
+575,"86, Tản Đà, Phường 11, Quận 5, Tp Hồ Chí Minh",1.56,Tản Đà Court,84.0,Đã bàn giao,18.57,2.0,,,,,,,, Quận 5
+576,"Lê Đại Hành, Phường 15, Quận 11, Tp Hồ Chí Minh",2.05,The EverRich I,98.0,Đã bàn giao,20.92,2.0,,,,,,,, Quận 11
+577,"20, Phường Hiệp Bình Chánh (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.38,Opal Garden,7.0,Đã bàn giao,197.14,2.0,2.0,8.0,,,Đông Nam,,, Thành phố Thủ Đức
+578,"Phạm Văn Đồng, Phường Linh Tây (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.2,Flora Novia,80.0,Đã bàn giao,40.0,3.0,2.0,,,,,,Căn góc, Thành phố Thủ Đức
+579,"Số 207, Nguyễn Xí, Phường 26, Quận Bình Thạnh, Tp Hồ Chí Minh",1.56,Richmond City,72.0,Đã bàn giao,21.67,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận Bình Thạnh
+580,"Võ Chí Công, Phường Phú Hữu (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.36,Safira Khang Điền (Sapphire Khang Điền),70.0,Đã bàn giao,19.43,2.0,2.0,13.0,Đã có sổ,,,,, Thành phố Thủ Đức
+581,"Số 01, 104A, Phường Bình Trưng Tây (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",7.4,Diamond Island (Đảo Kim Cương),89.0,Đã bàn giao,83.15,2.0,2.0,,Giấy tờ khác,Nội thất cao cấp,,,, Thành phố Thủ Đức
+582,"341, 341 Đường Cao Đạt, Phường 1, Quận 5, Tp Hồ Chí Minh",2.7,Chung cư Phúc Thịnh,64.0,Chưa bàn giao,42.19,2.0,1.0,,,,Tây,Đông,, Quận 5
+583,"Số 1, Phường Trường Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.6,Lavita Charm,68.0,Đã bàn giao,38.24,2.0,,,,,,,, Thành phố Thủ Đức
+584,"Đường Trương Đình Hội, Phường 16, Quận 8, Tp Hồ Chí Minh",1.6,,73.0,Đã bàn giao,21.92,2.0,2.0,15.0,,,,,, Quận 8
+585,"Nguyễn Hữu Thọ, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",1.48,Sunrise City,2.0,Đã bàn giao,740.0,2.0,2.0,16.0,Đã có sổ,,,,, Quận 7
+586,"Nguyễn Văn Linh, Phường 7, Quận 8, Tp Hồ Chí Minh",1.95,Dream Home Riverside,75.0,Chưa bàn giao,26.0,3.0,2.0,,,,,,, Quận 8
+587,"Cát Lái, Phường Cát Lái (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.56,Citi Soho,60.0,Đã bàn giao,26.0,2.0,2.0,,,,,,Căn góc, Thành phố Thủ Đức
+588,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.9,Vinhomes Grand Park,81.5,Đã bàn giao,35.58,3.0,2.0,,,,,,, Thành phố Thủ Đức
+589,"686, Xô Viết Nghệ Tĩnh, Phường 25, Quận Bình Thạnh, Tp Hồ Chí Minh",1.62,Green Field,72.0,Đã bàn giao,22.5,2.0,2.0,,Đã có sổ,Nội thất cao cấp,,,, Quận Bình Thạnh
+590,"Nguyễn Xiển, Phường Long Bình (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.2,Lumiere Boulevard,72.0,Chưa bàn giao,58.33,2.0,2.0,,,,,,, Thành phố Thủ Đức
+591,"195, Cao Lỗ, Phường 4, Quận 8, Tp Hồ Chí Minh",2.02,Topaz City,70.0,Đã bàn giao,28.86,2.0,2.0,,,,,,, Quận 8
+592,"Trường Lưu, Phường Long Trường (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.6,MT Eastmark City,63.0,Chưa bàn giao,41.27,1.0,,,,,,,, Thành phố Thủ Đức
+593,"Nguyễn Văn Linh, Phường 7, Quận 8, Tp Hồ Chí Minh",1.55,Dream Home Riverside,62.0,Chưa bàn giao,25.0,2.0,2.0,,,,,,, Quận 8
+594,"Bát Nàn, Phường Thạnh Mỹ Lợi (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",6.05,One Verandah Mapletree,80.0,Đã bàn giao,75.63,2.0,2.0,,Giấy tờ khác,Nội thất cao cấp,,,, Thành phố Thủ Đức
+595,"Nguyễn Văn Linh, Xã Bình Hưng, Huyện Bình Chánh, Tp Hồ Chí Minh",3.0,Mizuki Park,78.0,Chưa bàn giao,38.46,2.0,2.0,,,,,,, Huyện Bình Chánh
+596,"Võ Văn Kiệt, Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh",3.09,Akari City,75.0,Chưa bàn giao,41.2,2.0,2.0,,Đang chờ sổ,,,Đông,, Quận Bình Tân
+597,"Nguyễn Văn Linh, Xã Phong Phú, Huyện Bình Chánh, Tp Hồ Chí Minh",2.27,Skyway Residence,104.0,Đã bàn giao,21.83,3.0,2.0,,,,,,, Huyện Bình Chánh
+598,"Nguyễn Thị Nhỏ, Phường 15, Quận 11, Tp Hồ Chí Minh",2.4,Chung cư Phú Thọ,65.0,Đã bàn giao,36.92,2.0,2.0,,Đã có sổ,,,,, Quận 11
+599,"10A, 10A Đường Tô Ký, Phường Trung Mỹ Tây, Quận 12, Tp Hồ Chí Minh",2.0,Toky Tower,61.0,Chưa bàn giao,32.79,2.0,2.0,,,,,,, Quận 12
+600,"307, Nguyễn Duy Trinh, Phường Bình Trưng Tây (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.74,Homyland 2,77.0,Đã bàn giao,22.6,2.0,2.0,,Đã có sổ,Nhà trống,,,, Thành phố Thủ Đức
+601,"Số 9A, đường Thạnh Xuân 13, phường Thạnh Xuân, Quận 12, TP.HCM, Phường Thạnh Xuân, Quận 12, Tp Hồ Chí Minh",2.85,PiCity High Park,79.0,Đã bàn giao,36.08,3.0,2.0,6.0,,,,Bắc,, Quận 12
+602,"15B, Phường Phú Mỹ, Quận 7, Tp Hồ Chí Minh",1.38,,53.0,Đã bàn giao,26.04,1.0,1.0,19.0,,,,,, Quận 7
+603,"208, Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",2.2,Vinhomes Central Park,83.0,Đã bàn giao,26.51,2.0,2.0,,Đã có sổ,Nội thất cao cấp,,,, Quận Bình Thạnh
+604,"Số 1, Phường Trường Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.8,Lavita Charm,68.0,Đã bàn giao,41.18,2.0,2.0,,,,,,, Thành phố Thủ Đức
+605,"Vườn Lài, Phường An Phú Đông, Quận 12, Tp Hồ Chí Minh",1.7,,68.0,Chưa bàn giao,25.0,2.0,,,,,,,, Quận 12
+606,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.75,Vinhomes Grand Park,47.0,Đã bàn giao,37.23,1.0,1.0,,,,Tây Bắc,Đông Nam,, Thành phố Thủ Đức
+607,"Nguyễn Văn Linh, Phường Tân Thuận Tây, Quận 7, Tp Hồ Chí Minh",4.58,Eco Green Sài Gòn,87.0,Đã bàn giao,52.64,3.0,2.0,,,,,,, Quận 7
+608,"Đường 3 Tháng 2, Phường 12, Quận 10, Tp Hồ Chí Minh",3.2,,80.0,Chưa bàn giao,40.0,2.0,2.0,10.0,Đã có sổ,,,,, Quận 10
+609,"Nguyễn Văn Linh, Phường Tân Thuận Tây, Quận 7, Tp Hồ Chí Minh",4.0,Eco Green Sài Gòn,70.0,Đã bàn giao,57.14,2.0,2.0,,,,,,, Quận 7
+610,"Đường Nguyễn Văn Thương, Phường 25, Quận Bình Thạnh, Tp Hồ Chí Minh",1.62,,68.0,Đã bàn giao,23.82,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận Bình Thạnh
+611,"36, Trịnh Đình Thảo, Phường Hòa Thạnh, Quận Tân Phú, Tp Hồ Chí Minh",2.0,Lotus Garden,52.0,Đã bàn giao,38.46,1.0,1.0,,Đã có sổ,,,,, Quận Tân Phú
+612,"346, Bến Vân Đồn, Phường 1, Quận 4, Tp Hồ Chí Minh",2.41,The Gold View,117.0,Đã bàn giao,20.6,3.0,2.0,,Đã có sổ,Nội thất cao cấp,,,, Quận 4
+613,"Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",2.905,The Manor - TP.Hồ Chí Minh,120.0,Đã bàn giao,24.21,3.0,2.0,,Đã có sổ,Nhà trống,,,, Quận Bình Thạnh
+614,"Nguyễn Văn Linh, Xã Phong Phú, Huyện Bình Chánh, Tp Hồ Chí Minh",1.65,Skyway Residence,75.0,Đã bàn giao,22.0,2.0,2.0,,,,,,Căn góc, Huyện Bình Chánh
+615,"346, Bến Vân Đồn, Phường 1, Quận 4, Tp Hồ Chí Minh",1.765,The Gold View,91.0,Đã bàn giao,19.4,2.0,2.0,,Đã có sổ,Nhà trống,,,, Quận 4
+616,"33, Trương Công Định, Phường 14, Quận Tân Bình, Tp Hồ Chí Minh",2.059,The Harmona,75.0,Đã bàn giao,27.45,2.0,2.0,,Đã có sổ,Nhà trống,,,, Quận Tân Bình
+617,"Số 1, Phường Trường Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.669,Lavita Charm,67.0,Đã bàn giao,24.91,2.0,2.0,,,Nhà trống,,,, Thành phố Thủ Đức
+618,"Mai Chí Thọ, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",5.5,The Sun Avenue,105.0,Đã bàn giao,52.38,3.0,2.0,,,,,,, Thành phố Thủ Đức
+619,"Khu phố 3, An Phú, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.852,Estella Heights,89.0,Đã bàn giao,20.81,2.0,2.0,,Đã có sổ,Nhà trống,,,, Thành phố Thủ Đức
+620,"số 2, Đường Nguyễn Thanh Sơn, Phường Thạnh Mỹ Lợi (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.85,,57.0,Chưa bàn giao,67.54,1.0,1.0,33.0,,,Tây Bắc,,, Thành phố Thủ Đức
+621,"208, Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",1.52,Vinhomes Central Park,82.0,Đã bàn giao,18.54,2.0,2.0,,Đã có sổ,Nội thất cao cấp,,,, Quận Bình Thạnh
+622,"Số 8, Gò Dưa, Phường Hiệp Bình Phước (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.85,Sunview Town,58.0,Đã bàn giao,31.9,2.0,2.0,3.0,,,,,, Thành phố Thủ Đức
+623,"Trương Quốc Dung, Phường 9, Quận Phú Nhuận, Tp Hồ Chí Minh",2.15,Newton Residence,70.0,Đã bàn giao,30.71,2.0,,,Đã có sổ,Nội thất đầy đủ,,,, Quận Phú Nhuận
+624,"Đường Phan Huy Ích, Phường 15, Quận Tân Bình, Tp Hồ Chí Minh",2.45,,81.0,Chưa bàn giao,30.25,2.0,2.0,6.0,,,,,, Quận Tân Bình
+625,"334, Tô Hiến Thành, Phường 14, Quận 10, Tp Hồ Chí Minh",4.15,Kingdom 101,50.0,Đã bàn giao,83.0,1.0,1.0,,,,,,, Quận 10
+626,"Trường Lưu, Phường Long Trường (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.248155972,MT Eastmark City,74.0,Chưa bàn giao,43.89,2.0,,,,,,,, Thành phố Thủ Đức
+627,"83, Đường Lý Chính Thắng, Phường Võ Thị Sáu, Quận 3, Tp Hồ Chí Minh",5.2,,58.0,Đã bàn giao,89.66,2.0,1.0,14.0,,,Đông Bắc,,, Quận 3
+628,"Võ Văn Kiệt, Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh",2.4,Akari City,56.0,Chưa bàn giao,42.86,2.0,,,,,,,, Quận Bình Tân
+629,"Đường Số 1, Phường Trường Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.25999,,97.49,Chưa bàn giao,33.44,3.0,2.0,,Đang chờ sổ,Nhà trống,,,, Thành phố Thủ Đức
+630,"trần đại nghĩa, Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh",1.55,,62.0,Đã bàn giao,25.0,2.0,2.0,,,,,,, Quận Bình Tân
+631,"2a, Đường Nguyễn Sỹ Sách, Phường 15, Quận Tân Bình, Tp Hồ Chí Minh",2.9,,102.0,Chưa bàn giao,28.43,2.0,2.0,,Đã có sổ,,,,Căn góc, Quận Tân Bình
+632,"Lò Lu, Phường Trường Thạnh (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.8,Elysian,77.0,Chưa bàn giao,49.35,2.0,2.0,,Giấy tờ khác,Nhà trống,,,, Thành phố Thủ Đức
+633,"119, Phổ Quang, Phường 9, Quận Phú Nhuận, Tp Hồ Chí Minh",4.69,Golden Mansion,86.0,Chưa bàn giao,54.53,3.0,2.0,,,,,,, Quận Phú Nhuận
+634,"Đường Nguyễn Cơ Thạch, Phường An Khánh (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",11.0,,86.0,Chưa bàn giao,127.91,2.0,,,,,,,, Thành phố Thủ Đức
+635,"Nguyễn Hữu Thọ, Xã Phước Kiển, Huyện Nhà Bè, Tp Hồ Chí Minh",3.75,Saigon South Residences,75.0,Đã bàn giao,0.05,2.0,2.0,,,,,,, Huyện Nhà Bè
+636,"Long Trường, Phường Long Trường (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.652722703,Centana Điền Phúc Thành,63.4,Chưa bàn giao,41.84,2.0,,15.0,,,Tây,,, Thành phố Thủ Đức
+637,"đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Tp Hồ Chí Minh",4.8,Vinhomes Golden River BaSon,49.0,Chưa bàn giao,97.96,1.0,1.0,,,,,,, Quận 1
+638,"15B, 15B Đường Nguyễn Lương Bằng, Xã Phú Xuân, Huyện Nhà Bè, Tp Hồ Chí Minh",1.75,Orchid Park,75.0,Đã bàn giao,23.33,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Huyện Nhà Bè
+639,"Lò Lu, Phường Trường Thạnh (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.999999999,Elysian,58.0,Chưa bàn giao,34.48,1.0,1.0,,,,,,, Thành phố Thủ Đức
+640,"111B, 111B Đường Lý Thánh Tông, Phường Tân Thới Hòa, Quận Tân Phú, Tp Hồ Chí Minh",1.5,Căn hộ Quang Thái,69.0,Chưa bàn giao,21.74,2.0,1.0,,,,Đông,,, Quận Tân Phú
+641,"208, Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",3.0,Vinhomes Central Park,50.0,Chưa bàn giao,60.0,1.0,1.0,,,Nội thất cao cấp,,,, Quận Bình Thạnh
+642,"Đường B Thành Thái, Phường 14, Quận 10, Tp Hồ Chí Minh",2.0,,74.0,Chưa bàn giao,27.03,2.0,2.0,6.0,Đã có sổ,,,,, Quận 10
+643,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",1.9,Saigon Riverside Complex Q7,53.0,Đã bàn giao,35.85,1.0,,,,,,,, Quận 7
+644,"15B, Nguyễn Lương Bằng, Xã Phú Xuân, Huyện Nhà Bè, Tp Hồ Chí Minh",1.48,Orchid Park,49.0,Đã bàn giao,30.2,1.0,1.0,,Đã có sổ,,,,, Huyện Nhà Bè
+645,"số 1A, Tạ Quang Bửu, Phường 6, Quận 8, Tp Hồ Chí Minh",1.679,Tara Residence,77.0,Đã bàn giao,21.81,2.0,2.0,,Đã có sổ,Nhà trống,,,, Quận 8
+646,"Đường Ni Sư Huỳnh Liên, Phường 10, Quận Tân Bình, Tp Hồ Chí Minh",2.7,Bàu Cát 2,72.56,Đã bàn giao,37.21,2.0,2.0,1.0,,,,Tây,, Quận Tân Bình
+647,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",5.3,Celadon City,104.0,Đã bàn giao,50.96,3.0,2.0,,,,,,, Quận Tân Phú
+648,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",2.3,Saigon Riverside Complex Q7,67.0,Đã bàn giao,34.33,2.0,2.0,,,,,,, Quận 7
+649,"20, Phường Hiệp Bình Chánh (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.45,Opal Garden,68.0,Đã bàn giao,21.32,2.0,2.0,,Đã có sổ,Nhà trống,,,, Thành phố Thủ Đức
+650,"KĐT Vinhomes Grand Park, Phường Long Thạnh Mỹ, Quận 9, Hồ Chí Minh, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.142280029,The Beverly Solari - Vinhomes Grand Park,59.0,Chưa bàn giao,53.26,2.0,2.0,7.0,,,,Đông Nam,, Thành phố Thủ Đức
+651,"số 88, số 88 Đường N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",3.25,Celadon City,71.0,Đã bàn giao,45.77,2.0,2.0,,Đang chờ sổ,Nội thất đầy đủ,,,, Quận Tân Phú
+652,"Đường Nguyễn Văn Linh, phường An Phú Tây, huyện Bình Chánh, Tp.HCM, Xã An Phú Tây, Huyện Bình Chánh, Tp Hồ Chí Minh",1.2,HQC Plaza,70.0,Chưa bàn giao,17.14,2.0,2.0,9.0,,,,,, Huyện Bình Chánh
+653,"Đường Nguyễn Văn Linh, phường An Phú Tây, huyện Bình Chánh, Tp.HCM, Xã An Phú Tây, Huyện Bình Chánh, Tp Hồ Chí Minh",0.9,HQC Plaza,54.0,Chưa bàn giao,16.67,2.0,,,,,Đông,,, Huyện Bình Chánh
+654,"15B, Nguyễn Lương Bằng, Xã Phú Xuân, Huyện Nhà Bè, Tp Hồ Chí Minh",1.73,Orchid Park,73.0,Đã bàn giao,23.7,2.0,2.0,,Đã có sổ,,,,, Huyện Nhà Bè
+655,"Tạ Quang Bửu, Phường 6, Quận 8, Tp Hồ Chí Minh",2.9,The Pegasuite,75.0,Đã bàn giao,38.67,2.0,2.0,,Đã có sổ,,Đông Bắc,,, Quận 8
+656,"Số 628, Xa Lộ Hà Nội, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",7.8,The Vista An Phú,140.0,Đã bàn giao,55.71,3.0,3.0,,Đã có sổ,Nội thất cao cấp,,,, Thành phố Thủ Đức
+657,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",3.7,Celadon City,68.0,Chưa bàn giao,54.41,2.0,2.0,,,,,,, Quận Tân Phú
+658,"Tô Ký, Phường Tân Chánh Hiệp, Quận 12, Tp Hồ Chí Minh",1.29,Chung cư Đông Hải,46.4,Chưa bàn giao,27.8,2.0,2.0,10.0,Đã có sổ,,,,, Quận 12
+659,"15B, Nguyễn Lương Bằng, Xã Phú Xuân, Huyện Nhà Bè, Tp Hồ Chí Minh",1.85,Orchid Park,72.0,Đã bàn giao,25.69,2.0,2.0,,,,,,Căn góc, Huyện Nhà Bè
+660,"Hiệp Bình Chánh, Phường Hiệp Bình Chánh (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.42,Opal Riverside,72.0,Đã bàn giao,19.72,2.0,2.0,,Đã có sổ,Nội thất cao cấp,,,, Thành phố Thủ Đức
+661,"15B, Phường Phú Mỹ, Quận 7, Tp Hồ Chí Minh",1.58,The Era Town (A1 Riverside),90.0,Đã bàn giao,17.56,2.0,2.0,,,Nội thất đầy đủ,,,Căn góc, Quận 7
+662,"7/28, Thành Thái, Phường 14, Quận 10, Tp Hồ Chí Minh",4.85,Rivera Park Sài Gòn,90.0,Đã bàn giao,53.89,2.0,2.0,,,,,,Căn góc, Quận 10
+663,"Đường Nguyễn Ngọc Phương, Phường 19, Quận Bình Thạnh, Tp Hồ Chí Minh",5.2,,95.0,Đã bàn giao,54.74,3.0,,,,,,,, Quận Bình Thạnh
+664,"Đường Số 1, Phường Trường Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.334009,,73.0,Chưa bàn giao,31.97,2.0,2.0,,Đang chờ sổ,Nhà trống,,,, Thành phố Thủ Đức
+665,"Nguyễn Xiển, Phường Long Bình (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.6,Lumiere Boulevard,78.0,Chưa bàn giao,58.97,2.0,2.0,,,,,,, Thành phố Thủ Đức
+666,"Nguyễn Xiển, Phường Long Bình (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.6,Lumiere Boulevard,75.0,Chưa bàn giao,61.33,2.0,2.0,,,,,,, Thành phố Thủ Đức
+667,"1408, Đường Lưu Đình Lễ, Phường An Khánh (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.95,,94.0,Đã bàn giao,42.02,3.0,2.0,15.0,,,,,, Thành phố Thủ Đức
+668,"Số 685, Âu Cơ, Phường Tân Thành, Quận Tân Phú, Tp Hồ Chí Minh",2.7,Oriental Plaza (Âu Cơ Tower),85.0,Đã bàn giao,31.76,2.0,2.0,,,,,,, Quận Tân Phú
+669,"Sunriver RiverSide, Đường Nguyễn Hữu Thọ, Xã Phước Kiển, Huyện Nhà Bè, Tp Hồ Chí Minh",3.5,,71.0,Chưa bàn giao,49.3,2.0,2.0,18.0,,,,Nam,, Huyện Nhà Bè
+670,"7/28, Thành Thái, Phường 14, Quận 10, Tp Hồ Chí Minh",3.88,Rivera Park Sài Gòn,74.0,Đã bàn giao,52.43,2.0,2.0,,,,,,, Quận 10
+671,"Nguyễn Văn Linh, Xã Bình Hưng, Huyện Bình Chánh, Tp Hồ Chí Minh",3.23,Mizuki Park,78.0,Đã bàn giao,41.41,2.0,2.0,,,,Đông Bắc,Tây Nam,, Huyện Bình Chánh
+672,"Đường Số 1, Phường Bình Hưng Hòa, Quận Bình Tân, Tp Hồ Chí Minh",1.65,,52.7,Đã bàn giao,31.31,2.0,1.0,14.0,,,Đông Bắc,,, Quận Bình Tân
+673,"Đường Lý Chiêu Hoàng, Phường 10, Quận 6, Tp Hồ Chí Minh",2.58,,65.0,Chưa bàn giao,39.69,2.0,2.0,22.0,,,,,, Quận 6
+674,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",2.346,Saigon Riverside Complex Q7,67.0,Đã bàn giao,35.01,2.0,2.0,,,,,,, Quận 7
+675,"Nguyễn Xiển, Phường Long Bình (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.5,Lumiere Boulevard,75.0,Chưa bàn giao,60.0,2.0,,,,,Nam,,, Thành phố Thủ Đức
+676,"Tân Phong, Phường Tân Phong, Quận 7, Tp Hồ Chí Minh",7.4,Hưng Vượng 2,280.0,Đã bàn giao,26.43,4.0,4.0,8.0,,,,Bắc,, Quận 7
+677,"Đường B Thành Thái, Phường 14, Quận 10, Tp Hồ Chí Minh",2.1,,63.0,Chưa bàn giao,33.33,2.0,2.0,,Đã có sổ,Nhà trống,,,, Quận 10
+678,"Số 29 Đường 4, Phường Trường Thọ, Thành phố Thủ Đức, Hồ Chí Minh, Phường Trường Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.979,Moonlight Avenue,70.15,Chưa bàn giao,70.98,2.0,2.0,18.0,,,,,, Thành phố Thủ Đức
+679,"36, Trịnh Đình Thảo, Phường Hòa Thạnh, Quận Tân Phú, Tp Hồ Chí Minh",2.35,Lotus Garden,53.0,Đã bàn giao,44.34,1.0,1.0,6.0,,,Đông Nam,,, Quận Tân Phú
+680,"Đường Tam Bình, Phường Tam Phú (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.2,,51.0,Đã bàn giao,23.53,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Thành phố Thủ Đức
+681,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",4.9,Celadon City,96.0,Đã bàn giao,51.04,2.0,2.0,,,,,,, Quận Tân Phú
+682,"119, Bình Long, Phường Bình Hưng Hoà A, Quận Bình Tân, Tp Hồ Chí Minh",2.0,Căn hộ 8X Rainbow (Ngọc Đông Dương),83.0,Đã bàn giao,24.1,3.0,2.0,,,,,,, Quận Bình Tân
+683,"16, Âu Cơ, Phường Tân Sơn Nhì, Quận Tân Phú, Tp Hồ Chí Minh",1.48,Melody Residences,73.0,Đã bàn giao,20.27,2.0,2.0,,Đã có sổ,Nhà trống,,,, Quận Tân Phú
+684,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",7.999999999,Celadon City,121.0,Chưa bàn giao,66.12,3.0,3.0,,,,,,, Quận Tân Phú
+685,"Đương N3, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",5.2,,96.0,Chưa bàn giao,54.17,2.0,2.0,3.0,,,,Đông Bắc,, Quận Tân Phú
+686,"Nguyễn Văn Linh, Phường Tân Thuận Tây, Quận 7, Tp Hồ Chí Minh",4.28,Eco Green Sài Gòn,81.0,Đã bàn giao,52.84,3.0,2.0,,,,,,, Quận 7
+687,"Lương Định Của, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.9,De Capella,82.0,Đã bàn giao,59.76,2.0,2.0,,,,,,, Thành phố Thủ Đức
+688,"Phan Chu Trinh, Phường Hiệp Phú (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.35,Centum Wealth Complex,54.0,Đã bàn giao,43.52,2.0,1.0,,,Nhà trống,,Đông,, Thành phố Thủ Đức
+689,"Phan Chu Trinh, Phường Hiệp Phú (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.95,Centum Wealth Complex,90.0,Đã bàn giao,32.78,3.0,2.0,,,,,,, Thành phố Thủ Đức
+690,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",2.42,Celadon City,53.0,Đã bàn giao,45.66,1.0,1.0,,,,,,, Quận Tân Phú
+691,"113/89, An Dương Vương, Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh",0.934,Chung cư Lê Thành,68.0,Đã bàn giao,13.74,2.0,1.0,,Đã có sổ,,,,, Quận Bình Tân
+692,"Lý Chiêu Hoàng, Phường 10, Quận 6, Tp Hồ Chí Minh",1.95,The Western Capital,50.0,Đã bàn giao,39.0,2.0,,,Đang chờ sổ,,Nam,Bắc,, Quận 6
+693,"Đường Võ Chí Công, Phường Thạnh Mỹ Lợi (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.615,,132.0,Chưa bàn giao,27.39,2.0,2.0,,,,,,, Thành phố Thủ Đức
+694,"228, Trương Vĩnh Ký, Phường Tân Sơn Nhì, Quận Tân Phú, Tp Hồ Chí Minh",2.25,Chung cư Gò Dầu 2,74.0,Đã bàn giao,30.41,3.0,,,,,,,Căn góc, Quận Tân Phú
+695,"Số 685, Âu Cơ, Phường Tân Thành, Quận Tân Phú, Tp Hồ Chí Minh",3.4,Oriental Plaza (Âu Cơ Tower),106.0,Đã bàn giao,32.08,3.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận Tân Phú
+696,"628, Đường Xa Lộ Hà Nội, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",6.168,,108.0,Đã bàn giao,57.11,2.0,2.0,8.0,,,Đông Nam,Tây Bắc,, Thành phố Thủ Đức
+697,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",2.39,Celadon City,53.0,Chưa bàn giao,45.09,1.0,1.0,,,,,,, Quận Tân Phú
+698,"Song Hành, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",7.8,,165.0,Chưa bàn giao,47.27,3.0,3.0,,Đã có sổ,,,,, Thành phố Thủ Đức
+699,"Số 685, Âu Cơ, Phường Tân Thành, Quận Tân Phú, Tp Hồ Chí Minh",3.9,Oriental Plaza (Âu Cơ Tower),106.0,Đã bàn giao,36.79,3.0,3.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận Tân Phú
+700,"359, Phạm Văn Chiêu, Phường 14, Quận Gò Vấp, Tp Hồ Chí Minh",1.68,,50.0,Đã bàn giao,33.6,1.0,1.0,8.0,,,,Tây,, Quận Gò Vấp
+701,"Số 2225, Phạm Thế Hiển, Phường 6, Quận 8, Tp Hồ Chí Minh",2.95,Green River - Quận 8,85.0,Chưa bàn giao,34.71,3.0,2.0,10.0,,,,Đông Nam,, Quận 8
+702,"15B, Phường Phú Mỹ, Quận 7, Tp Hồ Chí Minh",1.5,The Era Town (A1 Riverside),67.0,Đã bàn giao,22.39,2.0,2.0,,,,Đông,Tây,, Quận 7
+703,"Tân Phong, Phường Tân Phong, Quận 7, Tp Hồ Chí Minh",2.95,Hưng Vượng 3,71.0,Đã bàn giao,41.55,2.0,,3.0,,,Bắc,Nam,, Quận 7
+704,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",5.35,Celadon City,112.0,Đã bàn giao,47.77,2.0,,,Đang chờ sổ,Nhà trống,,,, Quận Tân Phú
+705,"Xô Viết Nghệ Tĩnh, Phường 21, Quận Bình Thạnh, Tp Hồ Chí Minh",1.52,Chung cư Mỹ Đức,93.0,Đã bàn giao,16.34,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận Bình Thạnh
+706,"Võ Văn Kiệt, Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh",2.3,Akari City,56.0,Đã bàn giao,41.07,2.0,1.0,,,Nhà trống,,,, Quận Bình Tân
+707,"16, Phổ Quang, Phường 2, Quận Tân Bình, Tp Hồ Chí Minh",1.8,Sky Center,38.0,Đã bàn giao,47.37,1.0,1.0,,Đang chờ sổ,Nội thất cao cấp,,,, Quận Tân Bình
+708,"Lầu 1, Nguyễn Kim, Phường 7, Quận 10, Tp Hồ Chí Minh",2.5,,68.0,Chưa bàn giao,0.036765,1.0,1.0,,Đã có sổ,,,,, Quận 10
+709,"79-81, Nguyễn Xí, Phường 26, Quận Bình Thạnh, Tp Hồ Chí Minh",3.5,Saigonres Plaza,85.0,Đã bàn giao,41.18,3.0,2.0,,,,,,Căn góc, Quận Bình Thạnh
+710,"116 LY CHIEU HOANG P10 Q6, Đường Lý Chiêu Hoàng, Phường 11, Quận 6, Tp Hồ Chí Minh",2.65,,70.0,Đã bàn giao,37.86,2.0,2.0,6.0,,,,Bắc,, Quận 6
+711,"Tô Hiến Thành, Phường 14, Quận 10, Tp Hồ Chí Minh",2.48,,60.0,Chưa bàn giao,41.33,1.0,1.0,10.0,Đã có sổ,,,,, Quận 10
+712,"208, 208 Đường Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",4.7,Vinhomes Central Park,80.0,Đã bàn giao,58.75,2.0,2.0,,,,Đông,Tây,, Quận Bình Thạnh
+713,"205, Nguyễn Xí, Phường 26, Quận Bình Thạnh, Tp Hồ Chí Minh",4.7,The Hyco4 Tower,132.0,Đã bàn giao,35.61,2.0,2.0,,Đã có sổ,,,,, Quận Bình Thạnh
+714,"Đường D5, Phường 25, Quận Bình Thạnh, Tp Hồ Chí Minh",2.5,Chung cư D5 Bình Thạnh,73.0,Chưa bàn giao,34.25,2.0,2.0,,,,,,, Quận Bình Thạnh
+715,"Trần Văn Kiểu, Phường 10, Quận 6, Tp Hồ Chí Minh",3.75,Asiana Capella,71.0,Đã bàn giao,52.82,2.0,2.0,10.0,,,,Đông Bắc,, Quận 6
+716,"Nguyễn Thị Định, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",5.1,Căn hộ D’Lusso,72.0,Đã bàn giao,70.83,2.0,2.0,17.0,,,Đông Nam,,, Thành phố Thủ Đức
+717,"Lê Đức Thọ, Phường 17, Quận Gò Vấp, Tp Hồ Chí Minh",2.5,Gia Phát Apartment,63.0,Đã bàn giao,39.68,2.0,2.0,13.0,,,,Tây Bắc,, Quận Gò Vấp
+718,"13E, Nguyễn Văn Linh, Xã Phong Phú, Huyện Bình Chánh, Tp Hồ Chí Minh",1.5,Sài Gòn Intela,49.0,Chưa bàn giao,30.61,2.0,2.0,19.0,,,,Đông,, Huyện Bình Chánh
+719,"Đường Trịnh Đình Thảo, Phường Hòa Thạnh, Quận Tân Phú, Tp Hồ Chí Minh",2.0,Topaz Garden,75.0,Đã bàn giao,26.67,2.0,2.0,,,,,,Căn góc, Quận Tân Phú
+720,"Nguyễn Văn Linh, Phường Tân Thuận Tây, Quận 7, Tp Hồ Chí Minh",3.5,Eco Green Sài Gòn,66.0,Đã bàn giao,53.03,2.0,2.0,,Đang chờ sổ,Nhà trống,,,, Quận 7
+721,"Nguyễn Xiển, Phường Long Bình (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.4,Lumiere Boulevard,75.0,Chưa bàn giao,58.67,2.0,,,,,,,, Thành phố Thủ Đức
+722,"Nguyễn Văn Linh, Phường Tân Phong, Quận 7, Tp Hồ Chí Minh",5.5,,103.0,Chưa bàn giao,53.4,3.0,,,,,,,, Quận 7
+723,"Đại Lộ Đông Tây, Phường 16, Quận 8, Tp Hồ Chí Minh",2.15,Carina Plaza,105.0,Đã bàn giao,20.48,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận 8
+724,"334, Tô Hiến Thành, Phường 14, Quận 10, Tp Hồ Chí Minh",6.5,Kingdom 101,79.0,Đã bàn giao,82.28,2.0,2.0,,,,,,, Quận 10
+725,"Đường Tôn Dật Tiên, Phường Tân Phú, Quận 7, Hồ Chí Minh, Phường Tân Phú, Quận 7, Tp Hồ Chí Minh",5.5,Scenic Valley 1,103.0,Đã bàn giao,53.4,3.0,2.0,,,,Tây Bắc,Đông Nam,, Quận 7
+726,"91, Phạm Văn Hai, Phường 3, Quận Tân Bình, Tp Hồ Chí Minh",1.25,Central Plaza - 91 Phạm Văn Hai,60.0,Đã bàn giao,20.83,2.0,2.0,,Đã có sổ,Nội thất cao cấp,,,, Quận Tân Bình
+727,"Phạm Hữu Lầu, Phường Phú Mỹ, Quận 7, Tp Hồ Chí Minh",1.177,Belleza Apartment,88.0,Đã bàn giao,13.38,2.0,2.0,,Đã có sổ,,,,, Quận 7
+728,"Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",1.49,Saigon Pearl,71.0,Đã bàn giao,20.99,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận Bình Thạnh
+729,"Phan Chu Trinh, Phường Hiệp Phú (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.25,Centum Wealth Complex,56.0,Đã bàn giao,40.18,2.0,1.0,,,,,,, Thành phố Thủ Đức
+730,"Tân Phong, Phường Tân Phong, Quận 7, Tp Hồ Chí Minh",2.8,Hưng Vượng 2,70.0,Đã bàn giao,40.0,2.0,2.0,4.0,,,,,, Quận 7
+731,"Đường Hồ Văn Long, Phường Tân Tạo, Quận Bình Tân, Tp Hồ Chí Minh",0.55,,34.0,Đã bàn giao,16.18,1.0,1.0,11.0,,,,Tây Nam,, Quận Bình Tân
+732,"Đường Hồ Văn Long, Phường Tân Tạo, Quận Bình Tân, Tp Hồ Chí Minh",0.63,,34.0,Đã bàn giao,18.53,1.0,1.0,14.0,,,,Tây Bắc,, Quận Bình Tân
+733,"Võ Chí Công, Phường Thạnh Mỹ Lợi (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",0.39,,52.0,Chưa bàn giao,7.5,2.0,2.0,,,,,,, Thành phố Thủ Đức
+734,"Lý Chiêu Hoàng, Phường 10, Quận 6, Tp Hồ Chí Minh",1.887,The Western Capital,50.0,Đã bàn giao,37.74,2.0,1.0,30.0,,,,Bắc,, Quận 6
+735,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",5.7,Celadon City,111.0,Đã bàn giao,51.35,2.0,2.0,,,,,,, Quận Tân Phú
+736,"Nguyễn Hữu Thọ, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",4.11,Sunrise CityView,76.0,Đã bàn giao,54.08,2.0,2.0,,,,Nam,,, Quận 7
+737,"Võ Văn Kiệt, Phường 16, Quận 8, Tp Hồ Chí Minh",2.57,Diamond Riverside (City Gate Towers 2),73.0,Đã bàn giao,35.21,2.0,,19.0,,,Đông Nam,Đông Bắc,, Quận 8
+738,"Phường Tân Tạo, Bình Tân, Hồ Chí Minh, Phường Tân Tạo, Quận Bình Tân, Tp Hồ Chí Minh",0.695,Lê Thành Tân Tạo,35.0,Chưa bàn giao,19.86,1.0,1.0,14.0,,,,Tây,, Quận Bình Tân
+739,"Đường Số 2, Phường Trường Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",6.3,,97.0,Chưa bàn giao,64.95,3.0,2.0,,,,,,, Thành phố Thủ Đức
+740,"Số 200, 12, Phường 12, Quận 10, Tp Hồ Chí Minh",5.0,Hà Đô Centrosa Garden,53.0,Đã bàn giao,94.34,1.0,1.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận 10
+741,"Võ Văn Kiệt, Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh",3.5,Akari City,75.0,Đã bàn giao,46.67,2.0,2.0,3.0,,,,,, Quận Bình Tân
+742,"16, Âu Cơ, Phường Tân Sơn Nhì, Quận Tân Phú, Tp Hồ Chí Minh",1.39,Melody Residences,69.0,Đã bàn giao,20.14,2.0,2.0,,Đã có sổ,,,,, Quận Tân Phú
+743,"Đường Xô Viết Nghệ Tĩnh, Phường 27, Quận Bình Thạnh, Tp Hồ Chí Minh",2.0,,62.0,Chưa bàn giao,32.26,2.0,1.0,,,,Đông Bắc,Đông Bắc,, Quận Bình Thạnh
+744,"Số 685, Âu Cơ, Phường Tân Thành, Quận Tân Phú, Tp Hồ Chí Minh",2.75,Oriental Plaza (Âu Cơ Tower),77.0,Đã bàn giao,35.71,2.0,2.0,,Đã có sổ,Nội thất cao cấp,,,, Quận Tân Phú
+745,"Đường Nam Hòa, Phường Phước Long A (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.9,,86.0,Đã bàn giao,22.09,2.0,,11.0,,Nội thất đầy đủ,,,, Thành phố Thủ Đức
+746,"Đường Đại Lộ Đông Tây, Phường 16, Quận 8, Tp Hồ Chí Minh",2.25,Carina Plaza,105.0,Đã bàn giao,21.43,2.0,2.0,,,,Nam,Bắc,, Quận 8
+747,"595, Đường Cách Mạng Tháng 8, Phường 15, Quận 10, Tp Hồ Chí Minh",1.95,,43.0,Đã bàn giao,45.35,2.0,1.0,2.0,,,,,, Quận 10
+748,"Đường Vành Đai 2, Phường Trường Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.2,,73.0,Chưa bàn giao,30.14,2.0,2.0,,,,,,, Thành phố Thủ Đức
+749,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",62.0,Vinhomes Grand Park,398.0,Chưa bàn giao,155.78,4.0,,,,,,,, Thành phố Thủ Đức
+750,"Đồng Văn Cống, Phường Thạnh Mỹ Lợi (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.12,Vista Verde,83.0,Đã bàn giao,25.54,2.0,2.0,,Đã có sổ,,,,, Thành phố Thủ Đức
+751,"961, 961 Đường Hậu Giang, Phường 11, Quận 6, Tp Hồ Chí Minh",5.0,An Phú Apartment,153.0,Đã bàn giao,32.68,3.0,3.0,18.0,,,,Tây Bắc,, Quận 6
+752,"Nguyễn Văn Linh, Xã Bình Hưng, Huyện Bình Chánh, Tp Hồ Chí Minh",3.4,Mizuki Park,86.0,Đã bàn giao,39.53,3.0,,,,,,,, Huyện Bình Chánh
+753,"Số 114, An Dương Vương, Phường 16, Quận 8, Tp Hồ Chí Minh",0.888,The Avila,52.0,Đã bàn giao,17.08,1.0,1.0,,Đã có sổ,,,,, Quận 8
+754,"Đường Nguyễn Văn Linh, Phường Tân Thuận Tây,  Quận 7, Hồ Chí Minh, Phường Tân Thuận Tây, Quận 7, Tp Hồ Chí Minh",3.9,Eco Green Sài Gòn,72.0,Đã bàn giao,54.17,2.0,2.0,,,,,,Căn góc, Quận 7
+755,"Võ Văn Kiệt, Phường 16, Quận 8, Tp Hồ Chí Minh",2.5,City Gate Towers,92.0,Đã bàn giao,27.17,3.0,2.0,,,Nhà trống,,,Căn góc, Quận 8
+756,"Phạm Văn Đồng, Phường Linh Tây (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.0,Flora Novia,57.0,Đã bàn giao,35.09,2.0,2.0,,,,,,, Thành phố Thủ Đức
+757,"Tô Hiệu, Phường Hiệp Tân, Quận Tân Phú, Tp Hồ Chí Minh",1.4,,50.0,Đã bàn giao,28.0,1.0,,,Đang chờ sổ,,,,, Quận Tân Phú
+758,"68 Phạm Văn Nghị, Phường Tân Phong, Quận 7, Hồ Chí Minh, Phường Tân Phong, Quận 7, Tp Hồ Chí Minh",2.6,Sky Garden 3,57.0,Đã bàn giao,45.61,2.0,1.0,,Đã có sổ,Nội thất cao cấp,,,, Quận 7
+759,"Song Hành, Thị trấn Hóc Môn, Huyện Hóc Môn, Tp Hồ Chí Minh",2.28,,53.43,Chưa bàn giao,42.67,2.0,2.0,,,,,,, Huyện Hóc Môn
+760,"Đường Phạm Hữu Lầu, Phường Phú Mỹ, Quận 7, Hồ Chí Minh, Phường Phú Mỹ, Quận 7, Tp Hồ Chí Minh",2.26,Belleza Apartment,76.0,Đã bàn giao,29.74,2.0,2.0,,,,Nam,Bắc,, Quận 7
+761,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",2.35,Saigon Riverside Complex Q7,68.0,Chưa bàn giao,34.56,2.0,2.0,,,,,,, Quận 7
+762,"Nguyễn Văn Linh, Xã An Phú Tây, Huyện Bình Chánh, Tp Hồ Chí Minh",1.2,HQC Plaza,70.0,Đã bàn giao,17.14,2.0,,8.0,,,,,Căn góc, Huyện Bình Chánh
+763,"Hoàng Quốc Việt, Phường Phú Mỹ, Quận 7, Tp Hồ Chí Minh",1.83,River Panorama (The Garden Bay),65.0,Đã bàn giao,28.15,2.0,2.0,,Đã có sổ,,,,, Quận 7
+764,"Mai Chí Thọ, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.9,Lexington Residence,48.0,Đã bàn giao,39.58,1.0,1.0,,,,,,, Thành phố Thủ Đức
+765,"Phạm Văn Đồng, Phường Linh Tây (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.22,Flora Novia,56.0,Đã bàn giao,39.64,2.0,1.0,,,,Đông Bắc,Đông Nam,, Thành phố Thủ Đức
+766,"Tạ Quang Bửu, Phường 6, Quận 8, Tp Hồ Chí Minh",3.4,The Pegasuite,92.0,Đã bàn giao,36.96,3.0,2.0,,,,,,, Quận 8
+767,"830, Võ Văn Kiệt, Phường 5, Quận 5, Tp Hồ Chí Minh",1.479000009,,42.4,Đã bàn giao,34.88,1.0,1.0,1.0,Đã có sổ,,,,, Quận 5
+768,"Tô Hiến Thành, Phường 14, Quận 10, Tp Hồ Chí Minh",1.03,,50.0,Đã bàn giao,20.6,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận 10
+769,"Tôn Thất Thuyết, Phường 1, Quận 4, Tp Hồ Chí Minh",1.45,Chung cư Tôn Thất Thuyết,63.0,Đã bàn giao,23.02,2.0,2.0,,Đã có sổ,,,,, Quận 4
+770,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.98,Vinhomes Grand Park,47.0,Đã bàn giao,42.13,1.0,1.0,,,,,,, Thành phố Thủ Đức
+771,"47, Tân Thới Hòa, Phường Tân Thới Hòa, Quận Tân Phú, Tp Hồ Chí Minh",3.1,Carillon 7,77.0,Đã bàn giao,40.26,2.0,2.0,,,,,,, Quận Tân Phú
+772,"Đường Tô Ký, Phường Trung Mỹ Tây, Quận 12, Tp Hồ Chí Minh",1.8,,51.0,Đã bàn giao,35.29,2.0,1.0,,Đã có sổ,,,,, Quận 12
+773,"334, Tô Hiến Thành, Phường 14, Quận 10, Tp Hồ Chí Minh",4.85,Kingdom 101,73.0,Đã bàn giao,66.44,2.0,2.0,,Đang chờ sổ,,,,, Quận 10
+774,"436, Đường Lê Văn Khương, Phường Thới An, Quận 12, Tp Hồ Chí Minh",2.1,Hiệp Thành Building,86.0,Đã bàn giao,24.42,2.0,2.0,,,,Bắc,,, Quận 12
+775,"Tạ Quang Bửu, Phường 6, Quận 8, Tp Hồ Chí Minh",2.9,The Pegasuite,75.0,Đã bàn giao,38.67,2.0,2.0,,,,,,, Quận 8
+776,"Đào Trinh Nhất, Phường Linh Tây (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.05,Căn hộ Linh Tây Tower,66.0,Chưa bàn giao,31.06,2.0,2.0,,,,,,, Thành phố Thủ Đức
+777,"Số 34-35, Bến Vân Đồn, Phường 13, Quận 4, Tp Hồ Chí Minh",1.61,Saigon Royal Residence,70.0,Đã bàn giao,23.0,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận 4
+778,"Đường Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.19,Vinhomes Grand Park,50.0,Đã bàn giao,23.8,1.0,1.0,,Đã có sổ,Nội thất đầy đủ,,,, Thành phố Thủ Đức
+779,"Võ Văn Kiệt, Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh",2.8,Akari City,75.0,Đã bàn giao,37.33,2.0,2.0,,,,,,, Quận Bình Tân
+780,"Đường Lương Minh Nguyệt, Phường Tân Thới Hòa, Quận Tân Phú, Tp Hồ Chí Minh",2.75,,66.0,Chưa bàn giao,41.67,2.0,1.0,,Đã có sổ,,Đông Nam,,, Quận Tân Phú
+781,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",2.5,Saigon Riverside Complex Q7,69.0,Đã bàn giao,36.23,2.0,2.0,,Giấy tờ khác,Nhà trống,,,, Quận 7
+782,"Đường 4, Phường Trường Thọ, Thành phố Thủ Đức, Hồ Chí Minh, Phường Trường Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.299999,Moonlight Avenue,52.0,Chưa bàn giao,44.23,1.0,1.0,,,,,,, Thành phố Thủ Đức
+783,"Đường Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.6,Vinhomes Grand Park,68.0,Đã bàn giao,38.24,2.0,2.0,16.0,,,,Tây Bắc,, Thành phố Thủ Đức
+784,"961, hau giang p11 q 6, Phường 11, Quận 6, Tp Hồ Chí Minh",1.8,,48.0,Đã bàn giao,37.5,1.0,1.0,18.0,,,,Bắc,, Quận 6
+785,"Đường 3 Tháng 2, Phường 14, Quận 10, Tp Hồ Chí Minh",4.0,,87.0,Chưa bàn giao,45.98,2.0,2.0,6.0,Đã có sổ,,,,, Quận 10
+786,"102, Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Tp Hồ Chí Minh",1.75,Topaz Home,53.0,Đã bàn giao,33.02,2.0,2.0,,,,,,, Quận 12
+787,"Tạ Quang Bửu, Phường 6, Quận 8, Tp Hồ Chí Minh",2.6,The Pegasuite,60.0,Đã bàn giao,43.33,2.0,1.0,,,,,,, Quận 8
+788,"47, Tân Thới Hòa, Phường Tân Thới Hòa, Quận Tân Phú, Tp Hồ Chí Minh",2.95,Carillon 7,72.0,Đã bàn giao,40.97,2.0,2.0,,,,,,, Quận Tân Phú
+789,"Đường Vườn Lài, Phường An Phú Đông, Quận 12, Tp Hồ Chí Minh",10.6,,140.0,Chưa bàn giao,75.71,10.0,6.0,,Đã có sổ,Nội thất cao cấp,,,, Quận 12
+790,"Hồ Học Lãm, Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh",1.39,EHome 3,50.0,Đã bàn giao,27.8,1.0,1.0,,,,,,, Quận Bình Tân
+791,"Nguyễn Văn Linh, Phường Tân Thuận Tây, Quận 7, Tp Hồ Chí Minh",8.0,Eco Green Sài Gòn,158.0,Chưa bàn giao,50.63,3.0,2.0,,,,,,, Quận 7
+792,"Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Tp Hồ Chí Minh",1.7,Prosper Plaza,50.0,Đã bàn giao,34.0,2.0,2.0,,,,,,, Quận 12
+793,"2A, đường số 3A, Phường Tân Tạo A, Quận Bình Tân, Tp Hồ Chí Minh",1.6,,60.0,Đã bàn giao,26.67,2.0,1.0,10.0,,,,,, Quận Bình Tân
+794,"Xa Lộ Hà Nội, Phường Thảo Điền (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",5.35,Masteri Thảo Điền,68.0,Đã bàn giao,78.68,2.0,,,,,,,, Thành phố Thủ Đức
+795,"Phan Xich Long, Phường 7, Quận Phú Nhuận, Tp Hồ Chí Minh",3.08,Chung cư Nhiêu Tứ,52.0,Đã bàn giao,59.23,1.0,,,Đã có sổ,Nội thất cao cấp,,,, Quận Phú Nhuận
+796,"Đường Nguyễn Cửu Phú, Phường Tân Tạo A, Quận Bình Tân, Tp Hồ Chí Minh",3.35,,172.0,Đã bàn giao,19.48,3.0,3.0,21.0,,,,,Căn góc, Quận Bình Tân
+797,"27, Trịnh Đình Thảo, Phường Hòa Thạnh, Quận Tân Phú, Tp Hồ Chí Minh",2.65,Carillon 2,80.0,Đã bàn giao,33.13,2.0,,,Đã có sổ,,,,, Quận Tân Phú
+798,"17, Phường Hiệp Bình Chánh (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.78,4S Riverside Garden Bình Triệu,90.0,Đã bàn giao,42.0,2.0,2.0,5.0,,,,Bắc,, Thành phố Thủ Đức
+799,"Huỳnh Văn Chính, Phường Phú Trung, Quận Tân Phú, Tp Hồ Chí Minh",2.0,,65.0,Đã bàn giao,30.77,2.0,2.0,3.0,,,,,, Quận Tân Phú
+800,"66, Phường Thảo Điền (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.075,Tropic Garden,65.0,Đã bàn giao,31.92,2.0,2.0,,Đã có sổ,,,,, Thành phố Thủ Đức
+801,"Đường Cao Lỗ, Phường 4, Quận 8, Tp Hồ Chí Minh",2.45,,75.0,Đã bàn giao,32.67,2.0,,,,,,,, Quận 8
+802,"Đường Nguyễn Cửu Phú, Phường Tân Tạo, Quận Bình Tân, Tp Hồ Chí Minh",1.8,Tecco Town Bình Tân,63.0,Đã bàn giao,28.57,2.0,2.0,,,,,,, Quận Bình Tân
+803,"341, Cao Đạt, Phường 1, Quận 5, Tp Hồ Chí Minh",2.7,Chung cư Phúc Thịnh,68.0,Đã bàn giao,39.71,2.0,1.0,,,,,,, Quận 5
+804,"7A, Thoại Ngọc Hầu, Phường Hòa Thạnh, Quận Tân Phú, Tp Hồ Chí Minh",1.35,ResGreen Tower,71.0,Đã bàn giao,19.01,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận Tân Phú
+805,"Nguyễn Hữu Thọ, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",1.92,Sunrise CityView,84.0,Đã bàn giao,22.86,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận 7
+806,"Nguyễn Thị Định, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.5,Precia,77.0,Đã bàn giao,45.45,2.0,2.0,,,,,,, Thành phố Thủ Đức
+807,"47, Tân Thới Hòa, Phường Tân Thới Hòa, Quận Tân Phú, Tp Hồ Chí Minh",11.8,Carillon 7,170.0,Chưa bàn giao,69.41,4.0,4.0,1.0,,,,Tây Nam,, Quận Tân Phú
+808,"Song Hành, Thị trấn Hóc Môn, Huyện Hóc Môn, Tp Hồ Chí Minh",2.275,,53.0,Chưa bàn giao,42.92,2.0,1.0,11.0,,,,,, Huyện Hóc Môn
+809,"196, Cao Lỗ, Phường 4, Quận 8, Tp Hồ Chí Minh",2.587,Topaz Elite,85.0,Đã bàn giao,30.44,3.0,2.0,,,,,,, Quận 8
+810,"Đường 3 Tháng 2, Phường 12, Quận 10, Tp Hồ Chí Minh",1.36,,62.0,Đã bàn giao,21.94,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận 10
+811,"Đường Mai Chí Thọ, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.58,,68.0,Đã bàn giao,23.24,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Thành phố Thủ Đức
+812,"Đường Bến Vân Đồn, Phường 13, Quận 4, Tp Hồ Chí Minh",1.63,,72.0,Đã bàn giao,22.64,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận 4
+813,"Nguyễn văn linh, Xã An Phú Tây, Huyện Bình Chánh, Tp Hồ Chí Minh",1.2,,62.0,Đã bàn giao,19.35,2.0,2.0,,Đã có sổ,Nhà trống,,,, Huyện Bình Chánh
+814,"16, Âu Cơ, Phường Tân Sơn Nhì, Quận Tân Phú, Tp Hồ Chí Minh",1.62,Melody Residences,81.0,Đã bàn giao,20.0,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận Tân Phú
+815,"Hẻm 505, Đường Nguyễn Oanh, Phường 17, Quận Gò Vấp, TP Hồ Chí Minh., Phường 17, Quận Gò Vấp, Tp Hồ Chí Minh",2.15,An Lộc Quận Gò Vấp,65.0,Đã bàn giao,33.08,2.0,1.0,,Đã có sổ,Nhà trống,,,, Quận Gò Vấp
+816,"334, Tô Hiến Thành, Phường 14, Quận 10, Tp Hồ Chí Minh",3.55,Kingdom 101,50.0,Đã bàn giao,71.0,1.0,1.0,,Đang chờ sổ,Nhà trống,,,, Quận 10
+817,"334, 334 334 Tô Hiến Thành, phường 14, quận 10, Tp.HCM, Phường 14, Quận 10, Tp Hồ Chí Minh",5.8,Kingdom 101,78.0,Chưa bàn giao,74.36,2.0,2.0,,,,,,, Quận 10
+818,"Khu dân cư 13C, Nguyễn Văn Linh, Xã Phong Phú, Huyện Bình Chánh, Tp Hồ Chí Minh",1.65,Calla Garden (Aview 2),54.0,Đã bàn giao,30.56,1.0,1.0,,,,Tây Nam,Tây Bắc,, Huyện Bình Chánh
+819,"Xa Lộ Đại Hàn, Phường Tam Bình (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.08,Lotus Sen Hồng ( Violet Tower ),38.1,Đã bàn giao,28.35,1.0,1.0,6.0,,,,Tây Nam,, Thành phố Thủ Đức
+820,"195, Cao Lỗ, Phường 4, Quận 8, Tp Hồ Chí Minh",2.05,Topaz City,73.0,Đã bàn giao,28.08,2.0,2.0,,,,,,, Quận 8
+821,"50, Phan Văn Khỏe, Phường 2, Quận 6, Tp Hồ Chí Minh",1.46,Lucky Palace,76.0,Đã bàn giao,19.21,2.0,2.0,9.0,,,Đông Nam,Tây Bắc,, Quận 6
+822,"Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Tp Hồ Chí Minh",1.8,Tecco Green Nest,58.0,Đã bàn giao,31.03,2.0,,,,,,,, Quận 12
+823,"số 88, N1, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",1.7,Celadon City,66.0,Đã bàn giao,25.76,2.0,1.0,,,,,,, Quận Tân Phú
+824,"Đường 30, Phường Linh Đông, Quận Thủ Đức, Thành phố Hồ Chí Minh, Phường Linh Đông (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.0,4S Riverside Linh Đông,72.0,Đã bàn giao,27.78,2.0,2.0,16.0,,,,,, Thành phố Thủ Đức
+825,"Đường Lý Thường Kiệt, Phường 14, Quận 10, Tp Hồ Chí Minh",2.35,Xi Grand Court,70.0,Chưa bàn giao,33.57,2.0,2.0,8.0,Đã có sổ,,,,, Quận 10
+826,"239 – 241 – 278, Hòa Bình, Phường Hiệp Tân, Quận Tân Phú, Tp Hồ Chí Minh",1.39,Căn hộ RichStar,78.0,Đã bàn giao,17.82,2.0,2.0,9.0,,,,Tây Bắc,, Quận Tân Phú
+827,"Đường Tô Ngọc Vân, Phường Tam Bình (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.0,,53.0,Chưa bàn giao,37.74,2.0,2.0,,,,,,, Thành phố Thủ Đức
+828,"Đường Xa Lộ Hà Nội, Phường Thảo Điền, Quận 2, Hồ Chí Minh, Phường Thảo Điền (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.45,Masteri Thảo Điền,72.0,Đã bàn giao,20.14,2.0,2.0,,,,,,, Thành phố Thủ Đức
+829,"290, 290 Số 290 Đường An Dương Vương, Phường 4, Quận 5, Thành phố Hồ Chí Minh, Phường 4, Quận 5, Tp Hồ Chí Minh",1.745,The Everrich Infinity,105.0,Đã bàn giao,16.62,3.0,2.0,,,,,,, Quận 5
+830,"Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",9.5,Saigon Pearl,141.0,Đã bàn giao,67.38,3.0,,9.0,,,Đông Nam,Đông Bắc,, Quận Bình Thạnh
+831,"Trường Lưu, Phường Long Trường (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.248,MT Eastmark City,73.0,Chưa bàn giao,44.49,2.0,,,,,,,, Thành phố Thủ Đức
+832,"Đường Số 11, Phường Trường Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.0,,73.0,Chưa bàn giao,27.4,2.0,2.0,,,,,,, Thành phố Thủ Đức
+833,"Võ Văn Kiệt, Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh",2.736,Akari City,75.0,Đã bàn giao,36.48,2.0,2.0,,,,,,, Quận Bình Tân
+834,"Phan Văn Trị, Phường 7, Quận Gò Vấp, Tp Hồ Chí Minh",3.4,,90.0,Đã bàn giao,37.78,3.0,2.0,,,,,,Căn góc, Quận Gò Vấp
+835,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",2.3,Saigon Riverside Complex Q7,73.0,Đã bàn giao,31.51,2.0,,,,,,,, Quận 7
+836,"208, Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",5.5,Vinhomes Central Park,85.0,Đã bàn giao,64.71,2.0,2.0,,,,,,, Quận Bình Thạnh
+837,"113/89, 113/89 113/89 An Dương Vương, P.An Lạc, Q.Bình Tân, TP. Hồ Chí Minh., Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh",1.97,Chung cư Lê Thành,83.0,Đã bàn giao,23.73,2.0,2.0,7.0,,,,Nam,, Quận Bình Tân
+838,"Nguyễn Văn Linh, Phường Tân Phong, Quận 7, Tp Hồ Chí Minh",3.6,Lavida Plus,96.0,Đã bàn giao,37.5,3.0,2.0,,,,,,, Quận 7
+839,"117/80, Hẻm 117 Đường Hồ Văn Long, Phường Tân Tạo, Quận Bình Tân, Tp Hồ Chí Minh",0.59,,38.2,Đã bàn giao,15.45,1.0,1.0,,,,Đông Nam,Tây Bắc,, Quận Bình Tân
+840,"239 – 241 – 278, 239 – 241 – 278  239 – 241 – 278 Đường Hòa Bình, Phường Hiệp Tân, Tân Phú, Hồ Chí Minh, Phường Hiệp Tân, Quận Tân Phú, Tp Hồ Chí Minh",1.765,Căn hộ RichStar,85.0,Đã bàn giao,20.76,3.0,2.0,,,,,,, Quận Tân Phú
+841,"Số 34-35, Bến Vân Đồn, Phường 13, Quận 4, Tp Hồ Chí Minh",1.655,Saigon Royal Residence,70.0,Đã bàn giao,23.64,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận 4
+842,"37, 37 Đường Huỳnh Thiện Lộc, Phường Hòa Thạnh, Quận Tân Phú, Tp Hồ Chí Minh",2.3,Chung cư Khang Phú,79.0,Đã bàn giao,29.11,2.0,2.0,,,,Tây Bắc,Đông Nam,, Quận Tân Phú
+843,"9, Nguyễn Khoái, Phường 1, Quận 4, Tp Hồ Chí Minh",2.8,,50.0,Chưa bàn giao,56.0,1.0,1.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận 4
+844,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",0.855,Vinhomes Grand Park,69.0,Đã bàn giao,12.39,2.0,2.0,,,,Đông Bắc,Tây Nam,, Thành phố Thủ Đức
+845,"Trường Lưu, Phường Long Trường (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.8,MT Eastmark City,65.0,Chưa bàn giao,43.08,1.0,1.0,,,,,,, Thành phố Thủ Đức
+846,"Lương Định Của, Phường An Khánh (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",6.0,Paris Hoàng Kim,69.1,Đã bàn giao,86.83,2.0,,,,,,,, Thành phố Thủ Đức
+847,"Số 4, Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",1.9,Saigon Riverside Complex Q7,53.0,Đã bàn giao,35.85,1.0,1.0,,,,,,, Quận 7
+848,"20, Phường Hiệp Bình Chánh (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.05,Opal Garden,68.0,Đã bàn giao,44.85,2.0,2.0,6.0,,,,Đông Nam,, Thành phố Thủ Đức
+849,"Nguyễn Thị Định, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",4.4,Precia,71.0,Đã bàn giao,61.97,2.0,2.0,19.0,,,Đông Nam,Tây Nam,, Thành phố Thủ Đức
+850,"Thành Thái, Phường 14, Quận 10, Tp Hồ Chí Minh",5.1,Rivera Park Sài Gòn,87.0,Đã bàn giao,58.62,2.0,2.0,,,,,,, Quận 10
+851,"Tây Thạnh, Phường Tây Thạnh, Quận Tân Phú, Tp Hồ Chí Minh",2.4,Chung cư Tây Thạnh,79.0,Đã bàn giao,30.38,2.0,2.0,,,,,,Căn góc, Quận Tân Phú
+852,"Tô Hiến Thành, Phường 14, Quận 10, Tp Hồ Chí Minh",1.8,,50.0,Chưa bàn giao,36.0,1.0,1.0,12.0,Đã có sổ,,,,, Quận 10
+853,"Hẻm 505, Đường Nguyễn Oanh, Phường 17, Quận Gò Vấp, TP Hồ Chí Minh., Phường 17, Quận Gò Vấp, Tp Hồ Chí Minh",2.8,An Lộc Quận Gò Vấp,96.0,Đã bàn giao,29.17,3.0,2.0,,,Nội thất đầy đủ,,,, Quận Gò Vấp
+854,"Số 2225, Phạm Thế Hiển, Phường 6, Quận 8, Tp Hồ Chí Minh",6.4,Green River - Quận 8,151.0,Đã bàn giao,42.38,2.0,2.0,,,Nội thất đầy đủ,,,, Quận 8
+855,"900, Quốc Lộ 1A, Phường Tân Tạo, Quận Bình Tân, Tp Hồ Chí Minh",1.3,Khu căn hộ Tân Mai,50.0,Đã bàn giao,26.0,1.0,1.0,,Đã có sổ,Nhà trống,,,, Quận Bình Tân
+856,"Nguyễn Đức Thuận, Phường 13, Quận Tân Bình, Tp Hồ Chí Minh",0.9984,Diyas Sky,30.0,Đã bàn giao,33.28,1.0,1.0,,,,,,, Quận Tân Bình
+857,"16, Đường Nguyễn Đức Thuận, Phường 13, Quận Tân Bình, Tp Hồ Chí Minh",0.92,,30.0,Đã bàn giao,30.67,1.0,,,,,,,, Quận Tân Bình
+858,"Võ Văn Kiệt, Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh",3.75,Akari City,97.0,Đã bàn giao,38.66,3.0,2.0,,,,,,Căn góc, Quận Bình Tân
+859,"Phú Thuận, Phường Tân Phú, Quận 7, Tp Hồ Chí Minh",3.0,Sunshine City Sài Gòn,69.0,Đã bàn giao,43.48,2.0,2.0,,,,,,, Quận 7
+860,"856, Tạ Quang Bửu, Phường 5, Quận 8, Tp Hồ Chí Minh",5.05,,150.0,Đã bàn giao,33.67,3.0,2.0,24.0,,,,Đông Bắc,, Quận 8
+861,"Trường Lưu, Phường Long Trường (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.982933916,MT Eastmark City,95.7,Chưa bàn giao,41.62,3.0,,,,,,,, Thành phố Thủ Đức
+862,"151, Bến Vân Đồn, Phường 6, Quận 4, Tp Hồ Chí Minh",1.9,River Gate,26.0,Đã bàn giao,73.08,1.0,1.0,,,,,,, Quận 4
+863,"Số 29, Hòa Hảo, Phường 2, Quận 10, Tp Hồ Chí Minh",3.4,Cao Ốc B Ngô Gia Tự,74.0,Đã bàn giao,45.95,2.0,2.0,14.0,,,,,, Quận 10
+864,"Nguyễn Thị Định, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.7,Centana Thủ Thiêm,88.0,Đã bàn giao,42.05,3.0,2.0,,Đã có sổ,,Đông Nam,,, Thành phố Thủ Đức
+865,"117/80, Đường Hồ Văn Long, Phường Tân Tạo, Quận Bình Tân, Tp Hồ Chí Minh",0.63,,36.5,Chưa bàn giao,17.26,1.0,1.0,,,,Đông Nam,Tây Bắc,, Quận Bình Tân
+866,"An Phú Tây, Xã An Phú Tây, Huyện Bình Chánh, Tp Hồ Chí Minh",0.92,HQC An Phú Tây,55.0,Đã bàn giao,16.73,2.0,2.0,,Đã có sổ,,Đông Bắc,,, Huyện Bình Chánh
+867,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.3,Vinhomes Grand Park,81.0,Đã bàn giao,28.4,3.0,,,Đang chờ sổ,Nội thất cao cấp,,,, Thành phố Thủ Đức
+868,"Trường Lưu, Phường Long Trường (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.6,MT Eastmark City,63.4,Chưa bàn giao,41.01,2.0,1.0,,,,,,, Thành phố Thủ Đức
+869,"7/28, Thành Thái, Phường 14, Quận 10, Tp Hồ Chí Minh",2.06,Rivera Park Sài Gòn,65.0,Đã bàn giao,31.69,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận 10
+870,"Đường Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.75,Vinhomes Grand Park,47.0,Đã bàn giao,37.23,1.0,1.0,,,,Đông Nam,Tây Bắc,, Thành phố Thủ Đức
+871,"Dương Quảng Hàm, Phường 7, Quận Gò Vấp, Tp Hồ Chí Minh",1.8,,100.0,Đã bàn giao,18.0,3.0,2.0,,,Nhà trống,,,, Quận Gò Vấp
+872,"Nguyễn Thị Định, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.65,Căn hộ D’Lusso,71.0,Đã bàn giao,51.41,2.0,2.0,,Đã có sổ,,Đông Nam,,, Thành phố Thủ Đức
+873,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.3,Vinhomes Grand Park,31.0,Đã bàn giao,41.94,1.0,1.0,,Giấy tờ khác,,,,, Thành phố Thủ Đức
+874,"239 – 241 – 278, Hòa Bình, Phường Hiệp Tân, Quận Tân Phú, Tp Hồ Chí Minh",2.55,Căn hộ RichStar,65.0,Đã bàn giao,39.23,2.0,2.0,5.0,,,,,, Quận Tân Phú
+875,"208, Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",6.2,Vinhomes Central Park,83.0,Đã bàn giao,74.7,2.0,2.0,18.0,,,,,, Quận Bình Thạnh
+876,"DC13, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",2.1,TaniBuilding Sơn Kỳ 1,53.0,Đã bàn giao,39.62,2.0,1.0,,Đã có sổ,,,,, Quận Tân Phú
+877,"334, 334 334 Tô Hiến Thành, phường 14, quận 10, Tp.HCM, Phường 14, Quận 10, Tp Hồ Chí Minh",3.8,Kingdom 101,50.0,Chưa bàn giao,76.0,1.0,1.0,,,,,,, Quận 10
+878,"Nguyễn Thị Định, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.7,Precia,51.0,Đã bàn giao,52.94,1.0,1.0,,Đã có sổ,,Đông Nam,,, Thành phố Thủ Đức
+879,"Trương Vĩnh Ký, Phường Tân Sơn Nhì, Quận Tân Phú, Tp Hồ Chí Minh",2.25,Chung cư Gò Dầu 2,74.0,Đã bàn giao,30.41,3.0,2.0,,,,Đông Bắc,Tây Bắc,, Quận Tân Phú
+880,"Khu đô thị Cityland Park Hills - Số 18, Phan Văn Trị, Phường 10, Quận Gò Vấp, Tp Hồ Chí Minh",2.08,Căn hộ Cityland Parkhill Gò Vấp,50.0,Đã bàn giao,41.6,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận Gò Vấp
+881,"Đường Lê Thị Riêng, Phường Thới An, Quận 12, Tp Hồ Chí Minh",2.5,,80.4,Chưa bàn giao,31.09,3.0,2.0,6.0,Đã có sổ,,,,, Quận 12
+882,"387A, Lê Văn Khương, Phường Thới An, Quận 12, Tp Hồ Chí Minh",1.7,Hiệp Thành Building,75.0,Đã bàn giao,22.67,2.0,2.0,5.0,,,,Tây Bắc,, Quận 12
+883,"số 32, Phước Long A, Phường Phước Long A (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.8,Him Lam Phú An,70.0,Đã bàn giao,40.0,2.0,2.0,,,,,Đông Nam,, Thành phố Thủ Đức
+884,"16, Âu Cơ, Phường Tân Sơn Nhì, Quận Tân Phú, Tp Hồ Chí Minh",1.697,Melody Residences,69.0,Đã bàn giao,24.59,2.0,2.0,,Đã có sổ,Nhà trống,,,, Quận Tân Phú
+885,"Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Tp Hồ Chí Minh",1.58,Prosper Plaza,65.0,Đã bàn giao,24.31,2.0,2.0,,Đã có sổ,Nhà trống,,,, Quận 12
+886,"523A, Đỗ Xuân Hợp, Phường Phước Long B (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.715,The Art,70.0,Đã bàn giao,24.5,2.0,2.0,,Đã có sổ,Nhà trống,,,, Thành phố Thủ Đức
+887,"Hồng Lạc, Phường 10, Quận Tân Bình, Tp Hồ Chí Minh",1.605,Bàu Cát 2,70.0,Đã bàn giao,22.93,2.0,2.0,,Đã có sổ,Nhà trống,,,, Quận Tân Bình
+888,"70, Lữ Gia, Phường 15, Quận 11, Tp Hồ Chí Minh",1.889,Lữ Gia Plaza,100.0,Đã bàn giao,18.89,3.0,2.0,,,Nhà trống,,,, Quận 11
+889,"192, An Dương Vương, Phường 16, Quận 8, Tp Hồ Chí Minh",1.5,Heaven Riverview (Heaven CityView),52.0,Chưa bàn giao,28.85,1.0,1.0,13.0,,,,Bắc,, Quận 8
+890,"Đường Nguyễn Lương Bằng, Phường Tân Phong, Quận 7, Tp Hồ Chí Minh",9.2,,120.0,Đã bàn giao,76.67,3.0,3.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận 7
+891,"Võ Chí Công, Phường Phú Hữu (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.9,Safira Khang Điền (Sapphire Khang Điền),67.0,Đã bàn giao,28.36,2.0,2.0,,Đã có sổ,Nội thất cao cấp,,,, Thành phố Thủ Đức
+892,"Số 9A, đường Thạnh Xuân 13, phường Thạnh Xuân, Quận 12, TP.HCM, Phường Thạnh Xuân, Quận 12, Tp Hồ Chí Minh",2.088,PiCity High Park,58.0,Đã bàn giao,36.0,2.0,1.0,,,,,,, Quận 12
+893,"12-08, Đường 59, Phường 14, Quận Gò Vấp, Tp Hồ Chí Minh",2.3,,62.0,Đã bàn giao,37.1,2.0,2.0,12.0,,,,Đông Nam,, Quận Gò Vấp
+894,"Đường Tân Sơn Nhì, Phường Tân Sơn Nhì, Quận Tân Phú, Tp Hồ Chí Minh",1.8,,64.0,Đã bàn giao,28.13,2.0,2.0,,Đã có sổ,,Tây,,, Quận Tân Phú
+895,"Nguyễn Văn Linh, Xã Bình Hưng, Huyện Bình Chánh, Tp Hồ Chí Minh",2.3,Mizuki Park,56.0,Đã bàn giao,41.07,2.0,1.0,,,,Tây Bắc,Đông Nam,, Huyện Bình Chánh
+896,"Lô 5, Bình Hưng Hòa B, Phường Bình Hưng Hoà B, Quận Bình Tân, Tp Hồ Chí Minh",1.4,Green Town Bình Tân,49.0,Đã bàn giao,28.57,1.0,1.0,,Đã có sổ,,,,, Quận Bình Tân
+897,"117/80, Đường Hồ Văn Long, Phường Tân Tạo, Quận Bình Tân, Tp Hồ Chí Minh",0.56,,37.5,Chưa bàn giao,14.93,1.0,1.0,,,,Tây Nam,Đông Bắc,, Quận Bình Tân
+898,"Trường Lưu, Phường Long Trường (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",7.387672604,MT Eastmark City,130.0,Chưa bàn giao,56.83,3.0,,,,,,,, Thành phố Thủ Đức
+899,"Trường Lưu, Phường Long Trường (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",5.72472588,MT Eastmark City,135.0,Chưa bàn giao,42.41,3.0,,,,,,,, Thành phố Thủ Đức
+900,"Số 200, 12, Phường 12, Quận 10, Tp Hồ Chí Minh",1.658,Hà Đô Centrosa Garden,70.0,Đã bàn giao,23.69,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận 10
+901,"Tân Chánh Hiệp, Phường Tân Chánh Hiệp, Quận 12, Tp Hồ Chí Minh",1.97,Hưng Ngân Garden,68.0,Đã bàn giao,28.97,2.0,2.0,,Đã có sổ,,,,, Quận 12
+902,"20, Phường Hiệp Bình Chánh (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.24,Opal Garden,80.0,Đã bàn giao,15.5,2.0,2.0,11.0,,,,,, Thành phố Thủ Đức
+903,"Đường Phạm Văn Đồng, Phường Linh Xuân (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",0.95,,60.0,Chưa bàn giao,15.83,2.0,2.0,,Đã có sổ,Nội thất cao cấp,,,, Thành phố Thủ Đức
+904,"Đường Lữ Gia, Phường 15, Quận 11, Tp Hồ Chí Minh",2.85,,65.0,Chưa bàn giao,43.85,2.0,1.0,,,,Bắc,Nam,, Quận 11
+905,"Đường D7, Phường Phú Hữu, Quận 9, Hồ Chí Minh, Phường Phú Hữu (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.8,Ricca,115.0,Đã bàn giao,33.04,2.0,1.0,17.0,,,Đông Bắc,,, Thành phố Thủ Đức
+906,"Lương Định Của, Phường An Khánh (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.4,,105.0,Đã bàn giao,32.38,2.0,3.0,,,,,,, Thành phố Thủ Đức
+907,"135/533, Lê Đức Thọ, Phường 13, Quận Gò Vấp, Tp Hồ Chí Minh",2.3,Dream Home Residence,65.0,Đã bàn giao,35.38,2.0,2.0,15.0,,,,,, Quận Gò Vấp
+908,"Số 383, Bình Trưng Tây, Phường Bình Trưng Tây (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.59,La Astoria,45.0,Đã bàn giao,35.33,1.0,1.0,,,,,,, Thành phố Thủ Đức
+909,"Số 9A, đường Thạnh Xuân 13, phường Thạnh Xuân, Quận 12, TP.HCM, Phường Thạnh Xuân, Quận 12, Tp Hồ Chí Minh",2.49,PiCity High Park,58.0,Chưa bàn giao,42.93,2.0,1.0,7.0,,,,Tây Nam,, Quận 12
+910,"Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.799290396,Vinhomes Grand Park,47.0,Đã bàn giao,38.28,1.0,1.0,9.0,,,Đông Bắc,Tây Nam,, Thành phố Thủ Đức
+911,"Nguyễn Thị Định, Phường An Phú (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",3.6,Căn hộ D’Lusso,69.0,Chưa bàn giao,52.17,2.0,2.0,,,,,,, Thành phố Thủ Đức
+912,"76, Ngô Tất Tố, Phường 19, Quận Bình Thạnh, Tp Hồ Chí Minh",2.75,,66.8,Chưa bàn giao,41.17,2.0,1.0,7.0,,,,,, Quận Bình Thạnh
+913,"Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp Hồ Chí Minh",4.0,,57.0,Đã bàn giao,70.18,1.0,1.0,,,,,,, Quận Bình Thạnh
+914,"Khu số 15A1, Nguyễn Hữu Thọ, Xã Phước Kiển, Huyện Nhà Bè, Tp Hồ Chí Minh",3.2,Dragon Hill Residence And Suites 1,104.0,Đã bàn giao,30.77,3.0,,,,,,,, Huyện Nhà Bè
+915,"Đường Số 35-CL, Phường Cát Lái (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.98,,74.0,Đã bàn giao,26.76,2.0,1.0,2.0,,,,Đông Bắc,, Thành phố Thủ Đức
+916,"Nguyễn Hữu Thọ, Xã Phước Kiển, Huyện Nhà Bè, Tp Hồ Chí Minh",1.84,Hoàng Anh Gold House (Hoàng Anh An Tiến),80.0,Đã bàn giao,23.0,2.0,,,,,,,, Huyện Nhà Bè
+917,"Đào Trí, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",1.73,Jamona City,72.0,Đã bàn giao,24.03,2.0,,,,,,,, Quận 7
+918,"Liên Phường, Phường Phước Long B (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.6,Thủ Thiêm Garden,49.0,Đã bàn giao,32.65,1.0,1.0,16.0,,,,Tây Bắc,, Thành phố Thủ Đức
+919,"307, Nguyễn Duy Trinh, Phường Bình Trưng Tây (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",2.35,Homyland 2,72.0,Chưa bàn giao,32.64,2.0,2.0,,,,Đông,Tây,, Thành phố Thủ Đức
+920,"Liên Phường, Phường Phú Hữu (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.8,The Eastern,59.0,Đã bàn giao,30.51,1.0,1.0,12.0,,,,Tây Nam,, Thành phố Thủ Đức
+921,"2, Trương Đăng Quế, Phường 3, Quận Gò Vấp, Tp Hồ Chí Minh",1.45,Sunny Plaza,86.0,Đã bàn giao,16.86,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận Gò Vấp
+922,"Liên Phường, Phường Phú Hữu (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.15,Sky 9,46.0,Đã bàn giao,25.0,2.0,2.0,12.0,,,,Tây Bắc,, Thành phố Thủ Đức
+923,"Đường Hoàng Quốc Việt, Phường Phú Mỹ, Quận 7, Tp Hồ Chí Minh",1.59,River Panorama (The Garden Bay),64.5,Đã bàn giao,24.65,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Quận 7
+924,"Đường Song Hành, Phường Phú Hữu, Quận 9, TP Hồ Chí Minh, Phường Phú Hữu (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",1.766,Jamila Khang Điền,75.0,Đã bàn giao,23.55,2.0,2.0,,Đã có sổ,Nội thất đầy đủ,,,, Thành phố Thủ Đức
+925,"F6.06, Đường DC8, Phường Sơn Kỳ, Quận Tân Phú, Tp Hồ Chí Minh",2.6,,70.5,Đã bàn giao,36.88,2.0,2.0,6.0,,,Tây,,, Quận Tân Phú
+926,"Tây Thạnh, Phường Tây Thạnh, Quận Tân Phú, Tp Hồ Chí Minh",1.77,Chung cư Tây Thạnh,72.0,Chưa bàn giao,24.58,2.0,2.0,4.0,,,,Tây Nam,, Quận Tân Phú
+927,"Số 510, Kinh Dương Vương, Phường An Lạc A, Quận Bình Tân, Tp Hồ Chí Minh",3.35,Moonlight Boulevard,77.0,Đã bàn giao,43.51,2.0,2.0,16.0,,,Đông Nam,,, Quận Bình Tân
+928,"Bình An, Phường An Khánh (Quận 2 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",65.0,The River Thủ Thiêm,320.0,Chưa bàn giao,0.203125,5.0,,,,,,,, Thành phố Thủ Đức
+929,"Tân Chánh Hiệp, Phường Tân Chánh Hiệp, Quận 12, Tp Hồ Chí Minh",1.688,Hưng Ngân Garden,68.0,Đã bàn giao,24.82,2.0,2.0,,,,,,, Quận 12
+930,"Lý Chiêu Hoàng, Phường 10, Quận 6, Tp Hồ Chí Minh",1.85,The Western Capital,46.0,Đã bàn giao,40.22,2.0,,,,,,,, Quận 6
+931,"Lý Chiêu Hoàng, Phường 10, Quận 6, Tp Hồ Chí Minh",2.4,The Western Capital,72.0,Đã bàn giao,33.33,2.0,,,,,,,, Quận 6
+932,"Lý Chiêu Hoàng, Phường 10, Quận 6, Tp Hồ Chí Minh",1.82,The Western Capital,50.0,Đã bàn giao,36.4,2.0,,,,,,,, Quận 6
